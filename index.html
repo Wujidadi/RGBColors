@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RGB 顏色列表</title>
+    <link rel="stylesheet" href="/libraries/Bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="/libraries/jQueryUI/jquery-ui.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <main>
+        <div id="content" class="main-div">
+            <table id="color-list" v-if="colorData.length > 0" v-cloak>
+                <thead>
+                    <tr>
+                        <th class="color">顏色</th>
+                        <th v-bind:class="columns[0].class" v-on:click="sortData(0)">變數名稱</th>
+                        <th v-bind:class="columns[1].class" v-on:click="sortData(1)">英文名稱</th>
+                        <th v-bind:class="columns[2].class" v-on:click="sortData(2)">中文名稱</th>
+                        <th v-bind:class="columns[3].class" v-on:click="sortData(3)">R</th>
+                        <th v-bind:class="columns[4].class" v-on:click="sortData(4)">G</th>
+                        <th v-bind:class="columns[5].class" v-on:click="sortData(5)">B</th>
+                        <th class="rgb">RGB 色碼</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr v-for="(data, dataIndex) in colorData">
+                        <td class="color color-display" v-bind:style="colorBlock(data)"></td>
+                        <td class="var">{{ data[0] }}</td>
+                        <td class="en">{{ data[1] }}</td>
+                        <td class="ch">{{ data[2] }}</td>
+                        <td class="r">{{ data[3] }}</td>
+                        <td class="g">{{ data[4] }}</td>
+                        <td class="b">{{ data[5] }}</td>
+                        <td class="rgb" v-html="rgbValue(data)"></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </main>
+    <script src="/libraries/jQuery/jQuery.min.js"></script>
+    <script src="/libraries/jQueryUI/jquery-ui.min.js"></script>
+    <script src="/libraries/Popper.js/popper.min.js"></script>
+    <script src="/libraries/Bootstrap/bootstrap.bundle.min.js"></script>
+    <script src="/libraries/Bootstrap/bootstrap.min.js"></script>
+    <script src="/libraries/Vue.js/vue.min.js"></script>
+    <script src="/libraries/Numeral.js/numeral.min.js"></script>
+    <script src="/libraries/Cck.js/prototype.js"></script>
+    <script src="/libraries/Cck.js/timeout.js"></script>
+    <script src="/libraries/Cck.js/cck.min.js"></script>
+    <script src="/js/script.js"></script>
+</body>
+</html>

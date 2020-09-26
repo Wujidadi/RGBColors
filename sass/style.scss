@@ -1,0 +1,92 @@
+@use 'colour';
+
+* {
+    font-family: Helvetica, Arial, "Microsoft YaHei";
+}
+
+body {
+    background-color: colour.$body-background
+}
+
+[v-cloak] {
+    display: none;
+}
+
+#color-list {
+    & {
+        width: 100%;
+        table-layout: fixed;    // 固定首列、首欄時使用
+        border: {
+            collapse: separate;
+            spacing: 0;
+        }
+    }
+
+    &, & th, & td {
+        border: {
+            color: colour.$table-border;
+            style: solid;
+            width: 0.5px;
+        }
+    }
+
+    & th, & td {
+        position: relative;
+        border-collapse: collapse;
+        text-align: center;
+    }
+
+    thead {
+        th {
+            position: sticky;   // 固定首列時使用
+            z-index: 2;         // 固定首列時使用
+            top: 0px;
+            background-color: colour.$thead-background;
+            height: 2.4rem;
+
+            &.sortable {
+                cursor: pointer;
+
+                &:hover {
+                    background-color: darken(colour.$thead-background, 10%);
+                }
+
+                &.asc::after {
+                    content: '▼';
+                    color: #ffc810;
+                    margin-left: 0.25rem;
+                }
+
+                &.desc::after {
+                    content: '▲';
+                    color: #ffc810;
+                    margin-left: 0.25rem;
+                }
+            }
+        }
+    }
+
+    .color {
+        width: 8%;
+    }
+    .var {
+        width: 20%;
+    }
+    .en {
+        width: 20%;
+    }
+    .ch {
+        width: 24%;
+    }
+    .r, .g, .b {
+        width: 4%;
+    }
+    .rgb {
+        width: 16%
+    }
+
+    .color-display {
+        height: 3rem;
+        width: 8rem;
+    }
+}
