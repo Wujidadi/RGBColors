@@ -1,0 +1,3 @@
+AddType application/x-httpd-php .php
+RewriteEngine on
+RewriteRule ^([^\.\/]+)$ $1\.php [NC,L]
