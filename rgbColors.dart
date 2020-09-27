@@ -8,7 +8,7 @@ class RGBColors
     /// 愛麗絲藍
     static RGBColor aliceBlue = RGBColor(r: 240, g: 248, b: 255);
 
-    /// 茜紅
+    /// 茜紅，深茜紅
     static RGBColor alizarinCrimson = RGBColor(r: 227, g: 38, b: 54);
 
     /// 杏仁色，淡黃褐色
@@ -53,10 +53,10 @@ class RGBColors
     /// 水色
     static RGBColor aqua = RGBColor(r: 0, g: 255, b: 255);
 
-    /// 水色
+    /// 水藍色
     static RGBColor aquaBlue = RGBColor(r: 102, g: 255, b: 230);
 
-    /// 碧藍色
+    /// 藍綠色，碧藍色
     static RGBColor aquamarine = RGBColor(r: 127, g: 255, b: 212);
 
     /// 軍綠色
@@ -89,10 +89,10 @@ class RGBColors
     /// 酷炫
     static RGBColor awesome = RGBColor(r: 255, g: 32, b: 82);
 
-    /// 湛藍色
+    /// 蔚藍色，天藍色，湛藍色
     static RGBColor azure = RGBColor(r: 0, g: 127, b: 255);
 
-    /// 湛藍霧色
+    /// 蔚藍霧色
     static RGBColor azureMist = RGBColor(r: 240, g: 255, b: 255);
 
     /// 淺藍色
@@ -215,7 +215,7 @@ class RGBColors
     /// 明蔚藍
     static RGBColor brightCerulean = RGBColor(r: 29, g: 172, b: 214);
 
-    /// 明綠色
+    /// 黃綠色，明綠色
     static RGBColor brightGreen = RGBColor(r: 102, g: 255, b: 0);
 
     /// 明薰衣草色
@@ -392,7 +392,7 @@ class RGBColors
     /// 蔚藍色
     static RGBColor cerulean = RGBColor(r: 0, g: 123, b: 167);
 
-    /// 深蔚藍色
+    /// 天青藍，深蔚藍
     static RGBColor ceruleanBlue = RGBColor(r: 42, g: 82, b: 190);
 
     /// CG 藍色
@@ -599,7 +599,7 @@ class RGBColors
     /// 暗洋紅
     static RGBColor darkMagenta = RGBColor(r: 139, g: 0, b: 139);
 
-    /// 暗礦藍
+    /// 午夜藍，暗礦藍
     static RGBColor darkMidnightBlue = RGBColor(r: 0, g: 51, b: 102);
 
     /// 暗橄欖綠
@@ -716,6 +716,9 @@ class RGBColors
     /// 深綠色
     static RGBColor deepGreen = RGBColor(r: 1, g: 50, b: 32);
 
+    /// 深靛色，藍紫色
+    static RGBColor deepIndigo = RGBColor(r: 138, g: 43, b: 226);
+
     /// 深叢林綠
     static RGBColor deepJungleGreen = RGBColor(r: 0, g: 75, b: 73);
 
@@ -794,7 +797,7 @@ class RGBColors
     /// 電子綠
     static RGBColor electricGreen = RGBColor(r: 0, g: 255, b: 0);
 
-    /// 電子靛
+    /// 螢幕靛
     static RGBColor electricIndigo = RGBColor(r: 111, g: 0, b: 255);
 
     /// 電子薰衣草色
@@ -821,7 +824,7 @@ class RGBColors
     /// 伊頓藍
     static RGBColor etonBlue = RGBColor(r: 150, g: 200, b: 162);
 
-    /// 淡棕色（休耕地色）
+    /// 淡棕色，休耕地色
     static RGBColor fallow = RGBColor(r: 193, g: 154, b: 107);
 
     /// 法魯紅
@@ -836,7 +839,7 @@ class RGBColors
     /// 時尚紫紅色
     static RGBColor fashionFuchsia = RGBColor(r: 244, g: 0, b: 161);
 
-    /// 淺黃褐色（小鹿色）
+    /// 淺黃褐色，小鹿色
     static RGBColor fawn = RGBColor(r: 229, g: 170, b: 112);
 
     /// 田野灰
@@ -923,7 +926,7 @@ class RGBColors
     /// 糊塗紅
     static RGBColor fuzzyWuzzy = RGBColor(r: 204, g: 102, b: 102);
 
-    /// 庚斯博羅灰（亮灰色）
+    /// 庚斯博羅灰，亮灰色
     static RGBColor gainsboro = RGBColor(r: 220, g: 220, b: 220);
 
     /// 藤黃色
@@ -1037,7 +1040,7 @@ class RGBColors
     /// 墨綠色
     static RGBColor hookerGreen = RGBColor(r: 73, g: 121, b: 107);
 
-    /// 蒼色（地平線藍）
+    /// 蒼色，地平線藍
     static RGBColor horizonBlue = RGBColor(r: 184, g: 221, b: 200);
 
     /// 暖洋紅
@@ -1064,10 +1067,13 @@ class RGBColors
     /// 印度黃
     static RGBColor indianYellow = RGBColor(r: 227, g: 168, b: 87);
 
-    /// 靛色
+    /// 靛色，顏料靛
     static RGBColor indigo = RGBColor(r: 75, g: 0, b: 130);
 
-    /// 國際奇連藍
+    /// 靛青染料色
+    static RGBColor indigoDye = RGBColor(r: 17, g: 80, b: 149);
+
+    /// 國際奇連藍，國際克萊因藍
     static RGBColor internationalKleinBlue = RGBColor(r: 0, g: 47, b: 167);
 
     /// 國際橘
@@ -1142,7 +1148,7 @@ class RGBColors
     /// 熔岩色
     static RGBColor lava = RGBColor(r: 207, g: 16, b: 32);
 
-    /// 薰衣草紫
+    /// 薰衣草色
     static RGBColor lavender = RGBColor(r: 230, g: 230, b: 250);
 
     /// 長春花色
@@ -1307,7 +1313,7 @@ class RGBColors
     /// 洋玫瑰紅
     static RGBColor magentaRose = RGBColor(r: 255, g: 13, b: 166);
 
-    /// 墨西哥鼠尾草（魔法薄荷）色
+    /// 魔法薄荷
     static RGBColor magicMint = RGBColor(r: 170, g: 240, b: 209);
 
     /// 淡桃紅色
@@ -1364,7 +1370,7 @@ class RGBColors
     /// 中碧藍色
     static RGBColor mediumAquamarine = RGBColor(r: 102, g: 221, b: 170);
 
-    /// 中藍
+    /// 中藍色
     static RGBColor mediumBlue = RGBColor(r: 0, g: 0, b: 205);
 
     /// 中糖果蘋果紅
@@ -1499,13 +1505,13 @@ class RGBColors
     /// 納皮爾綠
     static RGBColor napierGreen = RGBColor(r: 42, g: 128, b: 0);
 
-    /// 那不勒斯黃（銻黃）
+    /// 那不勒斯黃，銻黃
     static RGBColor naplesYellow = RGBColor(r: 250, g: 218, b: 94);
 
     /// 那瓦霍白
     static RGBColor navajoWhite = RGBColor(r: 255, g: 222, b: 173);
 
-    /// 藏青色（海軍藍）
+    /// 海軍藍，藏青色
     static RGBColor navyBlue = RGBColor(r: 0, g: 0, b: 128);
 
     /// 霓虹胡蘿蔔色
@@ -1577,7 +1583,7 @@ class RGBColors
     /// 橙黃色
     static RGBColor orangeYellow = RGBColor(r: 248, g: 213, b: 104);
 
-    /// 蘭紫色
+    /// 蘭花色，蘭紫色
     static RGBColor orchid = RGBColor(r: 218, g: 112, b: 214);
 
     /// 水獺棕
@@ -1628,7 +1634,7 @@ class RGBColors
     /// 淡矢車菊藍
     static RGBColor paleCornflowerBlue = RGBColor(r: 171, g: 205, b: 239);
 
-    /// 淡丹寧色
+    /// 白牛仔布色，淡丹寧色
     static RGBColor paleDenim = RGBColor(r: 94, g: 134, b: 193);
 
     /// 淡金色
@@ -1967,7 +1973,7 @@ class RGBColors
     /// 皇室天藍色
     static RGBColor royalAzure = RGBColor(r: 0, g: 56, b: 168);
 
-    /// 品藍色（皇室藍）
+    /// 皇室藍，品藍色
     static RGBColor royalBlue = RGBColor(r: 65, g: 105, b: 225);
 
     /// 皇室品紅色
@@ -2045,8 +2051,11 @@ class RGBColors
     /// 樹汁綠
     static RGBColor sapGreen = RGBColor(r: 80, g: 125, b: 42);
 
-    /// 藍寶石色
-    static RGBColor sapphire = RGBColor(r: 15, g: 82, b: 186);
+    /// 青玉色，藍寶石色
+    static RGBColor sapphire0 = RGBColor(r: 8, g: 37, b: 103);
+
+    /// 青玉色，藍寶石色
+    static RGBColor sapphire1 = RGBColor(r: 15, g: 82, b: 186);
 
     /// 緞面光澤金
     static RGBColor satinSheenGold = RGBColor(r: 203, g: 161, b: 53);
@@ -2145,7 +2154,7 @@ class RGBColors
     static RGBColor springBud = RGBColor(r: 167, g: 252, b: 0);
 
     /// 春綠色
-    static RGBColor springGreen = RGBColor(r: 0, g: 255, b: 127);
+    static RGBColor springGreen = RGBColor(r: 0, g: 255, b: 128);
 
     /// 鋼青色
     static RGBColor steelBlue = RGBColor(r: 70, g: 130, b: 180);
@@ -2210,7 +2219,7 @@ class RGBColors
     /// 茶玫瑰
     static RGBColor teaRose = RGBColor(r: 244, g: 194, b: 194);
 
-    /// 藍綠色（水鴨色）
+    /// 鴨綠色，藍綠色，水鴨色
     static RGBColor teal = RGBColor(r: 0, g: 128, b: 128);
 
     /// 水鴨藍
@@ -2276,8 +2285,11 @@ class RGBColors
     /// 土耳其玫瑰
     static RGBColor turkishRose = RGBColor(r: 181, g: 114, b: 129);
 
-    /// 綠松石色
-    static RGBColor turquoise = RGBColor(r: 48, g: 213, b: 200);
+    /// 綠松色，綠松石色
+    static RGBColor turquoise0 = RGBColor(r: 64, g: 224, b: 208);
+
+    /// 綠松色，綠松石色
+    static RGBColor turquoise1 = RGBColor(r: 48, g: 213, b: 200);
 
     /// 土耳其藍
     static RGBColor turquoiseBlue = RGBColor(r: 0, g: 255, b: 239);
@@ -2366,8 +2378,11 @@ class RGBColors
     /// 銅綠色
     static RGBColor verdigris = RGBColor(r: 67, g: 179, b: 174);
 
-    /// 朱紅色
+    /// 朱紅色，中國紅
     static RGBColor vermilion = RGBColor(r: 227, g: 66, b: 52);
+
+    /// 橘紅色
+    static RGBColor vermilionTangerine = RGBColor(r: 255, g: 77, b: 0);
 
     /// 維若妮卡紫
     static RGBColor veronica = RGBColor(r: 160, g: 32, b: 240);
@@ -2375,8 +2390,8 @@ class RGBColors
     /// 孔雀石綠
     static RGBColor veryLightMalachiteGreen = RGBColor(r: 115, g: 230, b: 140);
 
-    /// 紫羅蘭色
-    static RGBColor violet = RGBColor(r: 238, g: 130, b: 238);
+    /// 藍紫色，堇紫色，紫羅蘭色
+    static RGBColor violet0 = RGBColor(r: 127, g: 0, b: 255);
 
     /// 紫光藍
     static RGBColor violetBlue = RGBColor(r: 50, g: 74, b: 178);
