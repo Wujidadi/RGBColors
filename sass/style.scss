@@ -1,7 +1,7 @@
 @use 'colour';
 
 * {
-    font-family: Helvetica, Arial, "Microsoft YaHei";
+    font-family: Arial, Helvetica, "Microsoft YaHei";
 }
 
 body {
@@ -70,19 +70,22 @@ body {
         width: 8%;
     }
     .var {
-        width: 20%;
+        width: 19%;
     }
     .en {
-        width: 20%;
+        width: 19%;
     }
     .ch {
-        width: 24%;
+        width: 19%;
     }
     .r, .g, .b {
         width: 4%;
     }
     .rgb {
-        width: 16%
+        width: 15%
+    }
+    .hex {
+        width: 8%
     }
 
     .color-display {

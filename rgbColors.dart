@@ -1733,6 +1733,9 @@ class RGBColors
     /// 桃色
     static RGBColor peach = RGBColor(r: 255, g: 229, b: 180);
 
+    /// 珍珠桃色
+    static RGBColor peachPearl = RGBColor(r: 251, g: 190, b: 161);
+
     /// 粉撲桃色
     static RGBColor peachPuff = RGBColor(r: 255, g: 218, b: 185);
 

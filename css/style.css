@@ -1,6 +1,6 @@
 @charset "UTF-8";
 * {
-  font-family: Helvetica, Arial, "Microsoft YaHei";
+  font-family: Arial, Helvetica, "Microsoft YaHei";
 }
 
 body {
@@ -54,19 +54,22 @@ body {
   width: 8%;
 }
 #color-list .var {
-  width: 20%;
+  width: 19%;
 }
 #color-list .en {
-  width: 20%;
+  width: 19%;
 }
 #color-list .ch {
-  width: 24%;
+  width: 19%;
 }
 #color-list .r, #color-list .g, #color-list .b {
   width: 4%;
 }
 #color-list .rgb {
-  width: 16%;
+  width: 15%;
+}
+#color-list .hex {
+  width: 8%;
 }
 #color-list .color-display {
   height: 3rem;

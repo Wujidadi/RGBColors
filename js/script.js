@@ -43,6 +43,14 @@ let vue = new Vue(
             return `rgb(${data[3]}, ${data[4]}, ${data[5]})`;
         },
 
+        hexValue: function(data)
+        {
+            let hexR = padding((data[3]).toString(16), '0', 2).toUpperCase(),
+                hexG = padding((data[4]).toString(16), '0', 2).toUpperCase(),
+                hexB = padding((data[5]).toString(16), '0', 2).toUpperCase();
+            return `#${hexR}${hexG}${hexB}`;
+        },
+
         sortData: function(index)
         {
             switch (this.columns[index].sortFlag)
