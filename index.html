@@ -21,8 +21,8 @@
                         <th v-bind:class="columns[3].class" v-on:click="sortData(3)">R</th>
                         <th v-bind:class="columns[4].class" v-on:click="sortData(4)">G</th>
                         <th v-bind:class="columns[5].class" v-on:click="sortData(5)">B</th>
-                        <th class="rgb">RGB 色碼</th>
-                        <th class="hex">HEX 色碼</th>
+                        <th v-bind:class="columns[6].class" v-on:click="sortData(6)">RGB 色碼</th>
+                        <th v-bind:class="columns[7].class" v-on:click="sortData(7)">HEX 色碼</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -34,8 +34,8 @@
                         <td class="r">{{ data[3] }}</td>
                         <td class="g">{{ data[4] }}</td>
                         <td class="b">{{ data[5] }}</td>
-                        <td class="rgb" v-html="rgbValue(data)"></td>
-                        <td class="hex" v-html="hexValue(data)"></td>
+                        <td class="rgb">{{ data[6] }}</td>
+                        <td class="hex">{{ data[7] }}</td>
                     </tr>
                 </tbody>
             </table>

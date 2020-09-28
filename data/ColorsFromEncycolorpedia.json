@@ -1,0 +1,7050 @@
+[
+    [
+        "cadmiumBlue",
+        "Cadmium blue",
+        "鎘藍色",
+        10,
+        17,
+        149
+    ],
+    [
+        "cadmiumPurple",
+        "Cadmium purple",
+        "鎘紫色",
+        182,
+        12,
+        38
+    ],
+    [
+        "cadmiumViolet",
+        "Cadmium violet",
+        "鎘紫羅蘭色",
+        127,
+        62,
+        152
+    ],
+    [
+        "calamansi",
+        "Calamansi",
+        "四季橘色",
+        252,
+        255,
+        164
+    ],
+    [
+        "cameoPink",
+        "Cameo pink",
+        "卡米歐粉紅",
+        239,
+        187,
+        204
+    ],
+    [
+        "gardenia",
+        "Gardenia",
+        "梔子色",
+        255,
+        185,
+        90
+    ],
+    [
+        "capeJasmine",
+        "Cape jasmine",
+        "梔子色",
+        255,
+        185,
+        90
+    ],
+    [
+        "kuchinashi",
+        "Kuchinashi",
+        "支子，梔子色",
+        255,
+        185,
+        90
+    ],
+    [
+        "caramel",
+        "Caramel",
+        "焦糖色",
+        255,
+        213,
+        154
+    ],
+    [
+        "caribbeanBlue",
+        "Caribbean blue",
+        "加勒比藍",
+        26,
+        193,
+        221
+    ],
+    [
+        "carmine",
+        "Carmine",
+        "",
+        150,
+        0,
+        24
+    ],
+    [
+        "carolinaBlue",
+        "Carolina blue",
+        "",
+        86,
+        160,
+        211
+    ],
+    [
+        "castletonGreen",
+        "Castleton green",
+        "",
+        0,
+        86,
+        63
+    ],
+    [
+        "catalinaBlue",
+        "Catalina blue",
+        "",
+        6,
+        42,
+        120
+    ],
+    [
+        "catawba",
+        "Catawba",
+        "",
+        112,
+        54,
+        66
+    ],
+    [
+        "cattailColor(thePlant)(Kaba-iro)",
+        "Cattail color (the plant) (Kaba-iro)",
+        "",
+        182,
+        73,
+        37
+    ],
+    [
+        "cedarChest",
+        "Cedar Chest",
+        "",
+        201,
+        90,
+        73
+    ],
+    [
+        "ceil",
+        "Ceil",
+        "",
+        146,
+        161,
+        207
+    ],
+    [
+        "celadonColor(Seiji-iro)",
+        "Celadon color (Seiji-iro)",
+        "",
+        129,
+        156,
+        139
+    ],
+    [
+        "celadonGreen",
+        "Celadon green",
+        "",
+        47,
+        132,
+        124
+    ],
+    [
+        "celticBlue",
+        "Celtic blue",
+        "",
+        36,
+        107,
+        206
+    ],
+    [
+        "ceruleanFrost",
+        "Cerulean frost",
+        "",
+        109,
+        155,
+        195
+    ],
+    [
+        "cetaceanBlue",
+        "Cetacean blue",
+        "",
+        0,
+        20,
+        64
+    ],
+    [
+        "champagne",
+        "Champagne",
+        "",
+        247,
+        231,
+        206
+    ],
+    [
+        "champagnePink",
+        "Champagne pink",
+        "",
+        241,
+        221,
+        207
+    ],
+    [
+        "charlestonGreen",
+        "Charleston green",
+        "",
+        35,
+        43,
+        43
+    ],
+    [
+        "charm",
+        "Charm",
+        "",
+        208,
+        116,
+        139
+    ],
+    [
+        "chartreuse(traditional)",
+        "Chartreuse (traditional)",
+        "",
+        223,
+        255,
+        0
+    ],
+    [
+        "cheese",
+        "Cheese",
+        "",
+        255,
+        166,
+        0
+    ],
+    [
+        "cherryBlossomColor(Sakura-iro)",
+        "Cherry blossom color (Sakura-iro)",
+        "",
+        252,
+        201,
+        185
+    ],
+    [
+        "cherryBlossomMouse(Sakuranezumi)",
+        "Cherry blossom mouse (Sakuranezumi)",
+        "",
+        172,
+        129,
+        129
+    ],
+    [
+        "chestnut-leatherBrown(Kurikawacha)",
+        "Chestnut-leather brown (Kurikawacha)",
+        "",
+        96,
+        40,
+        30
+    ],
+    [
+        "chickadee",
+        "Chickadee",
+        "",
+        255,
+        195,
+        77
+    ],
+    [
+        "chinaRose",
+        "China rose",
+        "",
+        168,
+        81,
+        110
+    ],
+    [
+        "chineseBlack",
+        "Chinese black",
+        "",
+        20,
+        20,
+        20
+    ],
+    [
+        "chineseBlue",
+        "Chinese blue",
+        "",
+        54,
+        81,
+        148
+    ],
+    [
+        "chineseBronze",
+        "Chinese bronze",
+        "",
+        205,
+        128,
+        50
+    ],
+    [
+        "chineseBrown",
+        "Chinese brown",
+        "",
+        171,
+        56,
+        31
+    ],
+    [
+        "chineseGold",
+        "Chinese gold",
+        "",
+        204,
+        153,
+        0
+    ],
+    [
+        "chineseGreen",
+        "Chinese green",
+        "",
+        208,
+        219,
+        97
+    ],
+    [
+        "chineseOrange",
+        "Chinese orange",
+        "",
+        243,
+        112,
+        66
+    ],
+    [
+        "chinesePink",
+        "Chinese pink",
+        "",
+        222,
+        112,
+        161
+    ],
+    [
+        "chinesePurple",
+        "Chinese purple",
+        "",
+        114,
+        11,
+        152
+    ],
+    [
+        "chineseRed",
+        "Chinese red",
+        "",
+        205,
+        7,
+        30
+    ],
+    [
+        "chineseRed",
+        "Chinese red",
+        "",
+        170,
+        56,
+        30
+    ],
+    [
+        "chineseSilver",
+        "Chinese silver",
+        "",
+        204,
+        204,
+        204
+    ],
+    [
+        "chineseViolet",
+        "Chinese violet",
+        "",
+        133,
+        96,
+        136
+    ],
+    [
+        "chineseWhite",
+        "Chinese white",
+        "",
+        226,
+        229,
+        222
+    ],
+    [
+        "chineseYellow",
+        "Chinese yellow",
+        "",
+        255,
+        178,
+        0
+    ],
+    [
+        "chineseYellowTea-colored(Kigaracha)",
+        "Chinese yellow tea-colored (Kigaracha)",
+        "",
+        183,
+        112,
+        45
+    ],
+    [
+        "chlorophyllGreen",
+        "Chlorophyll green",
+        "",
+        74,
+        255,
+        0
+    ],
+    [
+        "chocolate(traditional)",
+        "Chocolate (traditional)",
+        "",
+        123,
+        63,
+        0
+    ],
+    [
+        "chocolateKisses",
+        "Chocolate Kisses",
+        "",
+        60,
+        20,
+        33
+    ],
+    [
+        "chocolateBrown",
+        "Chocolate brown",
+        "",
+        63,
+        0,
+        15
+    ],
+    [
+        "chocolateCosmos",
+        "Chocolate cosmos",
+        "",
+        88,
+        17,
+        26
+    ],
+    [
+        "chromeAluminum",
+        "Chrome aluminum",
+        "",
+        168,
+        169,
+        173
+    ],
+    [
+        "cinnamonSatin",
+        "Cinnamon Satin",
+        "",
+        205,
+        96,
+        126
+    ],
+    [
+        "citrineBrown",
+        "Citrine Brown",
+        "",
+        147,
+        55,
+        9
+    ],
+    [
+        "citron",
+        "Citron",
+        "",
+        159,
+        169,
+        31
+    ],
+    [
+        "claret",
+        "Claret",
+        "",
+        127,
+        23,
+        52
+    ],
+    [
+        "clove-brown(Chōjicha)",
+        "Clove-brown (Chōjicha)",
+        "",
+        143,
+        88,
+        60
+    ],
+    [
+        "clove-dyed(Chōjizome)",
+        "Clove-dyed (Chōjizome)",
+        "",
+        169,
+        98,
+        50
+    ],
+    [
+        "coarseWoolColor(Kachi-iro)",
+        "Coarse wool color (Kachi-iro)",
+        "",
+        24,
+        27,
+        38
+    ],
+    [
+        "coconut",
+        "Coconut",
+        "",
+        150,
+        90,
+        62
+    ],
+    [
+        "coconutWhite",
+        "Coconut White",
+        "",
+        233,
+        237,
+        246
+    ],
+    [
+        "codiumFragileSeaweedColor(Miru-iro)",
+        "Codium fragile seaweed color (Miru-iro)",
+        "",
+        82,
+        75,
+        42
+    ],
+    [
+        "cola",
+        "Cola",
+        "",
+        60,
+        48,
+        36
+    ],
+    [
+        "columbiaBlue",
+        "Columbia Blue",
+        "",
+        196,
+        216,
+        226
+    ],
+    [
+        "conditioner",
+        "Conditioner",
+        "",
+        255,
+        255,
+        204
+    ],
+    [
+        "contemplationInATeaGarden(Rokōcha)",
+        "Contemplation in a tea garden (Rokōcha)",
+        "",
+        102,
+        83,
+        67
+    ],
+    [
+        "cookiesAndCream",
+        "Cookies and cream",
+        "",
+        238,
+        224,
+        177
+    ],
+    [
+        "copperPenny",
+        "Copper penny",
+        "",
+        173,
+        111,
+        105
+    ],
+    [
+        "copperRed",
+        "Copper red",
+        "",
+        203,
+        109,
+        81
+    ],
+    [
+        "coralReef(ValsparPaintColor)",
+        "Coral Reef (Valspar Paint Color)",
+        "",
+        246,
+        164,
+        148
+    ],
+    [
+        "coralColor(Sango-iro)",
+        "Coral color (Sango-iro)",
+        "",
+        248,
+        103,
+        79
+    ],
+    [
+        "coralReef",
+        "Coral reef",
+        "",
+        253,
+        124,
+        110
+    ],
+    [
+        "corn-colored(Tōmorokoshi-iro)",
+        "Corn-colored (Tōmorokoshi-iro)",
+        "",
+        250,
+        169,
+        69
+    ],
+    [
+        "cosmicCobalt",
+        "Cosmic cobalt",
+        "",
+        46,
+        45,
+        136
+    ],
+    [
+        "coyoteBrown",
+        "Coyote brown",
+        "",
+        129,
+        97,
+        60
+    ],
+    [
+        "crystal",
+        "Crystal",
+        "",
+        167,
+        216,
+        222
+    ],
+    [
+        "crystalBlue",
+        "Crystal blue",
+        "",
+        104,
+        160,
+        176
+    ],
+    [
+        "cyan(process)",
+        "Cyan (process)",
+        "",
+        0,
+        183,
+        235
+    ],
+    [
+        "cyanAzure",
+        "Cyan azure",
+        "",
+        78,
+        130,
+        180
+    ],
+    [
+        "cyanCobaltBlue",
+        "Cyan cobalt blue",
+        "",
+        40,
+        88,
+        156
+    ],
+    [
+        "cyanCornflowerBlue",
+        "Cyan cornflower blue",
+        "",
+        24,
+        139,
+        194
+    ],
+    [
+        "cyan-blueAzure",
+        "Cyan-blue azure",
+        "",
+        70,
+        130,
+        191
+    ],
+    [
+        "cyberGrape",
+        "Cyber grape",
+        "",
+        88,
+        66,
+        124
+    ],
+    [
+        "cyberYellow",
+        "Cyber yellow",
+        "",
+        255,
+        211,
+        0
+    ],
+    [
+        "cyclamen",
+        "Cyclamen",
+        "",
+        245,
+        111,
+        161
+    ],
+    [
+        "cypressBarkColor(Hihada-iro)",
+        "Cypress bark color (Hihada-iro)",
+        "",
+        117,
+        46,
+        35
+    ],
+    [
+        "cypressBarkRed(Benihibata)",
+        "Cypress bark red (Benihibata)",
+        "",
+        111,
+        48,
+        40
+    ],
+    [
+        "dandelion(Crayola)",
+        "Dandelion (Crayola)",
+        "",
+        253,
+        219,
+        109
+    ],
+    [
+        "darkNavy",
+        "Dark Navy",
+        "",
+        2,
+        7,
+        93
+    ],
+    [
+        "darkBlue(Kon)",
+        "Dark blue (Kon)",
+        "",
+        25,
+        34,
+        54
+    ],
+    [
+        "darkBlueLapisLazuli(Rurikon)",
+        "Dark blue lapis lazuli (Rurikon)",
+        "",
+        27,
+        41,
+        75
+    ],
+    [
+        "darkBlue-gray",
+        "Dark blue-gray",
+        "",
+        102,
+        102,
+        153
+    ],
+    [
+        "darkBronze",
+        "Dark bronze",
+        "",
+        128,
+        74,
+        0
+    ],
+    [
+        "darkBronze(Coin)",
+        "Dark bronze (Coin)",
+        "",
+        81,
+        65,
+        0
+    ],
+    [
+        "darkBrown-tangelo",
+        "Dark brown-tangelo",
+        "",
+        136,
+        101,
+        78
+    ],
+    [
+        "darkCharcoal",
+        "Dark charcoal",
+        "",
+        51,
+        51,
+        51
+    ],
+    [
+        "darkChocolate",
+        "Dark chocolate",
+        "",
+        73,
+        2,
+        6
+    ],
+    [
+        "darkChocolate(Hershey's)",
+        "Dark chocolate (Hershey's)",
+        "",
+        60,
+        19,
+        33
+    ],
+    [
+        "darkCornflowerBlue",
+        "Dark cornflower blue",
+        "",
+        38,
+        66,
+        139
+    ],
+    [
+        "darkGold",
+        "Dark gold",
+        "",
+        170,
+        108,
+        57
+    ],
+    [
+        "darkGunmetal",
+        "Dark gunmetal",
+        "",
+        31,
+        38,
+        42
+    ],
+    [
+        "darkImperialBlue",
+        "Dark imperial blue",
+        "",
+        0,
+        20,
+        126
+    ],
+    [
+        "darkIndigo(Futaai)",
+        "Dark indigo (Futaai)",
+        "",
+        97,
+        78,
+        110
+    ],
+    [
+        "darkLemonLime",
+        "Dark lemon lime",
+        "",
+        139,
+        190,
+        27
+    ],
+    [
+        "darkLiver(horses)",
+        "Dark liver (horses)",
+        "",
+        84,
+        61,
+        55
+    ],
+    [
+        "darkMossGreen",
+        "Dark moss green",
+        "",
+        74,
+        93,
+        35
+    ],
+    [
+        "darkPuce",
+        "Dark puce",
+        "",
+        79,
+        58,
+        60
+    ],
+    [
+        "darkPurple",
+        "Dark purple",
+        "",
+        48,
+        25,
+        52
+    ],
+    [
+        "darkRed(Kurobeni)",
+        "Dark red (Kurobeni)",
+        "",
+        35,
+        25,
+        30
+    ],
+    [
+        "darkSilver",
+        "Dark silver",
+        "",
+        113,
+        112,
+        110
+    ],
+    [
+        "darkSkyBlue",
+        "Dark sky blue",
+        "",
+        140,
+        190,
+        214
+    ],
+    [
+        "darkVanilla",
+        "Dark vanilla",
+        "",
+        209,
+        190,
+        168
+    ],
+    [
+        "darkYellow",
+        "Dark yellow",
+        "",
+        155,
+        135,
+        12
+    ],
+    [
+        "dartmouthGreen",
+        "Dartmouth green",
+        "",
+        0,
+        112,
+        60
+    ],
+    [
+        "dawn-color(Akebono-iro)",
+        "Dawn-color (Akebono-iro)",
+        "",
+        250,
+        123,
+        98
+    ],
+    [
+        "daylily-colored(Kanzō-iro)",
+        "Daylily-colored (Kanzō-iro)",
+        "",
+        255,
+        137,
+        54
+    ],
+    [
+        "decayingLeavesColor(Kuchiba-iro)",
+        "Decaying leaves color (Kuchiba-iro)",
+        "",
+        213,
+        120,
+        53
+    ],
+    [
+        "deepSpaceSparkle",
+        "Deep Space Sparkle",
+        "",
+        74,
+        100,
+        108
+    ],
+    [
+        "deepAmethyst",
+        "Deep amethyst",
+        "",
+        156,
+        138,
+        164
+    ],
+    [
+        "deepDumpling",
+        "Deep dumpling",
+        "",
+        155,
+        53,
+        27
+    ],
+    [
+        "deepGreen",
+        "Deep green",
+        "",
+        5,
+        102,
+        8
+    ],
+    [
+        "deepGreen-cyanTurquoise",
+        "Deep green-cyan turquoise",
+        "",
+        14,
+        124,
+        97
+    ],
+    [
+        "deepKoamaru",
+        "Deep koamaru",
+        "",
+        51,
+        51,
+        102
+    ],
+    [
+        "deepMaroon",
+        "Deep maroon",
+        "",
+        130,
+        0,
+        0
+    ],
+    [
+        "deepMauve",
+        "Deep mauve",
+        "",
+        212,
+        115,
+        212
+    ],
+    [
+        "deepPuce",
+        "Deep puce",
+        "",
+        169,
+        92,
+        104
+    ],
+    [
+        "deepPurple(Kokimurasaki)",
+        "Deep purple (Kokimurasaki)",
+        "",
+        58,
+        36,
+        59
+    ],
+    [
+        "deepRed",
+        "Deep red",
+        "",
+        133,
+        1,
+        1
+    ],
+    [
+        "deepRuby",
+        "Deep ruby",
+        "",
+        132,
+        63,
+        91
+    ],
+    [
+        "deepScarlet(Kokiake)",
+        "Deep scarlet (Kokiake)",
+        "",
+        123,
+        59,
+        58
+    ],
+    [
+        "deepTaupe",
+        "Deep taupe",
+        "",
+        126,
+        94,
+        96
+    ],
+    [
+        "deepViolet",
+        "Deep violet",
+        "",
+        51,
+        0,
+        102
+    ],
+    [
+        "deer",
+        "Deer",
+        "",
+        186,
+        135,
+        89
+    ],
+    [
+        "delicateGirlBlue",
+        "Delicate girl blue",
+        "",
+        106,
+        178,
+        202
+    ],
+    [
+        "denimBlue",
+        "Denim blue",
+        "",
+        34,
+        67,
+        182
+    ],
+    [
+        "desaturatedCyan",
+        "Desaturated cyan",
+        "",
+        102,
+        153,
+        153
+    ],
+    [
+        "desire",
+        "Desire",
+        "",
+        234,
+        60,
+        83
+    ],
+    [
+        "diamond",
+        "Diamond",
+        "",
+        185,
+        242,
+        255
+    ],
+    [
+        "dingyDungeon",
+        "Dingy Dungeon",
+        "",
+        197,
+        49,
+        81
+    ],
+    [
+        "dirt",
+        "Dirt",
+        "",
+        155,
+        118,
+        83
+    ],
+    [
+        "dirtyBrown",
+        "Dirty brown",
+        "",
+        181,
+        101,
+        30
+    ],
+    [
+        "dirtyWhite",
+        "Dirty white",
+        "",
+        232,
+        228,
+        201
+    ],
+    [
+        "disappearingPurple(Metsushi)",
+        "Disappearing purple (Metsushi)",
+        "",
+        63,
+        49,
+        58
+    ],
+    [
+        "dodieYellow",
+        "Dodie yellow",
+        "",
+        254,
+        246,
+        91
+    ],
+    [
+        "dolphinGray",
+        "Dolphin gray",
+        "",
+        130,
+        142,
+        132
+    ],
+    [
+        "doubanBlue",
+        "Douban Blue",
+        "",
+        36,
+        150,
+        205
+    ],
+    [
+        "doubanGreen",
+        "Douban Green",
+        "",
+        46,
+        150,
+        61
+    ],
+    [
+        "doubanLightYellow",
+        "Douban Light Yellow",
+        "",
+        247,
+        197,
+        142
+    ],
+    [
+        "doveFeatherGrey(Hatobanezumi)",
+        "Dove feather grey (Hatobanezumi)",
+        "",
+        117,
+        93,
+        91
+    ],
+    [
+        "dullBlue(Aonibi)",
+        "Dull blue (Aonibi)",
+        "",
+        79,
+        73,
+        68
+    ],
+    [
+        "durian",
+        "Durian",
+        "",
+        176,
+        121,
+        57
+    ],
+    [
+        "durianWhite",
+        "Durian White",
+        "",
+        230,
+        208,
+        171
+    ],
+    [
+        "durianYellow",
+        "Durian Yellow",
+        "",
+        225,
+        189,
+        39
+    ],
+    [
+        "dustStorm",
+        "Dust storm",
+        "",
+        229,
+        204,
+        201
+    ],
+    [
+        "dutchWhite",
+        "Dutch white",
+        "",
+        239,
+        223,
+        187
+    ],
+    [
+        "dyestalkRed(lit.TheColorFromDyingWithTheStalkOfTheBeniPlant)(Bengara-iro)",
+        "Dyestalk red (lit. the color from dying with the stalk of the beni plant) (Bengara-iro)",
+        "",
+        145,
+        50,
+        37
+    ],
+    [
+        "earthtone",
+        "Earthtone",
+        "",
+        93,
+        58,
+        26
+    ],
+    [
+        "ebony",
+        "Ebony",
+        "",
+        85,
+        93,
+        80
+    ],
+    [
+        "eerieBlack",
+        "Eerie black",
+        "",
+        27,
+        27,
+        27
+    ],
+    [
+        "egg-colored(Tamago-iro)",
+        "Egg-colored (Tamago-iro)",
+        "",
+        255,
+        166,
+        49
+    ],
+    [
+        "eggshellPaper-colored(Torinoko-iro)",
+        "Eggshell paper-colored (Torinoko-iro)",
+        "",
+        226,
+        190,
+        159
+    ],
+    [
+        "elderberry",
+        "Elderberry",
+        "",
+        23,
+        24,
+        43
+    ],
+    [
+        "electricBrown",
+        "Electric brown",
+        "",
+        181,
+        98,
+        87
+    ],
+    [
+        "electricOrange",
+        "Electric orange",
+        "",
+        255,
+        53,
+        3
+    ],
+    [
+        "electricPink",
+        "Electric pink",
+        "",
+        246,
+        38,
+        129
+    ],
+    [
+        "electricYellow",
+        "Electric yellow",
+        "",
+        255,
+        255,
+        51
+    ],
+    [
+        "emeraldGreen",
+        "Emerald green",
+        "",
+        4,
+        99,
+        7
+    ],
+    [
+        "eminence",
+        "Eminence",
+        "",
+        108,
+        48,
+        130
+    ],
+    [
+        "englishLavender",
+        "English lavender",
+        "",
+        180,
+        131,
+        149
+    ],
+    [
+        "englishRed",
+        "English red",
+        "",
+        171,
+        75,
+        82
+    ],
+    [
+        "englishVermillion",
+        "English vermillion",
+        "",
+        204,
+        71,
+        75
+    ],
+    [
+        "englishViolet",
+        "English violet",
+        "",
+        86,
+        60,
+        92
+    ],
+    [
+        "eucalyptus",
+        "Eucalyptus",
+        "",
+        68,
+        215,
+        168
+    ],
+    [
+        "facebookBlue",
+        "Facebook Blue",
+        "",
+        57,
+        86,
+        156
+    ],
+    [
+        "fadedSenNoRikyu'sTea(Rikyūshiracha)",
+        "Faded Sen no Rikyu's tea (Rikyūshiracha)",
+        "",
+        176,
+        146,
+        122
+    ],
+    [
+        "fadedSpicyRed-brown(Sōdenkaracha)",
+        "Faded spicy red-brown (Sōdenkaracha)",
+        "",
+        155,
+        83,
+        63
+    ],
+    [
+        "fakePurple(Nisemurasaki)",
+        "Fake purple (Nisemurasaki)",
+        "",
+        67,
+        36,
+        42
+    ],
+    [
+        "fandangoPink",
+        "Fandango pink",
+        "",
+        222,
+        82,
+        133
+    ],
+    [
+        "fieryRose",
+        "Fiery rose",
+        "",
+        255,
+        84,
+        112
+    ],
+    [
+        "finch-brown(CarduelineFinch)(Hiwacha)",
+        "Finch-brown (Cardueline finch) (Hiwacha)",
+        "",
+        149,
+        123,
+        56
+    ],
+    [
+        "fireOpal",
+        "Fire opal",
+        "",
+        233,
+        92,
+        75
+    ],
+    [
+        "flesh",
+        "Flesh",
+        "",
+        255,
+        233,
+        209
+    ],
+    [
+        "flickrBlue",
+        "Flickr Blue",
+        "",
+        33,
+        107,
+        214
+    ],
+    [
+        "flickrPink",
+        "Flickr Pink",
+        "",
+        251,
+        0,
+        129
+    ],
+    [
+        "flirt",
+        "Flirt",
+        "",
+        162,
+        0,
+        109
+    ],
+    [
+        "flirtatiousIndigoTea(Aikobicha)",
+        "Flirtatious indigo tea (Aikobicha)",
+        "",
+        71,
+        63,
+        45
+    ],
+    [
+        "floralLeaf-colored(Hanaba-iroOrKayou-iro)",
+        "Floral leaf-colored (Hanaba-iro or kayou-iro)",
+        "",
+        255,
+        185,
+        78
+    ],
+    [
+        "flowerGirl",
+        "Flower girl",
+        "",
+        244,
+        152,
+        173
+    ],
+    [
+        "fluorescentBlue",
+        "Fluorescent blue",
+        "",
+        21,
+        244,
+        238
+    ],
+    [
+        "foreignCrimson(Karakurenai)",
+        "Foreign crimson (Karakurenai)",
+        "",
+        201,
+        31,
+        55
+    ],
+    [
+        "forestGreen(Crayola)",
+        "Forest green (Crayola)",
+        "",
+        95,
+        167,
+        119
+    ],
+    [
+        "fox-color(Kitsune-iro)",
+        "Fox-color (Kitsune-iro)",
+        "",
+        152,
+        86,
+        41
+    ],
+    [
+        "frenchBistre",
+        "French bistre",
+        "",
+        133,
+        109,
+        77
+    ],
+    [
+        "frenchLime",
+        "French lime",
+        "",
+        158,
+        253,
+        56
+    ],
+    [
+        "frenchPink",
+        "French pink",
+        "",
+        253,
+        108,
+        158
+    ],
+    [
+        "frenchPlum",
+        "French plum",
+        "",
+        129,
+        20,
+        83
+    ],
+    [
+        "frenchPuce",
+        "French puce",
+        "",
+        78,
+        22,
+        9
+    ],
+    [
+        "frenchRaspberry",
+        "French raspberry",
+        "",
+        199,
+        44,
+        72
+    ],
+    [
+        "frenchSkyBlue",
+        "French sky blue",
+        "",
+        119,
+        181,
+        254
+    ],
+    [
+        "frenchViolet",
+        "French violet",
+        "",
+        136,
+        6,
+        206
+    ],
+    [
+        "frenchWine",
+        "French wine",
+        "",
+        172,
+        30,
+        68
+    ],
+    [
+        "freshAir",
+        "Fresh Air",
+        "",
+        166,
+        231,
+        255
+    ],
+    [
+        "freshOnion(Moegi)",
+        "Fresh onion (Moegi)",
+        "",
+        91,
+        137,
+        48
+    ],
+    [
+        "frostbite",
+        "Frostbite",
+        "",
+        233,
+        54,
+        167
+    ],
+    [
+        "gOGreen",
+        "GO green",
+        "",
+        0,
+        171,
+        102
+    ],
+    [
+        "gamboge(Tōō)",
+        "Gamboge (Tōō)",
+        "",
+        255,
+        182,
+        30
+    ],
+    [
+        "gambogeOrange(brown)",
+        "Gamboge orange (brown)",
+        "",
+        153,
+        102,
+        0
+    ],
+    [
+        "gargoyleGas",
+        "Gargoyle Gas",
+        "",
+        255,
+        223,
+        70
+    ],
+    [
+        "garnet",
+        "Garnet",
+        "",
+        115,
+        54,
+        53
+    ],
+    [
+        "genericViridian",
+        "Generic viridian",
+        "",
+        0,
+        127,
+        102
+    ],
+    [
+        "giant'sClub",
+        "Giant's Club",
+        "",
+        176,
+        92,
+        82
+    ],
+    [
+        "giantsOrange",
+        "Giants orange",
+        "",
+        254,
+        90,
+        29
+    ],
+    [
+        "gin",
+        "Gin",
+        "",
+        216,
+        228,
+        188
+    ],
+    [
+        "glazedPersimmon(Terigaki)",
+        "Glazed persimmon (Terigaki)",
+        "",
+        211,
+        78,
+        54
+    ],
+    [
+        "glossyGrape",
+        "Glossy grape",
+        "",
+        171,
+        146,
+        179
+    ],
+    [
+        "gold",
+        "Gold",
+        "",
+        165,
+        124,
+        0
+    ],
+    [
+        "gold(metallic)",
+        "Gold (metallic)",
+        "",
+        212,
+        175,
+        55
+    ],
+    [
+        "goldFusion",
+        "Gold Fusion",
+        "",
+        133,
+        117,
+        78
+    ],
+    [
+        "goldFoil",
+        "Gold foil",
+        "",
+        189,
+        155,
+        22
+    ],
+    [
+        "gold-brown(Yamabukicha)",
+        "Gold-brown (Yamabukicha)",
+        "",
+        203,
+        126,
+        31
+    ],
+    [
+        "goldenBrown(Kincha)",
+        "Golden brown (Kincha)",
+        "",
+        198,
+        107,
+        39
+    ],
+    [
+        "goldenFallenLeaves(Kikuchiba)",
+        "Golden fallen leaves (Kikuchiba)",
+        "",
+        226,
+        156,
+        69
+    ],
+    [
+        "goldenOak(Kitsurubami)",
+        "Golden oak (Kitsurubami)",
+        "",
+        187,
+        129,
+        65
+    ],
+    [
+        "goldenYellow(andAParticularRoseVarietal)(Yamabuki-iro)",
+        "Golden yellow (and a particular rose varietal) (Yamabuki-iro)",
+        "",
+        255,
+        164,
+        0
+    ],
+    [
+        "golden-greyBamboo(driedAndWeathered)(Kinsusutake)",
+        "Golden-grey bamboo (dried and weathered) (Kinsusutake)",
+        "",
+        125,
+        78,
+        45
+    ],
+    [
+        "googleChromeBlue",
+        "Google Chrome blue",
+        "",
+        76,
+        139,
+        245
+    ],
+    [
+        "googleChromeGreen",
+        "Google Chrome green",
+        "",
+        26,
+        162,
+        96
+    ],
+    [
+        "googleChromeRed",
+        "Google Chrome red",
+        "",
+        222,
+        82,
+        70
+    ],
+    [
+        "googleChromeYellow",
+        "Google Chrome yellow",
+        "",
+        255,
+        206,
+        68
+    ],
+    [
+        "goryeoStoreroom(Kōrainando)",
+        "Goryeo storeroom (Kōrainando)",
+        "",
+        32,
+        56,
+        56
+    ],
+    [
+        "graniteGray",
+        "Granite gray",
+        "",
+        103,
+        103,
+        103
+    ],
+    [
+        "grape",
+        "Grape",
+        "",
+        111,
+        45,
+        168
+    ],
+    [
+        "grapeMouse(Budōnezumi)",
+        "Grape mouse (Budōnezumi)",
+        "",
+        99,
+        66,
+        75
+    ],
+    [
+        "green",
+        "Green",
+        "",
+        0,
+        128,
+        1
+    ],
+    [
+        "green(Crayola)",
+        "Green (Crayola)",
+        "",
+        28,
+        172,
+        120
+    ],
+    [
+        "green(Midori)",
+        "Green (Midori)",
+        "",
+        42,
+        96,
+        59
+    ],
+    [
+        "green(Munsell)",
+        "Green (Munsell)",
+        "",
+        0,
+        168,
+        119
+    ],
+    [
+        "green(NCS)",
+        "Green (NCS)",
+        "",
+        0,
+        159,
+        107
+    ],
+    [
+        "green(Pantone)",
+        "Green (Pantone)",
+        "",
+        0,
+        173,
+        67
+    ],
+    [
+        "green(RYB)",
+        "Green (RYB)",
+        "",
+        102,
+        176,
+        50
+    ],
+    [
+        "green(pigment)",
+        "Green (pigment)",
+        "",
+        0,
+        165,
+        80
+    ],
+    [
+        "greenCola",
+        "Green Cola",
+        "",
+        76,
+        114,
+        29
+    ],
+    [
+        "greenLizard",
+        "Green Lizard",
+        "",
+        167,
+        244,
+        50
+    ],
+    [
+        "greenSheen",
+        "Green Sheen",
+        "",
+        110,
+        174,
+        161
+    ],
+    [
+        "greenBambooColor(Aotake-iro)",
+        "Green bamboo color (Aotake-iro)",
+        "",
+        0,
+        100,
+        66
+    ],
+    [
+        "greenSlime",
+        "Green slime",
+        "",
+        101,
+        255,
+        0
+    ],
+    [
+        "greenTea-colored(Sencha-iro)",
+        "Green tea-colored (Sencha-iro)",
+        "",
+        130,
+        75,
+        53
+    ],
+    [
+        "green-blue(Crayola)",
+        "Green-blue (Crayola)",
+        "",
+        40,
+        135,
+        200
+    ],
+    [
+        "green-cyan",
+        "Green-cyan",
+        "",
+        0,
+        153,
+        102
+    ],
+    [
+        "green-yellow(Crayola)",
+        "Green-yellow (Crayola)",
+        "",
+        240,
+        232,
+        145
+    ],
+    [
+        "greenfinchColor(Hiwa-iro)",
+        "Greenfinch color (Hiwa-iro)",
+        "",
+        189,
+        169,
+        40
+    ],
+    [
+        "greyedRed(lit.SilveredRed)(Ginshu)",
+        "Greyed red (lit. silvered red) (Ginshu)",
+        "",
+        188,
+        45,
+        41
+    ],
+    [
+        "greyishDarkGreen(Rikyūnezumi)",
+        "Greyish dark green (Rikyūnezumi)",
+        "",
+        101,
+        98,
+        85
+    ],
+    [
+        "gunmetal",
+        "Gunmetal",
+        "",
+        42,
+        52,
+        57
+    ],
+    [
+        "guyabano",
+        "Guyabano",
+        "",
+        248,
+        248,
+        248
+    ],
+    [
+        "halfColor(Hashita-iro)",
+        "Half color (Hashita-iro)",
+        "",
+        141,
+        96,
+        140
+    ],
+    [
+        "halloweenOrange",
+        "Halloween orange",
+        "",
+        235,
+        97,
+        35
+    ],
+    [
+        "harborRat(Minatonezumi)",
+        "Harbor rat (Minatonezumi)",
+        "",
+        117,
+        125,
+        117
+    ],
+    [
+        "harlequinGreen",
+        "Harlequin green",
+        "",
+        70,
+        203,
+        24
+    ],
+    [
+        "harmoniousRose",
+        "Harmonious rose",
+        "",
+        242,
+        156,
+        183
+    ],
+    [
+        "hawaiiBlue",
+        "Hawaii blue",
+        "",
+        0,
+        195,
+        227
+    ],
+    [
+        "heatWave",
+        "Heat Wave",
+        "",
+        255,
+        122,
+        0
+    ],
+    [
+        "heliotropeMagenta",
+        "Heliotrope magenta",
+        "",
+        170,
+        0,
+        187
+    ],
+    [
+        "honoluluBlue",
+        "Honolulu blue",
+        "",
+        0,
+        109,
+        176
+    ],
+    [
+        "horsetailColor(Tokusa-iro)",
+        "Horsetail color (Tokusa-iro)",
+        "",
+        61,
+        93,
+        66
+    ],
+    [
+        "huaweiRed",
+        "Huawei Red",
+        "",
+        207,
+        10,
+        44
+    ],
+    [
+        "huaweiRed(1987-2018)",
+        "Huawei Red (1987-2018)",
+        "",
+        237,
+        28,
+        36
+    ],
+    [
+        "ibisWingColor(Tokiha-iro)",
+        "Ibis wing color (Tokiha-iro)",
+        "",
+        245,
+        143,
+        132
+    ],
+    [
+        "iceberg",
+        "Iceberg",
+        "",
+        113,
+        166,
+        210
+    ],
+    [
+        "icedTea",
+        "Iced tea",
+        "",
+        146,
+        60,
+        1
+    ],
+    [
+        "illuminatingEmerald",
+        "Illuminating emerald",
+        "",
+        49,
+        145,
+        119
+    ],
+    [
+        "imperial",
+        "Imperial",
+        "",
+        96,
+        47,
+        107
+    ],
+    [
+        "imperialRed",
+        "Imperial red",
+        "",
+        237,
+        41,
+        57
+    ],
+    [
+        "independence",
+        "Independence",
+        "",
+        76,
+        81,
+        109
+    ],
+    [
+        "indigo(rainbow)",
+        "Indigo (rainbow)",
+        "",
+        35,
+        48,
+        103
+    ],
+    [
+        "indigoCodiumFragileSeaweedBrown(Aimirucha)",
+        "Indigo Codium fragile seaweed brown (Aimirucha)",
+        "",
+        46,
+        55,
+        46
+    ],
+    [
+        "indigoDye",
+        "Indigo dye",
+        "",
+        9,
+        31,
+        146
+    ],
+    [
+        "indigoInkBrown(Aisumicha)",
+        "Indigo ink brown (Aisumicha)",
+        "",
+        57,
+        52,
+        50
+    ],
+    [
+        "indigoWhite(Aijiro)",
+        "Indigo white (Aijiro)",
+        "",
+        235,
+        246,
+        247
+    ],
+    [
+        "infraRed",
+        "Infra red",
+        "",
+        255,
+        73,
+        108
+    ],
+    [
+        "inkColor(Sumi-iro)",
+        "Ink color (Sumi-iro)",
+        "",
+        39,
+        34,
+        31
+    ],
+    [
+        "insectScreen(Mushiao)",
+        "Insect screen (Mushiao)",
+        "",
+        45,
+        68,
+        54
+    ],
+    [
+        "insideOfABottle(Kamenozoki)",
+        "Inside of a bottle (Kamenozoki)",
+        "",
+        198,
+        194,
+        182
+    ],
+    [
+        "interdimensionalBlue",
+        "Interdimensional blue",
+        "",
+        54,
+        12,
+        204
+    ],
+    [
+        "internationalOrange(GoldenGateBridge)",
+        "International orange (Golden Gate Bridge)",
+        "",
+        192,
+        54,
+        44
+    ],
+    [
+        "irisColor(Ayame-iro)",
+        "Iris color (Ayame-iro)",
+        "",
+        118,
+        53,
+        104
+    ],
+    [
+        "iron",
+        "Iron",
+        "",
+        161,
+        157,
+        148
+    ],
+    [
+        "ironColor(Tetsu-iro)",
+        "Iron color (Tetsu-iro)",
+        "",
+        43,
+        55,
+        51
+    ],
+    [
+        "ironHeadFlowerColor(Noshimehana-iro)",
+        "Iron head flower color (Noshimehana-iro)",
+        "",
+        52,
+        77,
+        86
+    ],
+    [
+        "ironStorage(Tetsuonando)",
+        "Iron storage (Tetsuonando)",
+        "",
+        43,
+        55,
+        54
+    ],
+    [
+        "italianIce",
+        "Italian ice",
+        "",
+        233,
+        246,
+        239
+    ],
+    [
+        "italianLeather",
+        "Italian leather",
+        "",
+        99,
+        90,
+        82
+    ],
+    [
+        "italianRoast",
+        "Italian roast",
+        "",
+        144,
+        102,
+        82
+    ],
+    [
+        "iwaiBrown(Iwaicha)",
+        "Iwai brown (Iwaicha)",
+        "",
+        94,
+        85,
+        69
+    ],
+    [
+        "jacarta",
+        "Jacarta",
+        "",
+        61,
+        50,
+        93
+    ],
+    [
+        "jackoBean",
+        "Jacko bean",
+        "",
+        65,
+        54,
+        40
+    ],
+    [
+        "japaneseCarmine",
+        "Japanese carmine",
+        "",
+        157,
+        41,
+        51
+    ],
+    [
+        "japaneseIndigo",
+        "Japanese indigo",
+        "",
+        38,
+        67,
+        72
+    ],
+    [
+        "japaneseIrisAndSootyBamboo(Higosusutake)",
+        "Japanese iris and sooty bamboo (Higosusutake)",
+        "",
+        127,
+        93,
+        59
+    ],
+    [
+        "japaneseLaurel",
+        "Japanese laurel",
+        "",
+        47,
+        117,
+        50
+    ],
+    [
+        "japaneseTriandraGrass(ThemedaJaponica)(Kariyasu)",
+        "Japanese triandra grass (Themeda japonica) (Kariyasu)",
+        "",
+        226,
+        177,
+        60
+    ],
+    [
+        "japaneseViolet",
+        "Japanese violet",
+        "",
+        91,
+        50,
+        86
+    ],
+    [
+        "jasperOrange",
+        "Jasper orange",
+        "",
+        222,
+        143,
+        78
+    ],
+    [
+        "jellyBean",
+        "Jelly bean",
+        "",
+        218,
+        97,
+        78
+    ],
+    [
+        "jellyBeanBlue",
+        "Jelly bean blue",
+        "",
+        68,
+        121,
+        142
+    ],
+    [
+        "jet",
+        "Jet",
+        "",
+        52,
+        52,
+        52
+    ],
+    [
+        "jetStream",
+        "Jet stream",
+        "",
+        187,
+        208,
+        201
+    ],
+    [
+        "jonquil",
+        "Jonquil",
+        "",
+        244,
+        202,
+        22
+    ],
+    [
+        "jordyBlue",
+        "Jordy blue",
+        "",
+        138,
+        185,
+        241
+    ],
+    [
+        "kSUPurple",
+        "KSU purple",
+        "",
+        81,
+        40,
+        136
+    ],
+    [
+        "kenyanCopper",
+        "Kenyan copper",
+        "",
+        124,
+        28,
+        5
+    ],
+    [
+        "keppel",
+        "Keppel",
+        "",
+        58,
+        176,
+        158
+    ],
+    [
+        "keyLime",
+        "Key lime",
+        "",
+        232,
+        244,
+        140
+    ],
+    [
+        "kimonoStorage(Omeshionando)",
+        "Kimono storage (Omeshionando)",
+        "",
+        61,
+        76,
+        81
+    ],
+    [
+        "kiwi",
+        "Kiwi",
+        "",
+        142,
+        229,
+        63
+    ],
+    [
+        "kobi",
+        "Kobi",
+        "",
+        231,
+        159,
+        196
+    ],
+    [
+        "kombuGreen",
+        "Kombu green",
+        "",
+        53,
+        66,
+        48
+    ],
+    [
+        "kumquat",
+        "Kumquat",
+        "",
+        251,
+        153,
+        18
+    ],
+    [
+        "lanzones",
+        "Lanzones",
+        "",
+        224,
+        188,
+        91
+    ],
+    [
+        "lapisLazuliColor(Ruri-iro)",
+        "Lapis lazuli color (Ruri-iro)",
+        "",
+        31,
+        71,
+        136
+    ],
+    [
+        "legalDye(fromWhenColorUseWasRegulatedByClass)(Kenpōzome)",
+        "Legal dye (from when color use was regulated by class) (Kenpōzome)",
+        "",
+        46,
+        33,
+        27
+    ],
+    [
+        "lemonIcedTea",
+        "Lemon iced tea",
+        "",
+        189,
+        48,
+        0
+    ],
+    [
+        "lemonLime",
+        "Lemon lime",
+        "",
+        227,
+        255,
+        0
+    ],
+    [
+        "lemonLime",
+        "Lemon lime",
+        "",
+        92,
+        255,
+        103
+    ],
+    [
+        "lemonYellow(Crayola)",
+        "Lemon yellow (Crayola)",
+        "",
+        255,
+        255,
+        159
+    ],
+    [
+        "lenurple",
+        "Lenurple",
+        "",
+        186,
+        147,
+        216
+    ],
+    [
+        "liberty",
+        "Liberty",
+        "",
+        84,
+        90,
+        167
+    ],
+    [
+        "licorice",
+        "Licorice",
+        "",
+        26,
+        17,
+        16
+    ],
+    [
+        "lightFrenchBeige",
+        "Light French beige",
+        "",
+        200,
+        173,
+        127
+    ],
+    [
+        "lightBlueColor(Asagi-iro)",
+        "Light blue color (Asagi-iro)",
+        "",
+        72,
+        146,
+        155
+    ],
+    [
+        "lightBlueFlower(Hanaasagi)",
+        "Light blue flower (Hanaasagi)",
+        "",
+        29,
+        105,
+        124
+    ],
+    [
+        "lightBlueSilk(Hanada)",
+        "Light blue silk (Hanada)",
+        "",
+        4,
+        79,
+        103
+    ],
+    [
+        "lightChocolateCosmos",
+        "Light chocolate cosmos",
+        "",
+        85,
+        31,
+        47
+    ],
+    [
+        "lightCobaltBlue",
+        "Light cobalt blue",
+        "",
+        136,
+        172,
+        224
+    ],
+    [
+        "lightDeepPink",
+        "Light deep pink",
+        "",
+        255,
+        92,
+        205
+    ],
+    [
+        "lightGold",
+        "Light gold",
+        "",
+        178,
+        151,
+        0
+    ],
+    [
+        "lightGrayishMagenta",
+        "Light grayish magenta",
+        "",
+        204,
+        153,
+        204
+    ],
+    [
+        "lightHotPink",
+        "Light hot pink",
+        "",
+        255,
+        179,
+        222
+    ],
+    [
+        "lightMagenta",
+        "Light magenta",
+        "",
+        255,
+        128,
+        255
+    ],
+    [
+        "lightMediumOrchid",
+        "Light medium orchid",
+        "",
+        211,
+        155,
+        203
+    ],
+    [
+        "lightOrange",
+        "Light orange",
+        "",
+        254,
+        216,
+        177
+    ],
+    [
+        "lightOrchid",
+        "Light orchid",
+        "",
+        230,
+        168,
+        215
+    ],
+    [
+        "lightPeriwinkle",
+        "Light periwinkle",
+        "",
+        197,
+        203,
+        225
+    ],
+    [
+        "lightRed",
+        "Light red",
+        "",
+        255,
+        204,
+        203
+    ],
+    [
+        "lightSilver",
+        "Light silver",
+        "",
+        216,
+        216,
+        216
+    ],
+    [
+        "lightYellow(Asagi)",
+        "Light yellow (Asagi)",
+        "",
+        247,
+        187,
+        125
+    ],
+    [
+        "lilacLuster",
+        "Lilac Luster",
+        "",
+        174,
+        152,
+        170
+    ],
+    [
+        "limePulp",
+        "Lime pulp",
+        "",
+        209,
+        225,
+        137
+    ],
+    [
+        "limerick",
+        "Limerick",
+        "",
+        157,
+        194,
+        9
+    ],
+    [
+        "linkedinBlue",
+        "Linkedin Blue",
+        "",
+        0,
+        114,
+        177
+    ],
+    [
+        "littleBoyBlue",
+        "Little boy blue",
+        "",
+        108,
+        160,
+        220
+    ],
+    [
+        "littleGirlPink",
+        "Little girl pink",
+        "",
+        248,
+        185,
+        212
+    ],
+    [
+        "liver(dogs)",
+        "Liver (dogs)",
+        "",
+        184,
+        109,
+        41
+    ],
+    [
+        "liver(organ)",
+        "Liver (organ)",
+        "",
+        108,
+        46,
+        31
+    ],
+    [
+        "liverChestnut",
+        "Liver chestnut",
+        "",
+        152,
+        116,
+        86
+    ],
+    [
+        "longSpring(season)Color(Chōshun-iro)",
+        "Long spring (season) color (Chōshun-iro)",
+        "",
+        185,
+        87,
+        84
+    ],
+    [
+        "loquat(tree)Brown(Biwacha)",
+        "Loquat (tree) brown (Biwacha)",
+        "",
+        171,
+        97,
+        52
+    ],
+    [
+        "lotion",
+        "Lotion",
+        "",
+        254,
+        253,
+        250
+    ],
+    [
+        "lotionBlue",
+        "Lotion blue",
+        "",
+        21,
+        242,
+        253
+    ],
+    [
+        "lotionPink",
+        "Lotion pink",
+        "",
+        236,
+        207,
+        207
+    ],
+    [
+        "lumber",
+        "Lumber",
+        "",
+        255,
+        228,
+        205
+    ],
+    [
+        "lychee",
+        "Lychee",
+        "",
+        220,
+        83,
+        73
+    ],
+    [
+        "lye-colored(Aku-iro)",
+        "Lye-colored (Aku-iro)",
+        "",
+        127,
+        107,
+        93
+    ],
+    [
+        "madderLake",
+        "Madder Lake",
+        "",
+        204,
+        51,
+        54
+    ],
+    [
+        "magenta(Pantone)",
+        "Magenta (Pantone)",
+        "",
+        208,
+        65,
+        126
+    ],
+    [
+        "magenta(dye)",
+        "Magenta (dye)",
+        "",
+        202,
+        31,
+        123
+    ],
+    [
+        "magenta(process)",
+        "Magenta (process)",
+        "",
+        255,
+        0,
+        144
+    ],
+    [
+        "magentaHaze",
+        "Magenta haze",
+        "",
+        159,
+        69,
+        118
+    ],
+    [
+        "magenta-pink",
+        "Magenta-pink",
+        "",
+        204,
+        51,
+        139
+    ],
+    [
+        "magicPotion",
+        "Magic Potion",
+        "",
+        255,
+        68,
+        102
+    ],
+    [
+        "maize(Crayola)",
+        "Maize (Crayola)",
+        "",
+        242,
+        198,
+        73
+    ],
+    [
+        "mandarin",
+        "Mandarin",
+        "",
+        243,
+        122,
+        72
+    ],
+    [
+        "mango",
+        "Mango",
+        "",
+        253,
+        190,
+        2
+    ],
+    [
+        "mangoGreen",
+        "Mango green",
+        "",
+        150,
+        255,
+        0
+    ],
+    [
+        "manila",
+        "Manila",
+        "",
+        231,
+        201,
+        169
+    ],
+    [
+        "mapleSyrup",
+        "Maple syrup",
+        "",
+        187,
+        147,
+        81
+    ],
+    [
+        "mardiGras",
+        "Mardi Gras",
+        "",
+        136,
+        0,
+        133
+    ],
+    [
+        "margarine",
+        "Margarine",
+        "",
+        242,
+        217,
+        48
+    ],
+    [
+        "margarita",
+        "Margarita",
+        "",
+        176,
+        194,
+        74
+    ],
+    [
+        "marigold",
+        "Marigold",
+        "",
+        234,
+        162,
+        33
+    ],
+    [
+        "maroon(ShrimpBrown)(Ebicha)",
+        "Maroon (Shrimp brown) (Ebicha)",
+        "",
+        94,
+        40,
+        36
+    ],
+    [
+        "maximumBlue",
+        "Maximum blue",
+        "",
+        71,
+        171,
+        204
+    ],
+    [
+        "maximumBlueGreen",
+        "Maximum blue green",
+        "",
+        48,
+        191,
+        191
+    ],
+    [
+        "maximumBluePurple",
+        "Maximum blue purple",
+        "",
+        172,
+        172,
+        230
+    ],
+    [
+        "maximumGreen",
+        "Maximum green",
+        "",
+        94,
+        140,
+        49
+    ],
+    [
+        "maximumGreenYellow",
+        "Maximum green yellow",
+        "",
+        217,
+        230,
+        80
+    ],
+    [
+        "maximumOrange",
+        "Maximum orange",
+        "",
+        255,
+        91,
+        0
+    ],
+    [
+        "maximumPurple",
+        "Maximum purple",
+        "",
+        115,
+        51,
+        128
+    ],
+    [
+        "maximumRed",
+        "Maximum red",
+        "",
+        217,
+        33,
+        33
+    ],
+    [
+        "maximumRedPurple",
+        "Maximum red purple",
+        "",
+        166,
+        58,
+        121
+    ],
+    [
+        "maximumYellow",
+        "Maximum yellow",
+        "",
+        250,
+        250,
+        55
+    ],
+    [
+        "maximumYellowRed",
+        "Maximum yellow red",
+        "",
+        242,
+        186,
+        73
+    ],
+    [
+        "mayGreen",
+        "May green",
+        "",
+        76,
+        145,
+        65
+    ],
+    [
+        "meat-color(Shishi-iro)",
+        "Meat-color (Shishi-iro)",
+        "",
+        249,
+        144,
+        111
+    ],
+    [
+        "mediumCrimson(dye)(Nakabeni)",
+        "Medium crimson (dye) (Nakabeni)",
+        "",
+        201,
+        55,
+        86
+    ],
+    [
+        "mediumRuby",
+        "Medium ruby",
+        "",
+        170,
+        64,
+        105
+    ],
+    [
+        "mediumSkyBlue",
+        "Medium sky blue",
+        "",
+        128,
+        218,
+        235
+    ],
+    [
+        "mediumVermilion",
+        "Medium vermilion",
+        "",
+        217,
+        96,
+        59
+    ],
+    [
+        "mellowApricot",
+        "Mellow apricot",
+        "",
+        248,
+        184,
+        120
+    ],
+    [
+        "melon",
+        "Melon",
+        "",
+        254,
+        186,
+        173
+    ],
+    [
+        "menthol",
+        "Menthol",
+        "",
+        193,
+        249,
+        162
+    ],
+    [
+        "metallicSeaweed",
+        "Metallic Seaweed",
+        "",
+        10,
+        126,
+        140
+    ],
+    [
+        "metallicSunburst",
+        "Metallic Sunburst",
+        "",
+        156,
+        124,
+        56
+    ],
+    [
+        "metallicBlue",
+        "Metallic blue",
+        "",
+        50,
+        82,
+        123
+    ],
+    [
+        "metallicBronze",
+        "Metallic bronze",
+        "",
+        169,
+        113,
+        66
+    ],
+    [
+        "metallicBrown",
+        "Metallic brown",
+        "",
+        172,
+        67,
+        19
+    ],
+    [
+        "metallicGreen",
+        "Metallic green",
+        "",
+        41,
+        110,
+        1
+    ],
+    [
+        "metallicOrange",
+        "Metallic orange",
+        "",
+        218,
+        104,
+        15
+    ],
+    [
+        "metallicPink",
+        "Metallic pink",
+        "",
+        237,
+        166,
+        196
+    ],
+    [
+        "metallicRed",
+        "Metallic red",
+        "",
+        166,
+        44,
+        43
+    ],
+    [
+        "metallicViolet",
+        "Metallic violet",
+        "",
+        91,
+        10,
+        145
+    ],
+    [
+        "metallicYellow",
+        "Metallic yellow",
+        "",
+        253,
+        204,
+        13
+    ],
+    [
+        "mexicanPink",
+        "Mexican pink",
+        "",
+        228,
+        0,
+        124
+    ],
+    [
+        "microsoftEdgeBlue",
+        "Microsoft Edge blue",
+        "",
+        0,
+        120,
+        215
+    ],
+    [
+        "microsoftBlue",
+        "Microsoft blue",
+        "",
+        0,
+        162,
+        237
+    ],
+    [
+        "microsoftGreen",
+        "Microsoft green",
+        "",
+        125,
+        183,
+        0
+    ],
+    [
+        "microsoftRed",
+        "Microsoft red",
+        "",
+        240,
+        78,
+        31
+    ],
+    [
+        "microsoftYellow",
+        "Microsoft yellow",
+        "",
+        253,
+        185,
+        0
+    ],
+    [
+        "middleBlue",
+        "Middle blue",
+        "",
+        126,
+        212,
+        230
+    ],
+    [
+        "middleBlueGreen",
+        "Middle blue green",
+        "",
+        141,
+        217,
+        204
+    ],
+    [
+        "middleBluePurple",
+        "Middle blue purple",
+        "",
+        139,
+        114,
+        190
+    ],
+    [
+        "middleGreen",
+        "Middle green",
+        "",
+        77,
+        140,
+        87
+    ],
+    [
+        "middleGreenYellow",
+        "Middle green yellow",
+        "",
+        172,
+        191,
+        96
+    ],
+    [
+        "middleGrey",
+        "Middle grey",
+        "",
+        139,
+        134,
+        128
+    ],
+    [
+        "middlePurple",
+        "Middle purple",
+        "",
+        217,
+        130,
+        181
+    ],
+    [
+        "middleRed",
+        "Middle red",
+        "",
+        229,
+        142,
+        115
+    ],
+    [
+        "middleRedPurple",
+        "Middle red purple",
+        "",
+        165,
+        83,
+        83
+    ],
+    [
+        "middleYellow",
+        "Middle yellow",
+        "",
+        255,
+        235,
+        0
+    ],
+    [
+        "middleYellowRed",
+        "Middle yellow red",
+        "",
+        236,
+        177,
+        118
+    ],
+    [
+        "midnight",
+        "Midnight",
+        "",
+        112,
+        38,
+        112
+    ],
+    [
+        "midnightBlue",
+        "Midnight blue",
+        "",
+        0,
+        70,
+        140
+    ],
+    [
+        "milk",
+        "Milk",
+        "",
+        253,
+        255,
+        245
+    ],
+    [
+        "milkChocolate",
+        "Milk chocolate",
+        "",
+        132,
+        86,
+        60
+    ],
+    [
+        "mimiPink",
+        "Mimi pink",
+        "",
+        255,
+        218,
+        233
+    ],
+    [
+        "mindaro",
+        "Mindaro",
+        "",
+        227,
+        249,
+        136
+    ],
+    [
+        "ming",
+        "Ming",
+        "",
+        54,
+        116,
+        125
+    ],
+    [
+        "minionYellow",
+        "Minion yellow",
+        "",
+        245,
+        224,
+        80
+    ],
+    [
+        "mistyMoss",
+        "Misty moss",
+        "",
+        187,
+        180,
+        119
+    ],
+    [
+        "mocha",
+        "Mocha",
+        "",
+        190,
+        164,
+        147
+    ],
+    [
+        "moonstone",
+        "Moonstone",
+        "",
+        58,
+        168,
+        193
+    ],
+    [
+        "morningBlue",
+        "Morning blue",
+        "",
+        141,
+        163,
+        153
+    ],
+    [
+        "mossColor(Koke-iro)",
+        "Moss color (Koke-iro)",
+        "",
+        139,
+        125,
+        58
+    ],
+    [
+        "mossGreen",
+        "Moss green",
+        "",
+        138,
+        154,
+        91
+    ],
+    [
+        "mousyIndigo(Ainezumi)",
+        "Mousy indigo (Ainezumi)",
+        "",
+        92,
+        84,
+        78
+    ],
+    [
+        "mousyWisteria(Fujinezumi)",
+        "Mousy wisteria (Fujinezumi)",
+        "",
+        118,
+        105,
+        128
+    ],
+    [
+        "mud",
+        "Mud",
+        "",
+        112,
+        84,
+        62
+    ],
+    [
+        "muddyBrown(lit.TheBrownOfADistantRiver)(Enshūcha)",
+        "Muddy brown (lit. the brown of a distant river) (Enshūcha)",
+        "",
+        203,
+        102,
+        73
+    ],
+    [
+        "mughalGreen",
+        "Mughal green",
+        "",
+        48,
+        96,
+        48
+    ],
+    [
+        "mulberry(Crayola)",
+        "Mulberry (Crayola)",
+        "",
+        200,
+        80,
+        155
+    ],
+    [
+        "mulberryDye(Kuwazome)",
+        "Mulberry dye (Kuwazome)",
+        "",
+        89,
+        41,
+        44
+    ],
+    [
+        "mulberry-dyed(Kuwazome)",
+        "Mulberry-dyed (Kuwazome)",
+        "",
+        197,
+        127,
+        46
+    ],
+    [
+        "mustardBrown",
+        "Mustard brown",
+        "",
+        205,
+        122,
+        0
+    ],
+    [
+        "mustardGreen",
+        "Mustard green",
+        "",
+        110,
+        110,
+        48
+    ],
+    [
+        "mustardYellow",
+        "Mustard yellow",
+        "",
+        225,
+        173,
+        1
+    ],
+    [
+        "myrtleGreen",
+        "Myrtle green",
+        "",
+        49,
+        120,
+        115
+    ],
+    [
+        "mystic",
+        "Mystic",
+        "",
+        214,
+        82,
+        130
+    ],
+    [
+        "mysticMaroon",
+        "Mystic maroon",
+        "",
+        173,
+        67,
+        121
+    ],
+    [
+        "mysticRed",
+        "Mystic red",
+        "",
+        255,
+        85,
+        0
+    ],
+    [
+        "navyBlueBellflower(Konkikyō)",
+        "Navy blue bellflower (Konkikyō)",
+        "",
+        25,
+        31,
+        69
+    ],
+    [
+        "neonFuchsia",
+        "Neon Fuchsia",
+        "",
+        254,
+        65,
+        100
+    ],
+    [
+        "neonBlue",
+        "Neon blue",
+        "",
+        27,
+        3,
+        163
+    ],
+    [
+        "newCar",
+        "New Car",
+        "",
+        33,
+        79,
+        198
+    ],
+    [
+        "newYorkPink",
+        "New York pink",
+        "",
+        215,
+        131,
+        127
+    ],
+    [
+        "nickel",
+        "Nickel",
+        "",
+        114,
+        116,
+        114
+    ],
+    [
+        "nightingale-brown(greenishBrown)(Uguisucha)",
+        "Nightingale-brown (greenish brown) (Uguisucha)",
+        "",
+        92,
+        72,
+        39
+    ],
+    [
+        "nintendoRed",
+        "Nintendo red",
+        "",
+        228,
+        0,
+        15
+    ],
+    [
+        "nyanza",
+        "Nyanza",
+        "",
+        233,
+        255,
+        219
+    ],
+    [
+        "oUCrimsonRed",
+        "OU Crimson red",
+        "",
+        132,
+        22,
+        23
+    ],
+    [
+        "oceanBlue",
+        "Ocean Blue",
+        "",
+        79,
+        66,
+        181
+    ],
+    [
+        "oceanGreen",
+        "Ocean green",
+        "",
+        72,
+        191,
+        145
+    ],
+    [
+        "ochre(earthenYellow-red-brown)(Ōtan)",
+        "Ochre (earthen yellow-red-brown) (Ōtan)",
+        "",
+        255,
+        78,
+        32
+    ],
+    [
+        "ochre(lit.EarthenYellow)(Ōdo-iro)",
+        "Ochre (lit. earthen yellow) (Ōdo-iro)",
+        "",
+        190,
+        127,
+        81
+    ],
+    [
+        "ogreOdor",
+        "Ogre Odor",
+        "",
+        253,
+        82,
+        64
+    ],
+    [
+        "oldBambooColor(Oitake-iro)",
+        "Old bamboo color (Oitake-iro)",
+        "",
+        94,
+        100,
+        79
+    ],
+    [
+        "oldBurgundy",
+        "Old burgundy",
+        "",
+        67,
+        48,
+        46
+    ],
+    [
+        "oldMossGreen",
+        "Old moss green",
+        "",
+        134,
+        126,
+        54
+    ],
+    [
+        "oliveDrab#7",
+        "Olive Drab #7",
+        "",
+        60,
+        52,
+        31
+    ],
+    [
+        "oliveGreen",
+        "Olive green",
+        "",
+        181,
+        179,
+        92
+    ],
+    [
+        "onandoColor(Onando-iro)",
+        "Onando color (Onando-iro)",
+        "",
+        54,
+        65,
+        65
+    ],
+    [
+        "oneKin(0.6Kg)Dye(Ikkonzome)",
+        "One kin (0.6 kg) dye (Ikkonzome)",
+        "",
+        240,
+        143,
+        144
+    ],
+    [
+        "onyx",
+        "Onyx",
+        "",
+        53,
+        56,
+        57
+    ],
+    [
+        "opal",
+        "Opal",
+        "",
+        168,
+        195,
+        188
+    ],
+    [
+        "operaRed",
+        "Opera Red",
+        "",
+        255,
+        27,
+        45
+    ],
+    [
+        "oppositeFlowerColor(Masuhana-iro)",
+        "Opposite flower color (Masuhana-iro)",
+        "",
+        77,
+        100,
+        108
+    ],
+    [
+        "orange",
+        "Orange",
+        "",
+        255,
+        102,
+        0
+    ],
+    [
+        "orange(Crayola)",
+        "Orange (Crayola)",
+        "",
+        255,
+        117,
+        56
+    ],
+    [
+        "orange(Pantone)",
+        "Orange (Pantone)",
+        "",
+        255,
+        88,
+        0
+    ],
+    [
+        "orange(RYB)",
+        "Orange (RYB)",
+        "",
+        251,
+        153,
+        2
+    ],
+    [
+        "orange(colorWheel)",
+        "Orange (color wheel)",
+        "",
+        255,
+        127,
+        0
+    ],
+    [
+        "orangeSoda",
+        "Orange soda",
+        "",
+        250,
+        91,
+        61
+    ],
+    [
+        "orangeSoda",
+        "Orange soda",
+        "",
+        235,
+        89,
+        61
+    ],
+    [
+        "orange-red",
+        "Orange-red",
+        "",
+        255,
+        104,
+        31
+    ],
+    [
+        "orange-yellow",
+        "Orange-yellow",
+        "",
+        245,
+        189,
+        31
+    ],
+    [
+        "orchid(Crayola)",
+        "Orchid (Crayola)",
+        "",
+        226,
+        156,
+        210
+    ],
+    [
+        "orchidPink",
+        "Orchid pink",
+        "",
+        242,
+        189,
+        205
+    ],
+    [
+        "oriolesOrange",
+        "Orioles orange",
+        "",
+        251,
+        79,
+        20
+    ],
+    [
+        "outerSpace(Crayola)",
+        "Outer space (Crayola)",
+        "",
+        45,
+        56,
+        58
+    ],
+    [
+        "overdyed/refreshedRed-brown(Sohi)",
+        "Overdyed/refreshed red-brown (Sohi)",
+        "",
+        227,
+        92,
+        56
+    ],
+    [
+        "oxley",
+        "Oxley",
+        "",
+        109,
+        154,
+        121
+    ],
+    [
+        "painite",
+        "Painite",
+        "",
+        107,
+        73,
+        71
+    ],
+    [
+        "paleCyan",
+        "Pale Cyan",
+        "",
+        135,
+        211,
+        248
+    ],
+    [
+        "paleMagenta-Pink",
+        "Pale Magenta-Pink",
+        "",
+        255,
+        153,
+        204
+    ],
+    [
+        "paleViolet",
+        "Pale Violet",
+        "",
+        204,
+        153,
+        255
+    ],
+    [
+        "paleBlue(Usuao)",
+        "Pale blue (Usuao)",
+        "",
+        140,
+        156,
+        118
+    ],
+    [
+        "paleFallenLeaves(Aokuchiba)",
+        "Pale fallen leaves (Aokuchiba)",
+        "",
+        170,
+        135,
+        54
+    ],
+    [
+        "paleGreenOnion(Mizuasagi)",
+        "Pale green onion (Mizuasagi)",
+        "",
+        116,
+        159,
+        141
+    ],
+    [
+        "paleIncense(Usukō)",
+        "Pale incense (Usukō)",
+        "",
+        255,
+        165,
+        101
+    ],
+    [
+        "paleOak(Aoshirotsurubami)",
+        "Pale oak (Aoshirotsurubami)",
+        "",
+        187,
+        164,
+        109
+    ],
+    [
+        "palePersimmon(Usugaki)",
+        "Pale persimmon (Usugaki)",
+        "",
+        252,
+        164,
+        116
+    ],
+    [
+        "palePurple(Pantone)",
+        "Pale purple (Pantone)",
+        "",
+        250,
+        230,
+        250
+    ],
+    [
+        "paleYoungGreenOnion(Usumoegi)",
+        "Pale young green onion (Usumoegi)",
+        "",
+        141,
+        178,
+        85
+    ],
+    [
+        "palmLeaf",
+        "Palm Leaf",
+        "",
+        111,
+        153,
+        64
+    ],
+    [
+        "panasonicBlue",
+        "Panasonic blue",
+        "",
+        0,
+        64,
+        190
+    ],
+    [
+        "paoloVeroneseGreen",
+        "Paolo Veronese green",
+        "",
+        0,
+        155,
+        125
+    ],
+    [
+        "paradisePink",
+        "Paradise pink",
+        "",
+        230,
+        62,
+        98
+    ],
+    [
+        "parakeetBlue",
+        "Parakeet Blue",
+        "",
+        126,
+        182,
+        255
+    ],
+    [
+        "parrotPink",
+        "Parrot Pink",
+        "",
+        217,
+        152,
+        160
+    ],
+    [
+        "pastelPink",
+        "Pastel pink",
+        "",
+        222,
+        165,
+        164
+    ],
+    [
+        "patina(Rokushō)",
+        "Patina (Rokushō)",
+        "",
+        64,
+        122,
+        82
+    ],
+    [
+        "patriniaFlowers(PatriniaScabiosaefolia)(Ominaeshi)",
+        "Patrinia flowers (Patrinia scabiosaefolia) (Ominaeshi)",
+        "",
+        217,
+        182,
+        17
+    ],
+    [
+        "peachBurst",
+        "Peach Burst",
+        "",
+        243,
+        153,
+        152
+    ],
+    [
+        "peach-colored(Momo-iro)",
+        "Peach-colored (Momo-iro)",
+        "",
+        244,
+        121,
+        131
+    ],
+    [
+        "peach-orange",
+        "Peach-orange",
+        "",
+        255,
+        204,
+        153
+    ],
+    [
+        "pearlyPurple",
+        "Pearly purple",
+        "",
+        183,
+        104,
+        162
+    ],
+    [
+        "penguinWhite",
+        "Penguin White",
+        "",
+        245,
+        243,
+        239
+    ],
+    [
+        "permanentGeraniumLake",
+        "Permanent Geranium Lake",
+        "",
+        225,
+        44,
+        44
+    ],
+    [
+        "persianGreen",
+        "Persian green",
+        "",
+        0,
+        166,
+        147
+    ],
+    [
+        "persimmon",
+        "Persimmon",
+        "",
+        236,
+        88,
+        0
+    ],
+    [
+        "persimmon-juiceColor(Kakishibu-iro)",
+        "Persimmon-juice color (Kakishibu-iro)",
+        "",
+        147,
+        67,
+        55
+    ],
+    [
+        "pewterBlue",
+        "Pewter Blue",
+        "",
+        139,
+        168,
+        183
+    ],
+    [
+        "philippineBlue",
+        "Philippine blue",
+        "",
+        0,
+        56,
+        167
+    ],
+    [
+        "philippineBronze",
+        "Philippine bronze",
+        "",
+        110,
+        58,
+        7
+    ],
+    [
+        "philippineBrown",
+        "Philippine brown",
+        "",
+        93,
+        25,
+        22
+    ],
+    [
+        "philippineGold",
+        "Philippine gold",
+        "",
+        177,
+        115,
+        4
+    ],
+    [
+        "philippineGray",
+        "Philippine gray",
+        "",
+        140,
+        140,
+        140
+    ],
+    [
+        "philippineGreen",
+        "Philippine green",
+        "",
+        0,
+        133,
+        67
+    ],
+    [
+        "philippinePink",
+        "Philippine pink",
+        "",
+        250,
+        26,
+        142
+    ],
+    [
+        "philippineRed",
+        "Philippine red",
+        "",
+        206,
+        17,
+        39
+    ],
+    [
+        "philippineSilver",
+        "Philippine silver",
+        "",
+        179,
+        179,
+        179
+    ],
+    [
+        "philippineViolet",
+        "Philippine violet",
+        "",
+        129,
+        0,
+        127
+    ],
+    [
+        "philippineYellow",
+        "Philippine yellow",
+        "",
+        254,
+        203,
+        0
+    ],
+    [
+        "pictonBlue",
+        "Picton blue",
+        "",
+        69,
+        177,
+        232
+    ],
+    [
+        "pictorialCarmine",
+        "Pictorial carmine",
+        "",
+        195,
+        11,
+        78
+    ],
+    [
+        "pineNeedleColor(Matsuba-iro)",
+        "Pine needle color (Matsuba-iro)",
+        "",
+        69,
+        77,
+        50
+    ],
+    [
+        "pineTree",
+        "Pine tree",
+        "",
+        42,
+        47,
+        35
+    ],
+    [
+        "pineapple",
+        "Pineapple",
+        "",
+        86,
+        60,
+        13
+    ],
+    [
+        "pink(Pantone)",
+        "Pink (Pantone)",
+        "",
+        215,
+        72,
+        148
+    ],
+    [
+        "pinkLace",
+        "Pink lace",
+        "",
+        255,
+        221,
+        244
+    ],
+    [
+        "pinkLavender",
+        "Pink lavender",
+        "",
+        216,
+        178,
+        209
+    ],
+    [
+        "pinkRaspberry",
+        "Pink raspberry",
+        "",
+        152,
+        0,
+        54
+    ],
+    [
+        "pixiePowder",
+        "Pixie Powder",
+        "",
+        57,
+        18,
+        133
+    ],
+    [
+        "plainMouse(Sunezumi)",
+        "Plain mouse (Sunezumi)",
+        "",
+        110,
+        95,
+        87
+    ],
+    [
+        "plumPurple(Umemurasaki)",
+        "Plum purple (Umemurasaki)",
+        "",
+        143,
+        65,
+        85
+    ],
+    [
+        "plum-blossomMouse(Umenezumi)",
+        "Plum-blossom mouse (Umenezumi)",
+        "",
+        151,
+        100,
+        90
+    ],
+    [
+        "plum-dyed(Umezome)",
+        "Plum-dyed (Umezome)",
+        "",
+        250,
+        146,
+        88
+    ],
+    [
+        "plumpPurple",
+        "Plump Purple",
+        "",
+        89,
+        70,
+        178
+    ],
+    [
+        "pokerGreen",
+        "Poker Green",
+        "",
+        53,
+        101,
+        77
+    ],
+    [
+        "polishedPine",
+        "Polished Pine",
+        "",
+        93,
+        164,
+        147
+    ],
+    [
+        "polishedBrown(Tonocha)",
+        "Polished brown (Tonocha)",
+        "",
+        152,
+        85,
+        56
+    ],
+    [
+        "pomegranate",
+        "Pomegranate",
+        "",
+        102,
+        12,
+        33
+    ],
+    [
+        "pomelo",
+        "Pomelo",
+        "",
+        150,
+        165,
+        60
+    ],
+    [
+        "pomeloOlive",
+        "Pomelo Olive",
+        "",
+        191,
+        189,
+        112
+    ],
+    [
+        "pomeloWhite",
+        "Pomelo White",
+        "",
+        249,
+        255,
+        227
+    ],
+    [
+        "poppyPetal",
+        "Poppy Petal",
+        "",
+        246,
+        160,
+        140
+    ],
+    [
+        "popstar",
+        "Popstar",
+        "",
+        190,
+        79,
+        98
+    ],
+    [
+        "porcupine",
+        "Porcupine",
+        "",
+        147,
+        105,
+        0
+    ],
+    [
+        "princessPerfume",
+        "Princess Perfume",
+        "",
+        255,
+        133,
+        207
+    ],
+    [
+        "princetonOrange",
+        "Princeton orange",
+        "",
+        245,
+        128,
+        37
+    ],
+    [
+        "prussianBlueColor(Konjō-iro)",
+        "Prussian blue color (Konjō-iro)",
+        "",
+        0,
+        49,
+        113
+    ],
+    [
+        "pullmanBrown(UPSBrown)",
+        "Pullman Brown (UPS Brown)",
+        "",
+        100,
+        65,
+        23
+    ],
+    [
+        "pullmanGreen",
+        "Pullman Green",
+        "",
+        59,
+        51,
+        28
+    ],
+    [
+        "pureCrimson(dye)(Akabeni)",
+        "Pure crimson (dye) (Akabeni)",
+        "",
+        195,
+        39,
+        43
+    ],
+    [
+        "purple(Munsell)",
+        "Purple (Munsell)",
+        "",
+        159,
+        0,
+        197
+    ],
+    [
+        "purple(Murasaki)",
+        "Purple (Murasaki)",
+        "",
+        79,
+        40,
+        75
+    ],
+    [
+        "purplePlum",
+        "Purple Plum",
+        "",
+        156,
+        81,
+        182
+    ],
+    [
+        "purpleKite(Murasakitobi)",
+        "Purple kite (Murasakitobi)",
+        "",
+        81,
+        44,
+        49
+    ],
+    [
+        "purpleNavy",
+        "Purple navy",
+        "",
+        78,
+        81,
+        128
+    ],
+    [
+        "purpureus",
+        "Purpureus",
+        "",
+        154,
+        78,
+        174
+    ],
+    [
+        "quartz",
+        "Quartz",
+        "",
+        81,
+        72,
+        79
+    ],
+    [
+        "queenBlue",
+        "Queen blue",
+        "",
+        67,
+        107,
+        149
+    ],
+    [
+        "queenPink",
+        "Queen pink",
+        "",
+        232,
+        204,
+        215
+    ],
+    [
+        "quickSilver",
+        "Quick Silver",
+        "",
+        166,
+        166,
+        166
+    ],
+    [
+        "quinacridoneMagenta",
+        "Quinacridone magenta",
+        "",
+        142,
+        58,
+        89
+    ],
+    [
+        "quincy",
+        "Quincy",
+        "",
+        106,
+        84,
+        69
+    ],
+    [
+        "rabbit-earIris(Kakitsubata)",
+        "Rabbit-ear iris (Kakitsubata)",
+        "",
+        73,
+        30,
+        60
+    ],
+    [
+        "raisinBlack",
+        "Raisin black",
+        "",
+        36,
+        33,
+        36
+    ],
+    [
+        "rajah",
+        "Rajah",
+        "",
+        251,
+        171,
+        96
+    ],
+    [
+        "rambutan",
+        "Rambutan",
+        "",
+        199,
+        18,
+        50
+    ],
+    [
+        "rambutanRed",
+        "Rambutan Red",
+        "",
+        167,
+        33,
+        39
+    ],
+    [
+        "rape-blossomBrown(Nanohanacha)",
+        "Rape-blossom brown (Nanohanacha)",
+        "",
+        227,
+        177,
+        48
+    ],
+    [
+        "rapeseedOil-colored(Nataneyu-iro)",
+        "Rapeseed oil-colored (Nataneyu-iro)",
+        "",
+        161,
+        121,
+        23
+    ],
+    [
+        "rawUmber",
+        "Raw umber",
+        "",
+        130,
+        102,
+        68
+    ],
+    [
+        "razzmicBerry",
+        "Razzmic Berry",
+        "",
+        141,
+        78,
+        133
+    ],
+    [
+        "rebeccaPurple",
+        "Rebecca Purple",
+        "",
+        102,
+        51,
+        153
+    ],
+    [
+        "red(Crayola)",
+        "Red (Crayola)",
+        "",
+        238,
+        32,
+        77
+    ],
+    [
+        "red(Munsell)",
+        "Red (Munsell)",
+        "",
+        242,
+        0,
+        60
+    ],
+    [
+        "red(NCS)",
+        "Red (NCS)",
+        "",
+        196,
+        2,
+        51
+    ],
+    [
+        "red(RYB)",
+        "Red (RYB)",
+        "",
+        254,
+        39,
+        18
+    ],
+    [
+        "redSalsa",
+        "Red Salsa",
+        "",
+        253,
+        58,
+        74
+    ],
+    [
+        "redBeanColor(Azuki-iro)",
+        "Red bean color (Azuki-iro)",
+        "",
+        103,
+        36,
+        34
+    ],
+    [
+        "redBirch(Benikaba)",
+        "Red birch (Benikaba)",
+        "",
+        157,
+        43,
+        34
+    ],
+    [
+        "redCola",
+        "Red cola",
+        "",
+        182,
+        32,
+        32
+    ],
+    [
+        "redDevil",
+        "Red devil",
+        "",
+        134,
+        1,
+        17
+    ],
+    [
+        "redIncense-colored(Akakō-iro)",
+        "Red incense-colored (Akakō-iro)",
+        "",
+        240,
+        127,
+        94
+    ],
+    [
+        "redKite(birdSpecies)(Benitobi)",
+        "Red kite (bird species) (Benitobi)",
+        "",
+        145,
+        50,
+        40
+    ],
+    [
+        "redOchreColor(Taisha-iro)",
+        "Red ochre color (Taisha-iro)",
+        "",
+        159,
+        82,
+        51
+    ],
+    [
+        "redPlumColored(Kōbai-iro)",
+        "Red plum colored (Kōbai-iro)",
+        "",
+        219,
+        90,
+        107
+    ],
+    [
+        "redWisteria(Benifuji)",
+        "Red wisteria (Benifuji)",
+        "",
+        187,
+        119,
+        150
+    ],
+    [
+        "red-bronze(lit.RedDyeAndTurmeric)(Beniukon)",
+        "Red-bronze (lit. red dye and turmeric) (Beniukon)",
+        "",
+        251,
+        129,
+        54
+    ],
+    [
+        "red-brown(EdoBrown)(Edocha)",
+        "Red-brown (Edo brown) (Edocha)",
+        "",
+        161,
+        61,
+        45
+    ],
+    [
+        "red-brown(lit.Chestnut-plum)(Kiriume)",
+        "Red-brown (lit. chestnut-plum) (Kiriume)",
+        "",
+        139,
+        53,
+        45
+    ],
+    [
+        "red-orange(lit.Orangutan-colored)(Shōjōhi)",
+        "Red-orange (lit. orangutan-colored) (Shōjōhi)",
+        "",
+        220,
+        48,
+        35
+    ],
+    [
+        "red-violet(ColorWheel)",
+        "Red-violet (Color wheel)",
+        "",
+        146,
+        43,
+        62
+    ],
+    [
+        "red-violet(Crayola)",
+        "Red-violet (Crayola)",
+        "",
+        192,
+        68,
+        143
+    ],
+    [
+        "redwood",
+        "Redwood",
+        "",
+        164,
+        90,
+        82
+    ],
+    [
+        "regalia",
+        "Regalia",
+        "",
+        82,
+        45,
+        128
+    ],
+    [
+        "resolutionBlue",
+        "Resolution blue",
+        "",
+        0,
+        35,
+        135
+    ],
+    [
+        "rhythm",
+        "Rhythm",
+        "",
+        119,
+        118,
+        150
+    ],
+    [
+        "richBlack(FOGRA29)",
+        "Rich black (FOGRA29)",
+        "",
+        1,
+        11,
+        19
+    ],
+    [
+        "richBlack(FOGRA39)",
+        "Rich black (FOGRA39)",
+        "",
+        1,
+        2,
+        3
+    ],
+    [
+        "richBrilliantLavender",
+        "Rich brilliant lavender",
+        "",
+        241,
+        167,
+        254
+    ],
+    [
+        "richGardenia(Kokikuchinashi)",
+        "Rich gardenia (Kokikuchinashi)",
+        "",
+        245,
+        127,
+        79
+    ],
+    [
+        "richLavender",
+        "Rich lavender",
+        "",
+        167,
+        107,
+        207
+    ],
+    [
+        "rifleGreen",
+        "Rifle green",
+        "",
+        68,
+        76,
+        56
+    ],
+    [
+        "rikanBrown(Rikancha)",
+        "Rikan brown (Rikancha)",
+        "",
+        83,
+        74,
+        50
+    ],
+    [
+        "rinsed-outRed(Araishu)",
+        "Rinsed-out red (Araishu)",
+        "",
+        255,
+        121,
+        82
+    ],
+    [
+        "ripeMango",
+        "Ripe mango",
+        "",
+        255,
+        195,
+        36
+    ],
+    [
+        "rocketMetallic",
+        "Rocket metallic",
+        "",
+        138,
+        127,
+        128
+    ],
+    [
+        "romanSilver",
+        "Roman silver",
+        "",
+        131,
+        137,
+        150
+    ],
+    [
+        "rootBeer",
+        "Root beer",
+        "",
+        41,
+        14,
+        5
+    ],
+    [
+        "roseDust",
+        "Rose Dust",
+        "",
+        158,
+        94,
+        111
+    ],
+    [
+        "roseEbony",
+        "Rose ebony",
+        "",
+        103,
+        72,
+        70
+    ],
+    [
+        "roseGarnet",
+        "Rose garnet",
+        "",
+        150,
+        1,
+        69
+    ],
+    [
+        "roseQuartzPink",
+        "Rose quartz pink",
+        "",
+        189,
+        85,
+        156
+    ],
+    [
+        "roseRed",
+        "Rose red",
+        "",
+        194,
+        30,
+        86
+    ],
+    [
+        "royalBlue(dark)",
+        "Royal blue (dark)",
+        "",
+        0,
+        35,
+        102
+    ],
+    [
+        "royalBrown",
+        "Royal brown",
+        "",
+        82,
+        59,
+        53
+    ],
+    [
+        "royalGreen",
+        "Royal green",
+        "",
+        19,
+        98,
+        7
+    ],
+    [
+        "royalOrange",
+        "Royal orange",
+        "",
+        249,
+        146,
+        69
+    ],
+    [
+        "royalPink",
+        "Royal pink",
+        "",
+        231,
+        56,
+        149
+    ],
+    [
+        "royalRed",
+        "Royal red",
+        "",
+        208,
+        0,
+        96
+    ],
+    [
+        "royalRed",
+        "Royal red",
+        "",
+        155,
+        28,
+        49
+    ],
+    [
+        "ruber",
+        "Ruber",
+        "",
+        206,
+        70,
+        118
+    ],
+    [
+        "rubineRed",
+        "Rubine red",
+        "",
+        209,
+        0,
+        86
+    ],
+    [
+        "rubyRed",
+        "Ruby red",
+        "",
+        155,
+        17,
+        30
+    ],
+    [
+        "rum",
+        "Rum",
+        "",
+        113,
+        102,
+        117
+    ],
+    [
+        "russianGreen",
+        "Russian green",
+        "",
+        103,
+        146,
+        103
+    ],
+    [
+        "russianViolet",
+        "Russian violet",
+        "",
+        50,
+        23,
+        77
+    ],
+    [
+        "rustedLight-blue(Sabiasagi)",
+        "Rusted light-blue (Sabiasagi)",
+        "",
+        106,
+        127,
+        122
+    ],
+    [
+        "rustyCeladon(Sabiseiji)",
+        "Rusty celadon (Sabiseiji)",
+        "",
+        137,
+        138,
+        116
+    ],
+    [
+        "rustyRed",
+        "Rusty red",
+        "",
+        218,
+        44,
+        67
+    ],
+    [
+        "rustyStorage(Sabionando)",
+        "Rusty storage (Sabionando)",
+        "",
+        69,
+        88,
+        89
+    ],
+    [
+        "rustyStoreroom(Sabitetsuonando)",
+        "Rusty storeroom (Sabitetsuonando)",
+        "",
+        58,
+        64,
+        59
+    ],
+    [
+        "sacramentoStateGreen",
+        "Sacramento State green",
+        "",
+        4,
+        57,
+        39
+    ],
+    [
+        "safetyOrange",
+        "Safety orange",
+        "",
+        255,
+        120,
+        0
+    ],
+    [
+        "safetyYellow",
+        "Safety yellow",
+        "",
+        238,
+        210,
+        2
+    ],
+    [
+        "safflowerColor(Benikakehana-iro)",
+        "Safflower color (Benikakehana-iro)",
+        "",
+        90,
+        79,
+        116
+    ],
+    [
+        "sage",
+        "Sage",
+        "",
+        188,
+        184,
+        138
+    ],
+    [
+        "salmonRose",
+        "Salmon Rose",
+        "",
+        231,
+        150,
+        139
+    ],
+    [
+        "samsungBlue",
+        "Samsung blue",
+        "",
+        18,
+        39,
+        158
+    ],
+    [
+        "sandyTan",
+        "Sandy Tan",
+        "",
+        253,
+        217,
+        181
+    ],
+    [
+        "sangria",
+        "Sangria",
+        "",
+        146,
+        0,
+        10
+    ],
+    [
+        "sappanwood(Suō)",
+        "Sappanwood (Suō)",
+        "",
+        126,
+        38,
+        57
+    ],
+    [
+        "sappanwoodIncense(Suōkō)",
+        "Sappanwood incense (Suōkō)",
+        "",
+        162,
+        79,
+        70
+    ],
+    [
+        "sasquatchSocks",
+        "Sasquatch Socks",
+        "",
+        255,
+        70,
+        129
+    ],
+    [
+        "sawtoothOak(Akashirotsurubami)",
+        "Sawtooth oak (Akashirotsurubami)",
+        "",
+        236,
+        149,
+        108
+    ],
+    [
+        "scarlet(blood)(Ake)",
+        "Scarlet (blood) (Ake)",
+        "",
+        207,
+        58,
+        36
+    ],
+    [
+        "scorchedBrown(Kogecha)",
+        "Scorched brown (Kogecha)",
+        "",
+        53,
+        31,
+        25
+    ],
+    [
+        "screamin'Green",
+        "Screamin' Green",
+        "",
+        102,
+        255,
+        102
+    ],
+    [
+        "seaFoamGreen",
+        "Sea Foam Green",
+        "",
+        159,
+        226,
+        191
+    ],
+    [
+        "seaSerpent",
+        "Sea Serpent",
+        "",
+        75,
+        199,
+        207
+    ],
+    [
+        "seaGreen(Crayola)",
+        "Sea green (Crayola)",
+        "",
+        0,
+        255,
+        205
+    ],
+    [
+        "sealBrown",
+        "Seal brown",
+        "",
+        89,
+        38,
+        11
+    ],
+    [
+        "senNoRikyu'sTea(Rikyūcha)",
+        "Sen no Rikyu's tea (Rikyūcha)",
+        "",
+        130,
+        107,
+        88
+    ],
+    [
+        "sesameStreetGreen",
+        "Sesame Street Green",
+        "",
+        0,
+        168,
+        112
+    ],
+    [
+        "shadowBlue",
+        "Shadow blue",
+        "",
+        119,
+        139,
+        165
+    ],
+    [
+        "shampoo",
+        "Shampoo",
+        "",
+        255,
+        207,
+        241
+    ],
+    [
+        "shandy",
+        "Shandy",
+        "",
+        255,
+        230,
+        112
+    ],
+    [
+        "sheenGreen",
+        "Sheen green",
+        "",
+        143,
+        212,
+        0
+    ],
+    [
+        "shimmeringBlush",
+        "Shimmering Blush",
+        "",
+        217,
+        134,
+        149
+    ],
+    [
+        "shinyShamrock",
+        "Shiny Shamrock",
+        "",
+        95,
+        167,
+        120
+    ],
+    [
+        "silkCrepeBrown(Omeshicha)",
+        "Silk crepe brown (Omeshicha)",
+        "",
+        53,
+        78,
+        75
+    ],
+    [
+        "silver(Metallic)",
+        "Silver (Metallic)",
+        "",
+        170,
+        169,
+        173
+    ],
+    [
+        "silverLakeBlue",
+        "Silver Lake blue",
+        "",
+        93,
+        137,
+        186
+    ],
+    [
+        "silverChalice",
+        "Silver chalice",
+        "",
+        172,
+        172,
+        172
+    ],
+    [
+        "silverFoil",
+        "Silver foil",
+        "",
+        175,
+        177,
+        174
+    ],
+    [
+        "silverPink",
+        "Silver pink",
+        "",
+        196,
+        174,
+        173
+    ],
+    [
+        "silverSand",
+        "Silver sand",
+        "",
+        191,
+        193,
+        194
+    ],
+    [
+        "silver-grey(Ginnezumi)",
+        "Silver-grey (Ginnezumi)",
+        "",
+        151,
+        134,
+        124
+    ],
+    [
+        "simmeredSeaweed(Mirucha)",
+        "Simmered seaweed (Mirucha)",
+        "",
+        76,
+        61,
+        48
+    ],
+    [
+        "siskinSproutYellow(Hiwamoegi)",
+        "Siskin sprout yellow (Hiwamoegi)",
+        "",
+        122,
+        148,
+        46
+    ],
+    [
+        "sizzlingRed",
+        "Sizzling Red",
+        "",
+        255,
+        56,
+        85
+    ],
+    [
+        "sizzlingSunrise",
+        "Sizzling Sunrise",
+        "",
+        255,
+        219,
+        0
+    ],
+    [
+        "skyBlueColor(Sora-iro)",
+        "Sky Blue color (Sora-iro)",
+        "",
+        77,
+        143,
+        172
+    ],
+    [
+        "skyBlue(Crayola)",
+        "Sky blue (Crayola)",
+        "",
+        118,
+        215,
+        234
+    ],
+    [
+        "slimyGreen",
+        "Slimy green",
+        "",
+        41,
+        150,
+        23
+    ],
+    [
+        "smashedPumpkin",
+        "Smashed Pumpkin",
+        "",
+        255,
+        109,
+        58
+    ],
+    [
+        "smitten",
+        "Smitten",
+        "",
+        200,
+        65,
+        134
+    ],
+    [
+        "smoke",
+        "Smoke",
+        "",
+        115,
+        130,
+        118
+    ],
+    [
+        "smokeyTopaz",
+        "Smokey Topaz",
+        "",
+        131,
+        42,
+        13
+    ],
+    [
+        "soap",
+        "Soap",
+        "",
+        206,
+        200,
+        239
+    ],
+    [
+        "soldierGreen",
+        "Soldier Green",
+        "",
+        84,
+        90,
+        44
+    ],
+    [
+        "solidPink",
+        "Solid pink",
+        "",
+        137,
+        56,
+        67
+    ],
+    [
+        "sonicSilver",
+        "Sonic silver",
+        "",
+        117,
+        117,
+        117
+    ],
+    [
+        "sootyWillowBamboo(Yanagisusutake)",
+        "Sooty willow bamboo (Yanagisusutake)",
+        "",
+        77,
+        75,
+        58
+    ],
+    [
+        "spaceCadet",
+        "Space cadet",
+        "",
+        29,
+        41,
+        81
+    ],
+    [
+        "spanishBistre",
+        "Spanish bistre",
+        "",
+        128,
+        117,
+        50
+    ],
+    [
+        "spanishBlue",
+        "Spanish blue",
+        "",
+        0,
+        112,
+        184
+    ],
+    [
+        "spanishCarmine",
+        "Spanish carmine",
+        "",
+        209,
+        0,
+        71
+    ],
+    [
+        "spanishCrimson",
+        "Spanish crimson",
+        "",
+        229,
+        26,
+        76
+    ],
+    [
+        "spanishGray",
+        "Spanish gray",
+        "",
+        152,
+        152,
+        152
+    ],
+    [
+        "spanishOrange",
+        "Spanish orange",
+        "",
+        232,
+        97,
+        0
+    ],
+    [
+        "spanishPink",
+        "Spanish pink",
+        "",
+        247,
+        191,
+        190
+    ],
+    [
+        "spanishPurple",
+        "Spanish purple",
+        "",
+        102,
+        3,
+        60
+    ],
+    [
+        "spanishRed",
+        "Spanish red",
+        "",
+        230,
+        0,
+        38
+    ],
+    [
+        "spanishViolet",
+        "Spanish violet",
+        "",
+        76,
+        40,
+        130
+    ],
+    [
+        "spanishViridian",
+        "Spanish viridian",
+        "",
+        0,
+        127,
+        92
+    ],
+    [
+        "spanishYellow",
+        "Spanish yellow",
+        "",
+        246,
+        181,
+        17
+    ],
+    [
+        "sparrow-brown(Suzumecha)",
+        "Sparrow-brown (Suzumecha)",
+        "",
+        140,
+        71,
+        54
+    ],
+    [
+        "spartanCrimson",
+        "Spartan Crimson",
+        "",
+        158,
+        19,
+        22
+    ],
+    [
+        "spicyMix",
+        "Spicy mix",
+        "",
+        139,
+        95,
+        77
+    ],
+    [
+        "spicyRed-brown(ChineseTeaBrown)(Karacha)",
+        "Spicy red-brown (Chinese tea brown) (Karacha)",
+        "",
+        179,
+        92,
+        68
+    ],
+    [
+        "sponge",
+        "Sponge",
+        "",
+        253,
+        254,
+        3
+    ],
+    [
+        "springFrost",
+        "Spring Frost",
+        "",
+        135,
+        255,
+        42
+    ],
+    [
+        "sprintRed",
+        "Sprint Red",
+        "",
+        236,
+        33,
+        49
+    ],
+    [
+        "sprintYellow",
+        "Sprint Yellow",
+        "",
+        255,
+        221,
+        5
+    ],
+    [
+        "stainedRed(Benimidori)",
+        "Stained red (Benimidori)",
+        "",
+        120,
+        119,
+        155
+    ],
+    [
+        "starCommandBlue",
+        "Star command blue",
+        "",
+        0,
+        123,
+        184
+    ],
+    [
+        "steamedChestnutColor(Mushikuri-iro)",
+        "Steamed chestnut color (Mushikuri-iro)",
+        "",
+        211,
+        177,
+        125
+    ],
+    [
+        "steelTeal",
+        "Steel Teal",
+        "",
+        95,
+        138,
+        139
+    ],
+    [
+        "steelPink",
+        "Steel pink",
+        "",
+        204,
+        51,
+        204
+    ],
+    [
+        "stoneTerrace",
+        "Stone Terrace",
+        "",
+        160,
+        148,
+        132
+    ],
+    [
+        "stopRed",
+        "Stop red",
+        "",
+        207,
+        20,
+        43
+    ],
+    [
+        "storeroomBrown(Onandocha)",
+        "Storeroom brown (Onandocha)",
+        "",
+        61,
+        64,
+        53
+    ],
+    [
+        "stormcloud",
+        "Stormcloud",
+        "",
+        79,
+        102,
+        106
+    ],
+    [
+        "strawberry",
+        "Strawberry",
+        "",
+        252,
+        90,
+        141
+    ],
+    [
+        "strawberryDaiquiri",
+        "Strawberry Daiquiri",
+        "",
+        217,
+        70,
+        62
+    ],
+    [
+        "strawberryJam",
+        "Strawberry Jam",
+        "",
+        139,
+        23,
+        26
+    ],
+    [
+        "strawberryRed",
+        "Strawberry red",
+        "",
+        200,
+        63,
+        73
+    ],
+    [
+        "strongBoyPink",
+        "Strong boy pink",
+        "",
+        233,
+        57,
+        158
+    ],
+    [
+        "stylishPersimmon(Sharegaki)",
+        "Stylish persimmon (Sharegaki)",
+        "",
+        255,
+        162,
+        107
+    ],
+    [
+        "sugarPlum",
+        "Sugar Plum",
+        "",
+        145,
+        78,
+        117
+    ],
+    [
+        "sumac-dyed(Hajizome)",
+        "Sumac-dyed (Hajizome)",
+        "",
+        224,
+        138,
+        30
+    ],
+    [
+        "sumac-dyed(Kōrozen)",
+        "Sumac-dyed (Kōrozen)",
+        "",
+        89,
+        43,
+        31
+    ],
+    [
+        "sunburntCyclops",
+        "Sunburnt Cyclops",
+        "",
+        255,
+        64,
+        76
+    ],
+    [
+        "sunny",
+        "Sunny",
+        "",
+        242,
+        242,
+        122
+    ],
+    [
+        "sunray",
+        "Sunray",
+        "",
+        227,
+        171,
+        87
+    ],
+    [
+        "sunsetYellow",
+        "Sunset Yellow",
+        "",
+        255,
+        201,
+        34
+    ],
+    [
+        "superPink",
+        "Super pink",
+        "",
+        207,
+        107,
+        169
+    ],
+    [
+        "sweetBrown",
+        "Sweet Brown",
+        "",
+        168,
+        55,
+        49
+    ],
+    [
+        "sweetSixteen",
+        "Sweet Sixteen",
+        "",
+        242,
+        158,
+        171
+    ],
+    [
+        "tan(Crayola)",
+        "Tan (Crayola)",
+        "",
+        217,
+        154,
+        108
+    ],
+    [
+        "taobaoOrange",
+        "Taobao Orange",
+        "",
+        255,
+        66,
+        0
+    ],
+    [
+        "tardisBlue",
+        "Tardis blue",
+        "",
+        0,
+        59,
+        111
+    ],
+    [
+        "tartOrange",
+        "Tart Orange",
+        "",
+        251,
+        77,
+        70
+    ],
+    [
+        "tatarianAsterColor(Shion-iro)",
+        "Tatarian aster color (Shion-iro)",
+        "",
+        151,
+        110,
+        154
+    ],
+    [
+        "tealDeer",
+        "Teal deer",
+        "",
+        153,
+        230,
+        179
+    ],
+    [
+        "tealGreen",
+        "Teal green",
+        "",
+        0,
+        130,
+        127
+    ],
+    [
+        "telemagenta",
+        "Telemagenta",
+        "",
+        207,
+        52,
+        118
+    ],
+    [
+        "temptress",
+        "Temptress",
+        "",
+        60,
+        33,
+        38
+    ],
+    [
+        "theColorOfAnUndriedWall(Namakabe-iro)",
+        "The color of an undried wall (Namakabe-iro)",
+        "",
+        120,
+        94,
+        73
+    ],
+    [
+        "thinColor(Usu-iro)",
+        "Thin color (Usu-iro)",
+        "",
+        168,
+        124,
+        160
+    ],
+    [
+        "thistle(Crayola)",
+        "Thistle (Crayola)",
+        "",
+        235,
+        176,
+        215
+    ],
+    [
+        "thousandHerbColor(Chigusa-iro)",
+        "Thousand herb color (Chigusa-iro)",
+        "",
+        49,
+        117,
+        137
+    ],
+    [
+        "thousandYearOldBrown(Sensaicha)",
+        "Thousand year old brown (Sensaicha)",
+        "",
+        59,
+        52,
+        41
+    ],
+    [
+        "thousandYearOldGreen(Sensaimidori)",
+        "Thousand year old green (Sensaimidori)",
+        "",
+        55,
+        66,
+        49
+    ],
+    [
+        "thrice-dyedCrimson(Jinzamomi)",
+        "Thrice-dyed crimson (Jinzamomi)",
+        "",
+        247,
+        102,
+        90
+    ],
+    [
+        "titanium",
+        "Titanium",
+        "",
+        135,
+        134,
+        129
+    ],
+    [
+        "tomatoSauce",
+        "Tomato sauce",
+        "",
+        178,
+        24,
+        7
+    ],
+    [
+        "treePeony(Bōtan)",
+        "Tree peony (Bōtan)",
+        "",
+        164,
+        52,
+        93
+    ],
+    [
+        "tropicalViolet",
+        "Tropical violet",
+        "",
+        205,
+        164,
+        222
+    ],
+    [
+        "trueBlue",
+        "True Blue",
+        "",
+        0,
+        115,
+        207
+    ],
+    [
+        "trueRed(Shinshu)",
+        "True red (Shinshu)",
+        "",
+        143,
+        29,
+        33
+    ],
+    [
+        "tulip",
+        "Tulip",
+        "",
+        255,
+        135,
+        141
+    ],
+    [
+        "turmeric-colored(Ukon-iro)",
+        "Turmeric-colored (Ukon-iro)",
+        "",
+        230,
+        155,
+        58
+    ],
+    [
+        "turquoiseSurf",
+        "Turquoise Surf",
+        "",
+        0,
+        197,
+        205
+    ],
+    [
+        "tuscanRed",
+        "Tuscan red",
+        "",
+        124,
+        72,
+        72
+    ],
+    [
+        "tuscany",
+        "Tuscany",
+        "",
+        192,
+        153,
+        153
+    ],
+    [
+        "twitterBlue",
+        "Twitter blue",
+        "",
+        38,
+        167,
+        222
+    ],
+    [
+        "uERed",
+        "UE red",
+        "",
+        186,
+        0,
+        1
+    ],
+    [
+        "uSAFABlue",
+        "USAFA blue",
+        "",
+        0,
+        79,
+        152
+    ],
+    [
+        "uclaBlue",
+        "Ucla Blue",
+        "",
+        83,
+        104,
+        149
+    ],
+    [
+        "uclaGold",
+        "Ucla Gold",
+        "",
+        255,
+        179,
+        0
+    ],
+    [
+        "ultramarineColor(Gunjō-iro)",
+        "Ultramarine color (Gunjō-iro)",
+        "",
+        93,
+        140,
+        174
+    ],
+    [
+        "unbleachedSilk",
+        "Unbleached silk",
+        "",
+        255,
+        221,
+        202
+    ],
+    [
+        "undersideOfWillowLeaves(Urahayanagi)",
+        "Underside of willow leaves (Urahayanagi)",
+        "",
+        188,
+        181,
+        140
+    ],
+    [
+        "universityOfTennesseeOrange",
+        "University Of Tennessee Orange",
+        "",
+        247,
+        127,
+        0
+    ],
+    [
+        "vampireBlack",
+        "Vampire black",
+        "",
+        8,
+        8,
+        8
+    ],
+    [
+        "vanDykeBrown",
+        "Van Dyke brown",
+        "",
+        102,
+        66,
+        40
+    ],
+    [
+        "vanillaIce",
+        "Vanilla ice",
+        "",
+        243,
+        143,
+        169
+    ],
+    [
+        "velvet(Birōdo)",
+        "Velvet (Birōdo)",
+        "",
+        34,
+        70,
+        52
+    ],
+    [
+        "verizonRed",
+        "Verizon Red",
+        "",
+        205,
+        4,
+        11
+    ],
+    [
+        "verizonRed(2000-2015)",
+        "Verizon Red (2000-2015)",
+        "",
+        236,
+        28,
+        36
+    ],
+    [
+        "vermilion",
+        "Vermilion",
+        "",
+        217,
+        56,
+        30
+    ],
+    [
+        "verseGreen",
+        "Verse green",
+        "",
+        24,
+        136,
+        13
+    ],
+    [
+        "veryLightAzure",
+        "Very light azure",
+        "",
+        116,
+        187,
+        251
+    ],
+    [
+        "veryLightBlue",
+        "Very light blue",
+        "",
+        102,
+        102,
+        255
+    ],
+    [
+        "veryLightTangelo",
+        "Very light tangelo",
+        "",
+        255,
+        176,
+        119
+    ],
+    [
+        "veryPaleOrange",
+        "Very pale orange",
+        "",
+        255,
+        223,
+        191
+    ],
+    [
+        "veryPaleYellow",
+        "Very pale yellow",
+        "",
+        255,
+        255,
+        191
+    ],
+    [
+        "vineGreen",
+        "Vine Green",
+        "",
+        56,
+        163,
+        42
+    ],
+    [
+        "vineGrape(Ebizome)",
+        "Vine grape (Ebizome)",
+        "",
+        109,
+        43,
+        80
+    ],
+    [
+        "violet(RYB)",
+        "Violet (RYB)",
+        "",
+        134,
+        1,
+        175
+    ],
+    [
+        "violet(crayola)",
+        "Violet (crayola)",
+        "",
+        150,
+        61,
+        127
+    ],
+    [
+        "violet-blue(Crayola)",
+        "Violet-blue (Crayola)",
+        "",
+        118,
+        110,
+        200
+    ],
+    [
+        "violet-red",
+        "Violet-red",
+        "",
+        137,
+        20,
+        70
+    ],
+    [
+        "violetsAreBlue",
+        "Violets Are Blue",
+        "",
+        131,
+        102,
+        244
+    ],
+    [
+        "violinBrown",
+        "Violin Brown",
+        "",
+        103,
+        68,
+        3
+    ],
+    [
+        "viridianGreen",
+        "Viridian green",
+        "",
+        0,
+        150,
+        152
+    ],
+    [
+        "vistaBlue",
+        "Vista blue",
+        "",
+        124,
+        158,
+        217
+    ],
+    [
+        "vivaldiRed",
+        "Vivaldi Red",
+        "",
+        239,
+        57,
+        57
+    ],
+    [
+        "vividCerulean",
+        "Vivid cerulean",
+        "",
+        0,
+        170,
+        238
+    ],
+    [
+        "vividCrimson",
+        "Vivid crimson",
+        "",
+        204,
+        0,
+        51
+    ],
+    [
+        "vividLimeGreen",
+        "Vivid lime green",
+        "",
+        166,
+        214,
+        8
+    ],
+    [
+        "vividMalachite",
+        "Vivid malachite",
+        "",
+        0,
+        204,
+        51
+    ],
+    [
+        "vividMulberry",
+        "Vivid mulberry",
+        "",
+        184,
+        12,
+        227
+    ],
+    [
+        "vividOrange",
+        "Vivid orange",
+        "",
+        255,
+        95,
+        0
+    ],
+    [
+        "vividOrangePeel",
+        "Vivid orange peel",
+        "",
+        255,
+        160,
+        0
+    ],
+    [
+        "vividOrchid",
+        "Vivid orchid",
+        "",
+        204,
+        0,
+        255
+    ],
+    [
+        "vividRaspberry",
+        "Vivid raspberry",
+        "",
+        255,
+        0,
+        108
+    ],
+    [
+        "vividRed",
+        "Vivid red",
+        "",
+        247,
+        13,
+        26
+    ],
+    [
+        "vividRed-tangelo",
+        "Vivid red-tangelo",
+        "",
+        223,
+        97,
+        36
+    ],
+    [
+        "vividSkyBlue",
+        "Vivid sky blue",
+        "",
+        0,
+        204,
+        255
+    ],
+    [
+        "vividTangelo",
+        "Vivid tangelo",
+        "",
+        240,
+        116,
+        39
+    ],
+    [
+        "vividVermilion",
+        "Vivid vermilion",
+        "",
+        229,
+        96,
+        36
+    ],
+    [
+        "vividYellow",
+        "Vivid yellow",
+        "",
+        255,
+        227,
+        2
+    ],
+    [
+        "vodka",
+        "Vodka",
+        "",
+        191,
+        192,
+        238
+    ],
+    [
+        "volt",
+        "Volt",
+        "",
+        206,
+        255,
+        0
+    ],
+    [
+        "wageningenGreen",
+        "Wageningen Green",
+        "",
+        52,
+        178,
+        51
+    ],
+    [
+        "walnut-dyed(Kurumizome)",
+        "Walnut-dyed (Kurumizome)",
+        "",
+        159,
+        116,
+        98
+    ],
+    [
+        "washed-outCrimson(dye)(Arazome)",
+        "Washed-out crimson (dye) (Arazome)",
+        "",
+        255,
+        179,
+        167
+    ],
+    [
+        "washed-outPersimmon(Araigaki)",
+        "Washed-out persimmon (Araigaki)",
+        "",
+        236,
+        130,
+        84
+    ],
+    [
+        "water",
+        "Water",
+        "",
+        212,
+        241,
+        249
+    ],
+    [
+        "waterPersimmon(Mizugaki)",
+        "Water persimmon (Mizugaki)",
+        "",
+        181,
+        108,
+        96
+    ],
+    [
+        "watermelonYellow",
+        "Watermelon Yellow",
+        "",
+        238,
+        255,
+        27
+    ],
+    [
+        "weatheredBamboo(lit.\"sooty\")(Susutake-iro)",
+        "Weathered bamboo (lit. \"sooty\") (Susutake-iro)",
+        "",
+        89,
+        58,
+        39
+    ],
+    [
+        "weeblyBlue",
+        "Weebly Blue",
+        "",
+        31,
+        142,
+        237
+    ],
+    [
+        "weeblyOrange",
+        "Weebly Orange",
+        "",
+        255,
+        154,
+        0
+    ],
+    [
+        "weldonBlue",
+        "Weldon Blue",
+        "",
+        124,
+        152,
+        171
+    ],
+    [
+        "whiteChocolate",
+        "White chocolate",
+        "",
+        237,
+        230,
+        214
+    ],
+    [
+        "whiteCoffee",
+        "White coffee",
+        "",
+        230,
+        224,
+        212
+    ],
+    [
+        "whiteMouse(Shironezumi)",
+        "White mouse (Shironezumi)",
+        "",
+        185,
+        161,
+        147
+    ],
+    [
+        "whiteOak(Shirotsurubami)",
+        "White oak (Shirotsurubami)",
+        "",
+        206,
+        159,
+        111
+    ],
+    [
+        "whiteTea-colored(Shiracha)",
+        "White tea-colored (Shiracha)",
+        "",
+        196,
+        142,
+        105
+    ],
+    [
+        "whitishGreen(Byakuroku)",
+        "Whitish green (Byakuroku)",
+        "",
+        165,
+        186,
+        147
+    ],
+    [
+        "wildOrchid",
+        "Wild orchid",
+        "",
+        212,
+        112,
+        162
+    ],
+    [
+        "willowDye(Yanagizome)",
+        "Willow dye (Yanagizome)",
+        "",
+        140,
+        158,
+        94
+    ],
+    [
+        "willowGrey(Yanaginezumi)",
+        "Willow grey (Yanaginezumi)",
+        "",
+        129,
+        123,
+        105
+    ],
+    [
+        "willowTea(Yanagicha)",
+        "Willow tea (Yanagicha)",
+        "",
+        156,
+        138,
+        77
+    ],
+    [
+        "willpowerOrange",
+        "Willpower orange",
+        "",
+        253,
+        88,
+        0
+    ],
+    [
+        "wiltedBrown(lit.WiltedLawn-clippings)(Shikancha)",
+        "Wilted brown (lit. wilted lawn-clippings) (Shikancha)",
+        "",
+        171,
+        76,
+        61
+    ],
+    [
+        "windsorTan",
+        "Windsor tan",
+        "",
+        167,
+        85,
+        2
+    ],
+    [
+        "wineRed",
+        "Wine red",
+        "",
+        177,
+        18,
+        38
+    ],
+    [
+        "winterSky",
+        "Winter Sky",
+        "",
+        255,
+        0,
+        124
+    ],
+    [
+        "winterWizard",
+        "Winter Wizard",
+        "",
+        160,
+        230,
+        255
+    ],
+    [
+        "wintergreenDream",
+        "Wintergreen Dream",
+        "",
+        86,
+        136,
+        125
+    ],
+    [
+        "wisteriaAndBurnt-bamboo(Fujisusutake)",
+        "Wisteria and burnt-bamboo (Fujisusutake)",
+        "",
+        77,
+        59,
+        60
+    ],
+    [
+        "wisteriaColor(Fuji-iro)",
+        "Wisteria color (Fuji-iro)",
+        "",
+        137,
+        114,
+        158
+    ],
+    [
+        "wisteriaPurple(Fujimurasaki)",
+        "Wisteria purple (Fujimurasaki)",
+        "",
+        135,
+        95,
+        154
+    ],
+    [
+        "xboxGreen",
+        "Xbox Green",
+        "",
+        14,
+        122,
+        13
+    ],
+    [
+        "xiaomiOrange",
+        "Xiaomi Orange",
+        "",
+        253,
+        73,
+        0
+    ],
+    [
+        "yInMnBlue",
+        "YInMn Blue",
+        "",
+        46,
+        80,
+        144
+    ],
+    [
+        "yaleBlue",
+        "Yale Blue",
+        "",
+        15,
+        77,
+        146
+    ],
+    [
+        "yankeesBlue",
+        "Yankees blue",
+        "",
+        28,
+        40,
+        65
+    ],
+    [
+        "yellow(Crayola)",
+        "Yellow (Crayola)",
+        "",
+        252,
+        232,
+        131
+    ],
+    [
+        "yellow(Munsell)",
+        "Yellow (Munsell)",
+        "",
+        239,
+        204,
+        0
+    ],
+    [
+        "yellow(Pantone)",
+        "Yellow (Pantone)",
+        "",
+        254,
+        223,
+        0
+    ],
+    [
+        "yellow(RYB)",
+        "Yellow (RYB)",
+        "",
+        254,
+        254,
+        51
+    ],
+    [
+        "yellowOrange(ColorWheel)",
+        "Yellow Orange (Color Wheel)",
+        "",
+        255,
+        149,
+        5
+    ],
+    [
+        "yellowSeaPine-brown(Kimirucha)",
+        "Yellow Sea pine-brown (Kimirucha)",
+        "",
+        137,
+        108,
+        57
+    ],
+    [
+        "yellowRose",
+        "Yellow rose",
+        "",
+        255,
+        240,
+        0
+    ],
+    [
+        "yellow-green(ColorWheel)",
+        "Yellow-green (Color Wheel)",
+        "",
+        48,
+        178,
+        26
+    ],
+    [
+        "yellow-green(Crayola)",
+        "Yellow-green (Crayola)",
+        "",
+        197,
+        227,
+        132
+    ],
+    [
+        "youngBambooColor(Wakatake-iro)",
+        "Young bamboo color (Wakatake-iro)",
+        "",
+        107,
+        147,
+        98
+    ],
+    [
+        "youtubeRed",
+        "Youtube red",
+        "",
+        178,
+        7,
+        29
+    ],
+    [
+        "zinnwaldite",
+        "Zinnwaldite",
+        "",
+        235,
+        194,
+        175
+    ],
+    [
+        "zomp",
+        "Zomp",
+        "",
+        57,
+        167,
+        142
+    ]
+]

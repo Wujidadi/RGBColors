@@ -1,15 +1,103 @@
 [
     [
-        "airForceBlue",
-        "Air Force Blue",
-        "空軍藍",
+        "absoluteZero",
+        "Absolute zero",
+        "絕對零度",
+        0,
+        72,
+        186
+    ],
+    [
+        "acajou",
+        "Acajou",
+        "桃花心木色",
+        76,
+        47,
+        39
+    ],
+    [
+        "acidGreen",
+        "Acid green",
+        "酸綠色",
+        176,
+        191,
+        26
+    ],
+    [
+        "aero",
+        "Aero",
+        "空色，天空色",
+        124,
+        185,
+        232
+    ],
+    [
+        "aeroBlue",
+        "Aero blue",
+        "天青色",
+        201,
+        255,
+        229
+    ],
+    [
+        "africanViolet",
+        "African violet",
+        "非洲堇色",
+        178,
+        132,
+        190
+    ],
+    [
+        "airForceBlueRaf",
+        "Air Force blue (RAF)",
+        "空軍藍（英國皇家空軍）",
         93,
         138,
         168
     ],
     [
+        "airForceBlueUsaf",
+        "Air Force blue (USAF)",
+        "空軍藍（美國空軍）",
+        0,
+        48,
+        143
+    ],
+    [
+        "airSuperiorityBlue",
+        "Air superiority blue",
+        "制空藍",
+        114,
+        160,
+        193
+    ],
+    [
+        "alabamaCrimson0",
+        "Alabama Crimson",
+        "阿拉巴馬大學緋紅",
+        158,
+        27,
+        50
+    ],
+    [
+        "alabamaCrimson1",
+        "Alabama crimson",
+        "阿拉巴馬大學緋紅",
+        175,
+        0,
+        42
+    ],
+    [
+        "alabaster",
+        "Alabaster",
+        "雪花石膏色",
+        242,
+        240,
+        230
+    ],
+    [
         "aliceBlue",
-        "Alice Blue",
+        "Alice blue",
         "愛麗絲藍",
         240,
         248,
@@ -17,11 +105,19 @@
     ],
     [
         "alizarinCrimson",
-        "Alizarin Crimson",
+        "Alizarin crimson",
         "茜紅，深茜紅",
         227,
         38,
         54
+    ],
+    [
+        "alloyOrange",
+        "Alloy orange",
+        "合金橙",
+        196,
+        98,
+        16
     ],
     [
         "almond",
@@ -32,12 +128,84 @@
         205
     ],
     [
+        "aloeswoodBrown",
+        "Aloeswood brown",
+        "沉香木棕",
+        90,
+        100,
+        87
+    ],
+    [
+        "aloewood",
+        "Aloewood",
+        "沉香木色",
+        106,
+        67,
+        45
+    ],
+    [
+        "aluminum",
+        "Aluminum",
+        "鋁色",
+        214,
+        214,
+        214
+    ],
+    [
+        "aluminumFoil",
+        "Aluminum foil",
+        "鋁箔色",
+        210,
+        217,
+        219
+    ],
+    [
         "amaranth",
         "Amaranth",
         "紫紅色，莧菜紅",
         229,
         43,
         80
+    ],
+    [
+        "amaranthDeepPurple",
+        "Amaranth deep purple",
+        "深莧菜紫",
+        159,
+        43,
+        104
+    ],
+    [
+        "amaranthPink",
+        "Amaranth pink",
+        "莧菜粉紅",
+        241,
+        156,
+        187
+    ],
+    [
+        "amaranthPurple",
+        "Amaranth purple",
+        "莧菜紫",
+        171,
+        39,
+        79
+    ],
+    [
+        "amaranthRed",
+        "Amaranth red",
+        "莧菜紅",
+        211,
+        33,
+        45
+    ],
+    [
+        "amazon",
+        "Amazon",
+        "亞馬遜",
+        59,
+        122,
+        87
     ],
     [
         "amber",
@@ -48,12 +216,116 @@
         0
     ],
     [
+        "amberSaeEce",
+        "Amber (SAE/ECE)",
+        "琥珀色（SAE/ECE）",
+        255,
+        126,
+        0
+    ],
+    [
+        "americanBlue",
+        "American blue",
+        "美國藍",
+        59,
+        59,
+        109
+    ],
+    [
+        "americanBronze",
+        "American bronze",
+        "美國青銅色",
+        57,
+        24,
+        2
+    ],
+    [
+        "americanBrown",
+        "American brown",
+        "美國棕",
+        128,
+        64,
+        64
+    ],
+    [
+        "americanGold",
+        "American gold",
+        "美國金",
+        211,
+        175,
+        55
+    ],
+    [
+        "americanGreen",
+        "American green",
+        "美國綠",
+        52,
+        179,
+        52
+    ],
+    [
+        "americanOrange",
+        "American orange",
+        "美國橙",
+        255,
+        139,
+        0
+    ],
+    [
+        "americanPink",
+        "American pink",
+        "美國粉紅",
+        255,
+        152,
+        153
+    ],
+    [
+        "americanPurple",
+        "American purple",
+        "美國紫",
+        67,
+        28,
+        83
+    ],
+    [
+        "americanRed",
+        "American red",
+        "美國紅",
+        179,
+        33,
+        52
+    ],
+    [
         "americanRose",
-        "American Rose",
+        "American rose",
         "美國玫瑰紅",
         255,
         3,
         62
+    ],
+    [
+        "americanSilver",
+        "American silver",
+        "美國銀",
+        207,
+        207,
+        207
+    ],
+    [
+        "americanViolet",
+        "American violet",
+        "美國紫羅蘭色",
+        85,
+        27,
+        140
+    ],
+    [
+        "americanYellow",
+        "American yellow",
+        "美國黃",
+        242,
+        180,
+        0
     ],
     [
         "amethyst",
@@ -64,8 +336,16 @@
         204
     ],
     [
+        "amurCorkTree",
+        "Amur cork tree",
+        "關黃柏木色",
+        243,
+        193,
+        58
+    ],
+    [
         "androidGreen",
-        "Android Green",
+        "Android green",
         "安卓綠",
         164,
         198,
@@ -73,7 +353,7 @@
     ],
     [
         "antiFlashWhite",
-        "Anti-flash White",
+        "Anti-flash white",
         "防閃光白",
         242,
         243,
@@ -81,23 +361,39 @@
     ],
     [
         "antiqueBrass",
-        "Antique Brass",
+        "Antique brass",
         "古銅色",
         205,
         149,
         117
     ],
     [
+        "antiqueBronze",
+        "Antique bronze",
+        "古青銅色",
+        102,
+        93,
+        30
+    ],
+    [
         "antiqueFuchsia",
-        "Antique Fuchsia",
+        "Antique fuchsia",
         "古蓮紅",
         145,
         92,
         131
     ],
     [
+        "antiqueRuby",
+        "Antique ruby",
+        "古董紅寶石色",
+        132,
+        27,
+        45
+    ],
+    [
         "antiqueWhite",
-        "Antique White",
+        "Antique white",
         "古董白",
         250,
         235,
@@ -106,21 +402,45 @@
     [
         "ao",
         "Ao",
-        "中綠色",
+        "綠色",
         0,
         128,
         0
     ],
     [
-        "appleGreen",
-        "Apple Green",
+        "aoni",
+        "Aoni",
+        "青丹色",
+        82,
+        89,
+        59
+    ],
+    [
+        "apple",
+        "Apple",
+        "蘋果色",
+        102,
+        180,
+        71
+    ],
+    [
+        "appleGreen0",
+        "Apple green",
         "蘋果綠",
         141,
         182,
         0
     ],
     [
-        "apricot",
+        "appleGreen1",
+        "Apple green",
+        "蘋果綠",
+        141,
+        230,
+        0
+    ],
+    [
+        "apricot0",
         "Apricot",
         "杏黃色",
         251,
@@ -128,7 +448,15 @@
         177
     ],
     [
-        "aqua",
+        "apricot1",
+        "Apricot",
+        "杏黃色",
+        230,
+        153,
+        102
+    ],
+    [
+        "aqua0",
         "Aqua",
         "水色",
         0,
@@ -136,8 +464,16 @@
         255
     ],
     [
+        "aqua1",
+        "Aqua",
+        "水色",
+        175,
+        223,
+        228
+    ],
+    [
         "aquaBlue",
-        "Aqua Blue",
+        "Aqua blue",
         "水藍色",
         102,
         255,
@@ -152,24 +488,96 @@
         212
     ],
     [
+        "arcticLime",
+        "Arctic lime",
+        "北極萊姆色",
+        208,
+        255,
+        20
+    ],
+    [
         "armyGreen",
-        "Army Green",
+        "Army green",
         "軍綠色",
         75,
         83,
         32
     ],
     [
+        "artichoke",
+        "Artichoke",
+        "洋薊色",
+        143,
+        151,
+        121
+    ],
+    [
         "arylideYellow",
-        "Arylide Yellow",
+        "Arylide yellow",
         "漢莎黃",
         233,
         214,
         107
     ],
     [
+        "asdaGreen",
+        "ASDA Green",
+        "阿斯達綠",
+        125,
+        194,
+        66
+    ],
+    [
+        "asdaGreen1985",
+        "ASDA Green (1985)",
+        "阿斯達綠（1985）",
+        0,
+        222,
+        164
+    ],
+    [
+        "asdaGreen1994",
+        "ASDA Green (1994)",
+        "阿斯達綠（1994）",
+        128,
+        193,
+        151
+    ],
+    [
+        "asdaGreen1999",
+        "ASDA Green (1999)",
+        "阿斯達綠（1999）",
+        102,
+        201,
+        146
+    ],
+    [
+        "asdaGreen2002",
+        "ASDA Green (2002)",
+        "阿斯達綠（2002）",
+        50,
+        173,
+        97
+    ],
+    [
+        "asdaOrange",
+        "ASDA Orange",
+        "阿斯達橙",
+        200,
+        101,
+        0
+    ],
+    [
+        "asdaOrange1968",
+        "ASDA Orange (1968)",
+        "阿斯達橙（1968）",
+        202,
+        115,
+        9
+    ],
+    [
         "ashGray",
-        "Ash Gray",
+        "Ash gray",
         "灰燼灰",
         178,
         190,
@@ -177,7 +585,7 @@
     ],
     [
         "ashGrey",
-        "Ash Grey",
+        "Ash grey",
         "灰燼灰",
         178,
         190,
@@ -192,8 +600,16 @@
         107
     ],
     [
+        "ateneoBlue",
+        "Ateneo blue",
+        "雅典耀大學藍",
+        0,
+        58,
+        108
+    ],
+    [
         "atomicTangerine",
-        "Atomic Tangerine",
+        "Atomic tangerine",
         "原子橘",
         255,
         153,
@@ -224,12 +640,28 @@
         128
     ],
     [
+        "avocado",
+        "Avocado",
+        "酪梨色",
+        86,
+        130,
+        3
+    ],
+    [
         "awesome",
         "Awesome",
         "酷炫",
         255,
         32,
         82
+    ],
+    [
+        "axolotl",
+        "Axolotl",
+        "美西螈",
+        99,
+        119,
+        91
     ],
     [
         "azure",
@@ -241,15 +673,31 @@
     ],
     [
         "azureMist",
-        "Azure Mist/Web",
+        "Azure mist/web",
         "蔚藍霧色",
         240,
         255,
         255
     ],
     [
+        "azureishWhite",
+        "Azureish white",
+        "天藍白",
+        219,
+        233,
+        244
+    ],
+    [
+        "bDazzledBlue",
+        "B'dazzled blue",
+        "B'dazzled藍",
+        46,
+        88,
+        148
+    ],
+    [
         "babyBlue",
-        "Baby Blue",
+        "Baby blue",
         "淺藍色",
         137,
         207,
@@ -257,19 +705,51 @@
     ],
     [
         "babyBlueEyes",
-        "Baby Blue Eyes",
+        "Baby blue eyes",
         "粉蝶花色",
         161,
         202,
         241
     ],
     [
-        "babyPink",
-        "Baby Pink",
+        "babyPink0",
+        "Baby pink",
         "淺粉紅",
         244,
         194,
         194
+    ],
+    [
+        "babyPink1",
+        "Baby pink",
+        "淺粉紅",
+        255,
+        217,
+        230
+    ],
+    [
+        "babyPowder",
+        "Baby powder",
+        "痱子粉色",
+        254,
+        254,
+        250
+    ],
+    [
+        "baikocha",
+        "Baikōcha",
+        "梅幸茶色",
+        133,
+        124,
+        85
+    ],
+    [
+        "bakerMillerPink",
+        "Baker-Miller pink",
+        "貝克・米勒粉紅",
+        255,
+        145,
+        175
     ],
     [
         "ballBlue",
@@ -289,15 +769,87 @@
     ],
     [
         "bananaYellow",
-        "Banana Yellow",
+        "Banana yellow",
         "香蕉黃",
         255,
         225,
         53
     ],
     [
+        "barbiePink",
+        "Barbie Pink",
+        "芭比粉紅",
+        233,
+        65,
+        150
+    ],
+    [
+        "barbiePink1959To1975",
+        "Barbie Pink (1959-1975)",
+        "芭比粉紅（1959-1975）",
+        232,
+        83,
+        149
+    ],
+    [
+        "barbiePink1975To1990",
+        "Barbie Pink (1975-1990)",
+        "芭比粉紅（1975-1990）",
+        211,
+        65,
+        157
+    ],
+    [
+        "barbiePink1990To1999",
+        "Barbie Pink (1990-1999)",
+        "芭比粉紅（1990-1999）",
+        243,
+        100,
+        162
+    ],
+    [
+        "barbiePink1999To2004",
+        "Barbie Pink (1999-2004)",
+        "芭比粉紅（1999-2004）",
+        247,
+        35,
+        138
+    ],
+    [
+        "barbiePink2004To2005",
+        "Barbie Pink (2004-2005)",
+        "芭比粉紅（2004-2005）",
+        255,
+        57,
+        136
+    ],
+    [
+        "barbiePink2005To2009",
+        "Barbie Pink (2005-2009)",
+        "芭比粉紅（2005-2009）",
+        252,
+        65,
+        154
+    ],
+    [
+        "barbiePinkPantone",
+        "Barbie Pink (Pantone)",
+        "芭比粉紅（彩通）",
+        224,
+        33,
+        138
+    ],
+    [
+        "barnRed",
+        "Barn red",
+        "穀倉紅",
+        124,
+        10,
+        2
+    ],
+    [
         "battleshipGray",
-        "Battleship Gray",
+        "Battleship gray",
         "軍艦灰",
         132,
         132,
@@ -305,11 +857,19 @@
     ],
     [
         "battleshipGrey",
-        "Battleship Grey",
+        "Battleship grey",
         "軍艦灰",
         132,
         132,
         130
+    ],
+    [
+        "bayside",
+        "Bayside",
+        "海灣色",
+        95,
+        201,
+        191
     ],
     [
         "bazaar",
@@ -321,7 +881,7 @@
     ],
     [
         "beauBlue",
-        "Beau Blue",
+        "Beau blue",
         "美麗藍",
         188,
         212,
@@ -336,6 +896,22 @@
         112
     ],
     [
+        "beer",
+        "Beer",
+        "啤酒色",
+        242,
+        142,
+        28
+    ],
+    [
+        "begonia",
+        "Begonia",
+        "秋海棠色",
+        250,
+        110,
+        121
+    ],
+    [
         "beige",
         "Beige",
         "米色",
@@ -345,7 +921,7 @@
     ],
     [
         "beigeGray",
-        "Beige Gray",
+        "Beige gray",
         "米灰色",
         211,
         203,
@@ -353,11 +929,67 @@
     ],
     [
         "beigeGrey",
-        "Beige Grey",
+        "Beige grey",
         "米灰色",
         211,
         203,
         175
+    ],
+    [
+        "bellflower",
+        "Bellflower",
+        "風鈴草色",
+        93,
+        63,
+        106
+    ],
+    [
+        "benihi",
+        "Benihi",
+        "紅檜色",
+        243,
+        83,
+        54
+    ],
+    [
+        "betelNutDye",
+        "Betel nut dye",
+        "檳榔果染料色",
+        53,
+        41,
+        37
+    ],
+    [
+        "bigDipORuby",
+        "Big dip o'ruby",
+        "",
+        156,
+        37,
+        66
+    ],
+    [
+        "bigFootFeet",
+        "Big Foot Feet",
+        "大腳怪的腳",
+        232,
+        142,
+        90
+    ],
+    [
+        "binrojizome",
+        "Binrōjizome",
+        "檳榔子染",
+        53,
+        41,
+        37
+    ],
+    [
+        "birchBrown",
+        "Birch brown",
+        "樺木棕",
+        177,
+        74,
+        48
     ],
     [
         "bisque",
@@ -376,12 +1008,28 @@
         31
     ],
     [
+        "bitterLemon",
+        "Bitter lemon",
+        "苦檸色",
+        202,
+        224,
+        13
+    ],
+    [
         "bittersweet",
         "Bittersweet",
-        "苦樂參半",
+        "",
         254,
         111,
         94
+    ],
+    [
+        "bittersweetShimmer",
+        "Bittersweet shimmer",
+        "",
+        191,
+        79,
+        81
     ],
     [
         "black",
@@ -392,12 +1040,92 @@
         0
     ],
     [
+        "blackBean",
+        "Black bean",
+        "黑豆色",
+        61,
+        12,
+        2
+    ],
+    [
+        "blackChestnutOak",
+        "Black chestnut oak",
+        "黑橡色",
+        37,
+        35,
+        33
+    ],
+    [
+        "blackChocolate",
+        "Black chocolate",
+        "黑巧克力色",
+        27,
+        24,
+        17
+    ],
+    [
+        "blackCoffee",
+        "Black coffee",
+        "黑咖啡色",
+        59,
+        47,
+        47
+    ],
+    [
+        "blackCoral",
+        "Black coral",
+        "黑珊瑚色",
+        84,
+        98,
+        111
+    ],
+    [
+        "blackKite",
+        "Black kite",
+        "黑鳶色",
+        53,
+        30,
+        28
+    ],
+    [
+        "blackLeatherJacket",
+        "Black leather jacket",
+        "黑色皮夾克",
+        37,
+        53,
+        41
+    ],
+    [
+        "blackOlive",
+        "Black olive",
+        "橄欖黑",
+        59,
+        60,
+        54
+    ],
+    [
+        "blackShadows",
+        "Black Shadows",
+        "暗影色",
+        191,
+        175,
+        178
+    ],
+    [
         "blanchedAlmond",
-        "Blanched Almond",
+        "Blanched almond",
         "杏仁白",
         255,
         235,
         205
+    ],
+    [
+        "blastOffBronze",
+        "Blast-off bronze",
+        "高爐青銅色",
+        165,
+        113,
+        100
     ],
     [
         "bleuDeFrance",
@@ -409,7 +1137,7 @@
     ],
     [
         "blizzardBlue",
-        "Blizzard Blue",
+        "Blizzard blue",
         "暴風雪藍",
         172,
         229,
@@ -422,6 +1150,46 @@
         250,
         240,
         190
+    ],
+    [
+        "blood",
+        "Blood",
+        "血色",
+        138,
+        3,
+        3
+    ],
+    [
+        "bloodAnimal",
+        "Blood (Animal)",
+        "動物血色",
+        164,
+        19,
+        19
+    ],
+    [
+        "bloodOrange",
+        "Blood orange",
+        "血橙色",
+        209,
+        0,
+        28
+    ],
+    [
+        "bloodOrgan",
+        "Blood (organ)",
+        "內臟血色",
+        99,
+        15,
+        15
+    ],
+    [
+        "bloodRed",
+        "Blood red",
+        "血紅色",
+        102,
+        0,
+        0
     ],
     [
         "blue",
@@ -440,8 +1208,40 @@
         208
     ],
     [
+        "blueBlackCrayfish",
+        "Blue Black Crayfish",
+        "藍黑螯蝦色",
+        82,
+        89,
+        59
+    ],
+    [
+        "blueBolt",
+        "Blue bolt",
+        "螺栓藍",
+        0,
+        185,
+        251
+    ],
+    [
+        "blueCola",
+        "Blue cola",
+        "冰藍可樂",
+        0,
+        136,
+        220
+    ],
+    [
+        "blueCrayola",
+        "Blue (Crayola)",
+        "藍色（繪兒樂）",
+        31,
+        117,
+        254
+    ],
+    [
         "blueGray",
-        "Blue Gray",
+        "Blue gray",
         "藍灰色",
         102,
         153,
@@ -449,35 +1249,163 @@
     ],
     [
         "blueGreen",
-        "Blue Green",
+        "Blue green",
         "藍綠色",
         13,
         152,
         186
     ],
     [
+        "blueGreenColorWheel",
+        "Blue-green (color wheel)",
+        "藍綠色（色環）",
+        6,
+        78,
+        64
+    ],
+    [
         "blueGrey",
-        "Blue Grey",
+        "Blue grey",
         "藍灰色",
         102,
         153,
         204
     ],
     [
+        "blueJeans",
+        "Blue jeans",
+        "牛仔褲藍",
+        93,
+        173,
+        236
+    ],
+    [
+        "blueLagoon",
+        "Blue lagoon",
+        "潟湖藍",
+        76,
+        183,
+        165
+    ],
+    [
+        "blueMagentaViolet",
+        "Blue-magenta violet",
+        "藍洋紅紫羅蘭色",
+        85,
+        53,
+        146
+    ],
+    [
+        "blueMunsell",
+        "Blue (Munsell)",
+        "藍色（孟塞爾）",
+        0,
+        147,
+        175
+    ],
+    [
+        "blueNcs",
+        "Blue (NCS)",
+        "藍色（NCS）",
+        0,
+        135,
+        189
+    ],
+    [
+        "bluePantone",
+        "Blue (Pantone)",
+        "藍色（彩通）",
+        0,
+        24,
+        168
+    ],
+    [
+        "bluePigment",
+        "Blue (pigment)",
+        "顏料藍",
+        51,
+        51,
+        153
+    ],
+    [
         "bluePurple",
-        "Blue Purple",
+        "Blue purple",
         "藍紫色",
         138,
         43,
         226
     ],
     [
+        "blueRaspberry",
+        "Blue raspberry",
+        "樹莓藍，覆盆子藍",
+        12,
+        191,
+        233
+    ],
+    [
+        "blueRyb",
+        "Blue (RYB)",
+        "藍色（RYB）",
+        2,
+        71,
+        254
+    ],
+    [
+        "blueSapphire",
+        "Blue sapphire",
+        "寶石藍",
+        18,
+        97,
+        128
+    ],
+    [
         "blueViolet",
-        "Blue Violet",
+        "Blue violet",
         "藍紫羅蘭色",
         138,
         43,
         226
+    ],
+    [
+        "blueVioletColorWheel",
+        "Blue-violet (color wheel)",
+        "藍紫羅蘭色（色環）",
+        77,
+        26,
+        127
+    ],
+    [
+        "blueVioletCrayola",
+        "Blue-violet (Crayola)",
+        "藍紫羅蘭色（繪兒樂）",
+        115,
+        102,
+        189
+    ],
+    [
+        "blueYonder",
+        "Blue yonder",
+        "彼方藍",
+        80,
+        114,
+        167
+    ],
+    [
+        "blueberry",
+        "Blueberry",
+        "藍莓色",
+        79,
+        134,
+        247
+    ],
+    [
+        "bluebonnet",
+        "Bluebonnet",
+        "矢車菊色",
+        28,
+        28,
+        240
     ],
     [
         "blush",
@@ -486,6 +1414,14 @@
         222,
         93,
         131
+    ],
+    [
+        "boiledRedBeanBrown",
+        "Boiled red bean brown",
+        "熟紅豆色",
+        84,
+        45,
+        36
     ],
     [
         "bole",
@@ -497,7 +1433,7 @@
     ],
     [
         "bondiBlue",
-        "Bondi Blue",
+        "Bondi blue",
         "邦迪藍",
         0,
         149,
@@ -512,6 +1448,14 @@
         201
     ],
     [
+        "boredAccentGreen",
+        "Bored accent green",
+        "無聊口音綠",
+        221,
+        226,
+        106
+    ],
+    [
         "bostonUniversityRed",
         "Boston University Red",
         "波士頓大學紅",
@@ -520,12 +1464,28 @@
         0
     ],
     [
+        "bostonUniversityScarlet",
+        "Boston University Scarlet",
+        "波士頓大學紅",
+        204,
+        0,
+        0
+    ],
+    [
         "bottleGreen",
-        "Bottle Green",
+        "Bottle green",
         "深綠色",
         0,
         106,
         78
+    ],
+    [
+        "boyRed",
+        "Boy red",
+        "男孩紅",
+        14,
+        156,
+        165
     ],
     [
         "boysenberry",
@@ -537,11 +1497,19 @@
     ],
     [
         "brandeisBlue",
-        "Brandeis Blue",
+        "Brandeis blue",
         "布蘭戴斯藍",
         0,
         112,
         255
+    ],
+    [
+        "brandy",
+        "Brandy",
+        "白蘭地色",
+        135,
+        65,
+        63
     ],
     [
         "brass",
@@ -552,8 +1520,24 @@
         66
     ],
     [
+        "braveOrange",
+        "Brave orange",
+        "勇敢橙",
+        255,
+        99,
+        28
+    ],
+    [
+        "brewedMustardBrown",
+        "Brewed mustard-brown",
+        "釀芥末棕",
+        230,
+        131,
+        100
+    ],
+    [
         "brickRed",
-        "Brick Red",
+        "Brick red",
         "磚紅色",
         203,
         65,
@@ -561,15 +1545,23 @@
     ],
     [
         "brightCerulean",
-        "Bright Cerulean",
+        "Bright cerulean",
         "明蔚藍",
         29,
         172,
         214
     ],
     [
+        "brightGray",
+        "Bright gray",
+        "亮棕色",
+        235,
+        236,
+        240
+    ],
+    [
         "brightGreen",
-        "Bright Green",
+        "Bright green",
         "黃綠色，明綠色",
         102,
         255,
@@ -577,23 +1569,39 @@
     ],
     [
         "brightLavender",
-        "Bright Lavender",
+        "Bright lavender",
         "明薰衣草色",
         191,
         148,
         228
     ],
     [
+        "brightLilac",
+        "Bright lilac",
+        "亮紫丁香色",
+        216,
+        145,
+        239
+    ],
+    [
         "brightMaroon",
-        "Bright Maroon",
+        "Bright maroon",
         "亮栗色",
         195,
         33,
         72
     ],
     [
+        "brightNavyBlue",
+        "Bright navy blue",
+        "亮海軍藍",
+        25,
+        116,
+        210
+    ],
+    [
         "brightPink",
-        "Bright Pink",
+        "Bright pink",
         "亮粉紅色",
         255,
         0,
@@ -601,7 +1609,7 @@
     ],
     [
         "brightTurquoise",
-        "Bright Turquoise",
+        "Bright turquoise",
         "亮綠松石色",
         8,
         232,
@@ -609,15 +1617,31 @@
     ],
     [
         "brightUbe",
-        "Bright Ube",
+        "Bright ube",
         "亮紫薯色",
         209,
         159,
         232
     ],
     [
+        "brightYellowCrayola",
+        "Bright yellow (Crayola)",
+        "亮黃色（繪兒樂）",
+        255,
+        170,
+        29
+    ],
+    [
+        "brilliantAzure",
+        "Brilliant azure",
+        "燦藍色",
+        51,
+        153,
+        255
+    ],
+    [
         "brilliantLavender",
-        "Brilliant Lavender",
+        "Brilliant lavender",
         "亮薰衣草色",
         244,
         187,
@@ -625,7 +1649,7 @@
     ],
     [
         "brilliantRose",
-        "Brilliant Rose",
+        "Brilliant rose",
         "亮玫瑰紅",
         255,
         85,
@@ -633,7 +1657,7 @@
     ],
     [
         "brinkPink",
-        "Brink Pink",
+        "Brink pink",
         "邊緣粉紅色",
         251,
         96,
@@ -641,14 +1665,14 @@
     ],
     [
         "britishRacingGreen",
-        "British Racing Green",
+        "British racing green",
         "英國賽車綠",
         0,
         66,
         37
     ],
     [
-        "bronze",
+        "bronze0",
         "Bronze",
         "青銅色",
         205,
@@ -656,16 +1680,120 @@
         50
     ],
     [
-        "brown",
+        "bronze1",
+        "Bronze",
+        "青銅色",
+        136,
+        84,
+        11
+    ],
+    [
+        "bronzeMetallic",
+        "Bronze (metallic)",
+        "青銅色（金屬）",
+        176,
+        141,
+        87
+    ],
+    [
+        "bronzeYellow",
+        "Bronze yellow",
+        "青銅黃",
+        115,
+        112,
+        0
+    ],
+    [
+        "brown0",
         "Brown",
-        "褐色",
+        "棕色，褐色",
         165,
         42,
         42
     ],
     [
+        "brown1",
+        "Brown",
+        "棕色，褐色",
+        153,
+        51,
+        0
+    ],
+    [
+        "brownChocolate",
+        "Brown Chocolate",
+        "巧克力棕",
+        95,
+        25,
+        51
+    ],
+    [
+        "brownCoffee",
+        "Brown Coffee",
+        "咖啡棕",
+        74,
+        44,
+        42
+    ],
+    [
+        "brownCrayola",
+        "Brown (Crayola)",
+        "棕色（繪兒樂）",
+        175,
+        89,
+        62
+    ],
+    [
+        "brownNose",
+        "Brown-nose",
+        "棕鼻子色",
+        107,
+        68,
+        35
+    ],
+    [
+        "brownRatGrey",
+        "Brown rat grey",
+        "棕鼠灰色",
+        75,
+        60,
+        57
+    ],
+    [
+        "brownSugar",
+        "Brown sugar",
+        "紅糖色",
+        175,
+        110,
+        77
+    ],
+    [
+        "brownTraditional",
+        "Brown (traditional)",
+        "棕色（傳統）",
+        150,
+        75,
+        0
+    ],
+    [
+        "brownYellow",
+        "Brown Yellow",
+        "棕黃色",
+        204,
+        153,
+        102
+    ],
+    [
+        "brunswickGreen",
+        "Brunswick green",
+        "布朗施維克綠",
+        27,
+        77,
+        62
+    ],
+    [
         "bubbleGum",
-        "Bubble Gum",
+        "Bubble gum",
         "泡泡糖色",
         255,
         193,
@@ -680,6 +1808,14 @@
         255
     ],
     [
+        "budGreen",
+        "Bud green",
+        "芽綠色",
+        123,
+        182,
+        97
+    ],
+    [
         "buff",
         "Buff",
         "淺黃色",
@@ -689,7 +1825,7 @@
     ],
     [
         "bulgarianRose",
-        "Bulgarian Rose",
+        "Bulgarian rose",
         "保加利亞玫瑰色",
         72,
         6,
@@ -712,8 +1848,16 @@
         135
     ],
     [
+        "burnishedBrown",
+        "Burnished brown",
+        "拋光棕",
+        161,
+        122,
+        116
+    ],
+    [
         "burntOrange",
-        "Burnt Orange",
+        "Burnt orange",
         "燃橙色",
         204,
         85,
@@ -721,7 +1865,7 @@
     ],
     [
         "burntSienna",
-        "Burnt Sienna",
+        "Burnt sienna",
         "深赭色",
         233,
         116,
@@ -729,11 +1873,19 @@
     ],
     [
         "burntUmber",
-        "Burnt Umber",
+        "Burnt umber",
         "燒棕色",
         138,
         51,
         36
+    ],
+    [
+        "buttonBlue",
+        "Button blue",
+        "鈕釦藍",
+        36,
+        160,
+        237
     ],
     [
         "byzantine",
@@ -761,15 +1913,23 @@
     ],
     [
         "cadetBlue",
-        "Cadet Blue",
+        "Cadet blue",
         "軍服藍",
         95,
         158,
         160
     ],
     [
+        "cadetBlueCrayola",
+        "Cadet blue (Crayola)",
+        "軍服藍（繪兒樂）",
+        169,
+        178,
+        195
+    ],
+    [
         "cadetGrey",
-        "Cadet Grey",
+        "Cadet grey",
         "軍服灰",
         145,
         163,
@@ -777,7 +1937,7 @@
     ],
     [
         "cadmiumGreen",
-        "Cadmium Green",
+        "Cadmium green",
         "鎘綠色",
         0,
         107,
@@ -785,7 +1945,7 @@
     ],
     [
         "cadmiumOrange",
-        "Cadmium Orange",
+        "Cadmium orange",
         "鎘橙色",
         237,
         135,
@@ -793,7 +1953,7 @@
     ],
     [
         "cadmiumRed",
-        "Cadmium Red",
+        "Cadmium red",
         "鎘紅色",
         227,
         0,
@@ -801,7 +1961,7 @@
     ],
     [
         "cadmiumYellow",
-        "Cadmium Yellow",
+        "Cadmium yellow",
         "鎘黃色",
         255,
         246,
@@ -810,22 +1970,22 @@
     [
         "cafeAuLait",
         "Café au lait",
-        "昂列咖啡色",
+        "昂列咖啡色，咖啡歐蕾色",
         166,
         123,
         91
     ],
     [
         "cafeNoir",
-        "Cafe Noir",
-        "黑咖啡色",
+        "Café noir",
+        "法式黑咖啡色",
         75,
         54,
         33
     ],
     [
         "calPolyPomonaGreen",
-        "Cal Poly Pomona Green",
+        "Cal Poly Pomona green",
         "波莫納大學綠",
         30,
         77,
@@ -840,12 +2000,20 @@
         173
     ],
     [
-        "camel",
+        "camel0",
         "Camel",
         "駝色",
         193,
         154,
         107
+    ],
+    [
+        "camel1",
+        "Camel",
+        "駝色",
+        161,
+        107,
+        71
     ],
     [
         "camellia",
@@ -857,7 +2025,7 @@
     ],
     [
         "camouflageGreen",
-        "Camouflage Green",
+        "Camouflage green",
         "迷彩綠",
         120,
         134,
@@ -873,7 +2041,7 @@
     ],
     [
         "canaryYellow",
-        "Canary Yellow",
+        "Canary yellow",
         "鮮黃色",
         255,
         239,
@@ -881,7 +2049,7 @@
     ],
     [
         "candyAppleRed",
-        "Candy Apple Red",
+        "Candy apple red",
         "糖果蘋果紅",
         255,
         8,
@@ -889,7 +2057,7 @@
     ],
     [
         "candyPink",
-        "Candy Pink",
+        "Candy pink",
         "糖果粉紅",
         228,
         113,
@@ -905,7 +2073,7 @@
     ],
     [
         "caputMortuum",
-        "Caput Mortuum",
+        "Caput mortuum",
         "卡普特紅",
         89,
         39,
@@ -921,7 +2089,7 @@
     ],
     [
         "cardinalRed",
-        "Cardinal Red",
+        "Cardinal red",
         "樞機紅",
         153,
         0,
@@ -929,14 +2097,14 @@
     ],
     [
         "caribbeanGreen",
-        "Caribbean Green",
+        "Caribbean green",
         "加勒比綠",
         0,
         204,
         153
     ],
     [
-        "carmine",
+        "carmine0",
         "Carmine",
         "胭脂色",
         255,
@@ -944,8 +2112,16 @@
         64
     ],
     [
+        "carmine1",
+        "Carmine",
+        "胭脂色",
+        230,
+        0,
+        92
+    ],
+    [
         "carminePink",
-        "Carmine Pink",
+        "Carmine pink",
         "胭脂粉紅",
         235,
         76,
@@ -953,7 +2129,7 @@
     ],
     [
         "carmineRed",
-        "Carmine Red",
+        "Carmine red",
         "胭脂紅",
         255,
         0,
@@ -961,7 +2137,7 @@
     ],
     [
         "carnationPink",
-        "Carnation Pink",
+        "Carnation pink",
         "康乃馨色",
         255,
         166,
@@ -976,16 +2152,16 @@
         27
     ],
     [
-        "carolinaBlue",
+        "carolinaBlue0",
         "Carolina Blue",
         "卡羅萊納藍",
-        153,
-        186,
-        221
+        75,
+        156,
+        211
     ],
     [
         "carrotOrange",
-        "Carrot Orange",
+        "Carrot orange",
         "胡蘿蔔橙",
         237,
         145,
@@ -1009,7 +2185,7 @@
     ],
     [
         "celestialBlue",
-        "Celestial Blue",
+        "Celestial blue",
         "天青藍",
         73,
         151,
@@ -1025,7 +2201,7 @@
     ],
     [
         "cerisePink",
-        "Cerise Pink",
+        "Cerise pink",
         "櫻桃粉紅",
         236,
         59,
@@ -1041,7 +2217,7 @@
     ],
     [
         "ceruleanBlue",
-        "Cerulean Blue",
+        "Cerulean blue",
         "天青藍，深蔚藍",
         42,
         82,
@@ -1049,16 +2225,16 @@
     ],
     [
         "cgBlue",
-        "CG Blue",
-        "CG 藍色",
+        "CG blue",
+        "CG藍色",
         0,
         122,
         165
     ],
     [
         "cgRed",
-        "CG Red",
-        "CG 紅色",
+        "CG red",
+        "CG紅色",
         224,
         60,
         49
@@ -1081,7 +2257,7 @@
     ],
     [
         "champagneYellow",
-        "Champagne Yellow",
+        "Champagne yellow",
         "香檳黃",
         255,
         255,
@@ -1113,7 +2289,7 @@
     ],
     [
         "cherryBlossomPink",
-        "Cherry Blossom Pink",
+        "Cherry blossom pink",
         "櫻花粉紅",
         255,
         183,
@@ -1123,9 +2299,9 @@
         "chestnut",
         "Chestnut",
         "栗色",
-        205,
-        92,
-        92
+        149,
+        69,
+        53
     ],
     [
         "chocolate",
@@ -1136,11 +2312,19 @@
         30
     ],
     [
-        "chromeYellow",
-        "Chrome Yellow",
+        "chromeYellow0",
+        "Chrome yellow",
         "鉻黃色",
         255,
         167,
+        0
+    ],
+    [
+        "chromeYellow1",
+        "Chrome yellow",
+        "鉻黃色",
+        230,
+        184,
         0
     ],
     [
@@ -1176,8 +2360,16 @@
         10
     ],
     [
+        "citron",
+        "Citron",
+        "枸櫞色",
+        221,
+        208,
+        106
+    ],
+    [
         "classicRose",
-        "Classic Rose",
+        "Classic rose",
         "古典玫瑰色",
         251,
         204,
@@ -1201,7 +2393,7 @@
     ],
     [
         "cobaltBlue",
-        "Cobalt Blue",
+        "Cobalt blue",
         "鈷藍色",
         0,
         71,
@@ -1209,7 +2401,7 @@
     ],
     [
         "cobaltGreen",
-        "Cobalt Green",
+        "Cobalt green",
         "鈷綠色",
         102,
         255,
@@ -1217,7 +2409,7 @@
     ],
     [
         "cocoaBrown",
-        "Cocoa Brown",
+        "Cocoa brown",
         "可可棕",
         210,
         105,
@@ -1225,14 +2417,14 @@
     ],
     [
         "coconutBrown",
-        "Coconut Brown",
+        "Coconut brown",
         "椰褐色",
         77,
         31,
         0
     ],
     [
-        "coffee",
+        "coffee0",
         "Coffee",
         "咖啡色",
         111,
@@ -1240,16 +2432,24 @@
         55
     ],
     [
+        "coffee1",
+        "Coffee",
+        "咖啡色",
+        77,
+        57,
+        0
+    ],
+    [
         "columbiaBlue",
         "Columbia Blue",
         "哥倫比亞藍",
-        155,
-        221,
-        255
+        185,
+        217,
+        235
     ],
     [
         "coolBlack",
-        "Cool Black",
+        "Cool black",
         "冷青色",
         0,
         46,
@@ -1257,7 +2457,7 @@
     ],
     [
         "coolGray",
-        "Cool Gray",
+        "Cool gray",
         "冷灰色",
         140,
         146,
@@ -1265,7 +2465,7 @@
     ],
     [
         "coolGrey",
-        "Cool Grey",
+        "Cool grey",
         "冷灰色",
         140,
         146,
@@ -1281,7 +2481,7 @@
     ],
     [
         "copperRose",
-        "Copper Rose",
+        "Copper rose",
         "紅銅玫瑰色",
         153,
         102,
@@ -1298,22 +2498,30 @@
     [
         "coral",
         "Coral",
-        "珊瑚色",
+        "珊瑚紅，珊瑚色",
         255,
         127,
         80
     ],
     [
-        "coralPink",
-        "Coral Pink",
+        "coralPink0",
+        "Coral pink",
         "淺珊瑚紅",
         248,
         131,
         121
     ],
     [
+        "coralPink1",
+        "Coral pink",
+        "淺珊瑚紅",
+        255,
+        128,
+        191
+    ],
+    [
         "coralRed",
-        "Coral Red",
+        "Coral red",
         "珊瑚紅",
         255,
         64,
@@ -1353,7 +2561,7 @@
     ],
     [
         "cornflowerBlue",
-        "Cornflower Blue",
+        "Cornflower blue",
         "矢車菊藍",
         100,
         149,
@@ -1369,7 +2577,7 @@
     ],
     [
         "cosmicLatte",
-        "Cosmic Latte",
+        "Cosmic latte",
         "宇宙拿鐵",
         255,
         248,
@@ -1377,7 +2585,7 @@
     ],
     [
         "cottonCandy",
-        "Cotton Candy",
+        "Cotton candy",
         "棉花糖色",
         255,
         188,
@@ -1394,14 +2602,14 @@
     [
         "crimson",
         "Crimson",
-        "緋色",
+        "緋紅色，緋色",
         220,
         20,
         60
     ],
     [
         "crimsonGlory",
-        "Crimson Glory",
+        "Crimson glory",
         "赤色榮耀",
         190,
         0,
@@ -1409,7 +2617,7 @@
     ],
     [
         "crimsonRed",
-        "Crimson Red",
+        "Crimson red",
         "緋紅色",
         153,
         0,
@@ -1425,7 +2633,7 @@
     ],
     [
         "cyanBlue",
-        "Cyan Blue",
+        "Cyan blue",
         "青藍色",
         13,
         191,
@@ -1449,7 +2657,7 @@
     ],
     [
         "darkBlue",
-        "Dark Blue",
+        "Dark blue",
         "暗藍色",
         0,
         0,
@@ -1457,7 +2665,7 @@
     ],
     [
         "darkBrown",
-        "Dark Brown",
+        "Dark brown",
         "暗棕色",
         101,
         67,
@@ -1473,7 +2681,7 @@
     ],
     [
         "darkCandyAppleRed",
-        "Dark Candy Apple Red",
+        "Dark candy apple red",
         "暗糖果蘋果紅",
         164,
         0,
@@ -1481,7 +2689,7 @@
     ],
     [
         "darkCerulean",
-        "Dark Cerulean",
+        "Dark cerulean",
         "暗蔚藍",
         8,
         69,
@@ -1489,7 +2697,7 @@
     ],
     [
         "darkChestnut",
-        "Dark Chestnut",
+        "Dark chestnut",
         "暗栗色",
         152,
         105,
@@ -1497,7 +2705,7 @@
     ],
     [
         "darkCoral",
-        "Dark Coral",
+        "Dark coral",
         "暗珊瑚色",
         205,
         91,
@@ -1505,7 +2713,7 @@
     ],
     [
         "darkCyan",
-        "Dark Cyan",
+        "Dark cyan",
         "暗青色",
         0,
         139,
@@ -1513,7 +2721,7 @@
     ],
     [
         "darkElectricBlue",
-        "Dark Electric Blue",
+        "Dark electric blue",
         "暗電子藍",
         83,
         104,
@@ -1521,7 +2729,7 @@
     ],
     [
         "darkGoldenrod",
-        "Dark Goldenrod",
+        "Dark goldenrod",
         "暗金菊色",
         184,
         134,
@@ -1529,7 +2737,7 @@
     ],
     [
         "darkGray",
-        "Dark Gray",
+        "Dark gray",
         "暗灰色",
         169,
         169,
@@ -1537,7 +2745,7 @@
     ],
     [
         "darkGreen",
-        "Dark Green",
+        "Dark green",
         "暗綠色",
         0,
         100,
@@ -1545,7 +2753,7 @@
     ],
     [
         "darkGrey",
-        "Dark Grey",
+        "Dark grey",
         "暗灰色",
         169,
         169,
@@ -1553,7 +2761,7 @@
     ],
     [
         "darkJungleGreen",
-        "Dark Jungle Green",
+        "Dark jungle green",
         "暗叢林綠",
         26,
         36,
@@ -1561,7 +2769,7 @@
     ],
     [
         "darkKhaki",
-        "Dark Khaki",
+        "Dark khaki",
         "暗卡其色",
         189,
         183,
@@ -1569,7 +2777,7 @@
     ],
     [
         "darkLava",
-        "Dark Lava",
+        "Dark lava",
         "暗熔岩色",
         72,
         60,
@@ -1577,7 +2785,7 @@
     ],
     [
         "darkLavender",
-        "Dark Lavender",
+        "Dark lavender",
         "暗薰衣草色",
         115,
         79,
@@ -1585,7 +2793,7 @@
     ],
     [
         "darkMagenta",
-        "Dark Magenta",
+        "Dark magenta",
         "暗洋紅",
         139,
         0,
@@ -1593,7 +2801,7 @@
     ],
     [
         "darkMidnightBlue",
-        "Dark Midnight Blue",
+        "Dark midnight blue",
         "午夜藍，暗礦藍",
         0,
         51,
@@ -1601,7 +2809,7 @@
     ],
     [
         "darkOliveGreen",
-        "Dark Olive Green",
+        "Dark olive green",
         "暗橄欖綠",
         85,
         107,
@@ -1609,7 +2817,7 @@
     ],
     [
         "darkOrange",
-        "Dark Orange",
+        "Dark orange",
         "暗橙色",
         255,
         140,
@@ -1617,7 +2825,7 @@
     ],
     [
         "darkOrchid",
-        "Dark Orchid",
+        "Dark orchid",
         "暗蘭紫",
         153,
         50,
@@ -1625,7 +2833,7 @@
     ],
     [
         "darkPastelBlue",
-        "Dark Pastel Blue",
+        "Dark pastel blue",
         "暗粉彩藍",
         119,
         158,
@@ -1633,7 +2841,7 @@
     ],
     [
         "darkPastelGreen",
-        "Dark Pastel Green",
+        "Dark pastel green",
         "暗粉彩綠",
         3,
         192,
@@ -1641,7 +2849,7 @@
     ],
     [
         "darkPastelPurple",
-        "Dark Pastel Purple",
+        "Dark pastel purple",
         "暗粉彩紫",
         150,
         111,
@@ -1649,7 +2857,7 @@
     ],
     [
         "darkPastelRed",
-        "Dark Pastel Red",
+        "Dark pastel red",
         "暗粉彩紅",
         194,
         59,
@@ -1657,7 +2865,7 @@
     ],
     [
         "darkPink",
-        "Dark Pink",
+        "Dark pink",
         "暗粉紅",
         231,
         84,
@@ -1665,31 +2873,31 @@
     ],
     [
         "darkPowderBlue",
-        "Dark Powder Blue",
-        "粉末藍",
+        "Dark powder blue",
+        "粉末藍，暗粉藍",
         0,
         51,
         153
     ],
     [
         "darkRaspberry",
-        "Dark Raspberry",
-        "暗覆盆子色",
+        "Dark raspberry",
+        "暗樹莓色，暗覆盆子色",
         135,
         38,
         87
     ],
     [
         "darkRed",
-        "Dark Red",
-        "暗紅",
+        "Dark red",
+        "暗紅色",
         139,
         0,
         0
     ],
     [
         "darkSalmon",
-        "Dark Salmon",
+        "Dark salmon",
         "暗鮭紅",
         233,
         150,
@@ -1697,7 +2905,7 @@
     ],
     [
         "darkScarlet",
-        "Dark Scarlet",
+        "Dark scarlet",
         "暗猩紅",
         86,
         3,
@@ -1705,7 +2913,7 @@
     ],
     [
         "darkSeaGreen",
-        "Dark Sea Green",
+        "Dark sea green",
         "暗海綠",
         143,
         188,
@@ -1713,7 +2921,7 @@
     ],
     [
         "darkSienna",
-        "Dark Sienna",
+        "Dark sienna",
         "暗赭色",
         60,
         20,
@@ -1721,7 +2929,7 @@
     ],
     [
         "darkSlateBlue",
-        "Dark Slate Blue",
+        "Dark slate blue",
         "暗岩藍",
         72,
         61,
@@ -1729,7 +2937,7 @@
     ],
     [
         "darkSlateGray",
-        "Dark Slate Gray",
+        "Dark slate gray",
         "暗岩灰",
         47,
         79,
@@ -1737,7 +2945,7 @@
     ],
     [
         "darkSlateGrey",
-        "Dark Slate Grey",
+        "Dark slate grey",
         "暗岩灰",
         47,
         79,
@@ -1745,7 +2953,7 @@
     ],
     [
         "darkSpringGreen",
-        "Dark Spring Green",
+        "Dark spring green",
         "暗春綠",
         23,
         114,
@@ -1753,7 +2961,7 @@
     ],
     [
         "darkTan",
-        "Dark Tan",
+        "Dark tan",
         "深沙色",
         145,
         129,
@@ -1761,7 +2969,7 @@
     ],
     [
         "darkTangerine",
-        "Dark Tangerine",
+        "Dark tangerine",
         "暗橘色",
         255,
         168,
@@ -1769,7 +2977,7 @@
     ],
     [
         "darkTaupe",
-        "Dark Taupe",
+        "Dark taupe",
         "暗灰褐色",
         72,
         60,
@@ -1777,7 +2985,7 @@
     ],
     [
         "darkTerraCotta",
-        "Dark Terra Cotta",
+        "Dark terra cotta",
         "暗赤陶色",
         204,
         78,
@@ -1785,7 +2993,7 @@
     ],
     [
         "darkTurquoise",
-        "Dark Turquoise",
+        "Dark turquoise",
         "暗綠松石色",
         0,
         206,
@@ -1793,7 +3001,7 @@
     ],
     [
         "darkViolet",
-        "Dark Violet",
+        "Dark violet",
         "暗紫色",
         148,
         0,
@@ -1801,7 +3009,7 @@
     ],
     [
         "dartmouthGreen",
-        "Dartmouth Green",
+        "Dartmouth green",
         "達特茅斯綠",
         0,
         105,
@@ -1809,7 +3017,7 @@
     ],
     [
         "davyGray",
-        "Davy Gray",
+        "Davy gray",
         "戴維灰",
         85,
         85,
@@ -1817,7 +3025,7 @@
     ],
     [
         "davyGrey",
-        "Davy Grey",
+        "Davy grey",
         "戴維灰",
         85,
         85,
@@ -1825,15 +3033,15 @@
     ],
     [
         "debianRed",
-        "Debian Red",
-        "Debian 紅",
+        "Debian red",
+        "Debian紅",
         215,
         10,
         83
     ],
     [
         "deepCarmine",
-        "Deep Carmine",
+        "Deep carmine",
         "深胭脂色",
         169,
         32,
@@ -1841,7 +3049,7 @@
     ],
     [
         "deepCarminePink",
-        "Deep Carmine Pink",
+        "Deep carmine pink",
         "深胭脂粉紅",
         239,
         48,
@@ -1849,7 +3057,7 @@
     ],
     [
         "deepCarrotOrange",
-        "Deep Carrot Orange",
+        "Deep carrot orange",
         "深胡蘿蔔橙",
         233,
         105,
@@ -1857,7 +3065,7 @@
     ],
     [
         "deepCerise",
-        "Deep Cerise",
+        "Deep cerise",
         "深櫻桃色",
         218,
         50,
@@ -1865,7 +3073,7 @@
     ],
     [
         "deepChampagne",
-        "Deep Champagne",
+        "Deep champagne",
         "深香檳色",
         250,
         214,
@@ -1873,7 +3081,7 @@
     ],
     [
         "deepChestnut",
-        "Deep Chestnut",
+        "Deep chestnut",
         "深栗色",
         185,
         78,
@@ -1881,7 +3089,7 @@
     ],
     [
         "deepCoffee",
-        "Deep Coffee",
+        "Deep coffee",
         "深咖啡色",
         112,
         66,
@@ -1889,7 +3097,7 @@
     ],
     [
         "deepFuchsia",
-        "Deep Fuchsia",
+        "Deep fuchsia",
         "深紫紅色",
         193,
         84,
@@ -1897,7 +3105,7 @@
     ],
     [
         "deepGreen",
-        "Deep Green",
+        "Deep green",
         "深綠色",
         1,
         50,
@@ -1905,7 +3113,7 @@
     ],
     [
         "deepIndigo",
-        "Deep Indigo",
+        "Deep indigo",
         "深靛色，藍紫色",
         138,
         43,
@@ -1913,15 +3121,23 @@
     ],
     [
         "deepJungleGreen",
-        "Deep Jungle Green",
+        "Deep jungle green",
         "深叢林綠",
         0,
         75,
         73
     ],
     [
+        "deepLemon",
+        "Deep lemon",
+        "檸檬咖哩色",
+        245,
+        199,
+        26
+    ],
+    [
         "deepLilac",
-        "Deep Lilac",
+        "Deep lilac",
         "深紫丁香色",
         153,
         85,
@@ -1929,7 +3145,7 @@
     ],
     [
         "deepMagenta",
-        "Deep Magenta",
+        "Deep magenta",
         "深洋紅",
         204,
         0,
@@ -1937,7 +3153,7 @@
     ],
     [
         "deepPeach",
-        "Deep Peach",
+        "Deep peach",
         "深桃色",
         255,
         203,
@@ -1945,7 +3161,7 @@
     ],
     [
         "deepPink",
-        "Deep Pink",
+        "Deep pink",
         "深粉紅",
         255,
         20,
@@ -1953,7 +3169,7 @@
     ],
     [
         "deepSaffron",
-        "Deep Saffron",
+        "Deep saffron",
         "深藏紅花色",
         255,
         153,
@@ -1961,7 +3177,7 @@
     ],
     [
         "deepSkyBlue",
-        "Deep Sky Blue",
+        "Deep sky blue",
         "深天藍",
         0,
         191,
@@ -1985,31 +3201,55 @@
     ],
     [
         "desertSand",
-        "Desert Sand",
+        "Desert sand",
         "沙漠沙色",
         237,
         201,
         175
     ],
     [
-        "dimGray",
-        "Dim Gray",
+        "dimGray0",
+        "Dim gray",
         "昏灰",
         105,
         105,
         105
     ],
     [
-        "dimGrey",
-        "Dim Grey",
+        "dimGray1",
+        "Dim gray",
+        "暗灰色",
+        64,
+        64,
+        64
+    ],
+    [
+        "dimGrey0",
+        "Dim grey",
+        "暗灰色",
+        64,
+        64,
+        64
+    ],
+    [
+        "dimGrey1",
+        "Dim grey",
         "昏灰",
         105,
         105,
         105
+    ],
+    [
+        "dobunezumi",
+        "Dobunezumi",
+        "丼鼠",
+        75,
+        60,
+        57
     ],
     [
         "dodgerBlue",
-        "Dodger Blue",
+        "Dodger blue",
         "道奇藍",
         30,
         144,
@@ -2017,7 +3257,7 @@
     ],
     [
         "dogwoodRose",
-        "Dogwood Rose",
+        "Dogwood rose",
         "山茱萸玫瑰色",
         215,
         24,
@@ -2025,7 +3265,7 @@
     ],
     [
         "dollarBill",
-        "Dollar Bill",
+        "Dollar bill",
         "一美元紙幣色",
         133,
         187,
@@ -2041,7 +3281,7 @@
     ],
     [
         "dukeBlue",
-        "Duke Blue",
+        "Duke blue",
         "杜克大學藍",
         0,
         0,
@@ -2049,7 +3289,7 @@
     ],
     [
         "earthYellow",
-        "Earth Yellow",
+        "Earth yellow",
         "土黃色",
         225,
         169,
@@ -2081,7 +3321,7 @@
     ],
     [
         "egyptianBlue",
-        "Egyptian Blue",
+        "Egyptian blue",
         "埃及藍",
         16,
         52,
@@ -2089,39 +3329,39 @@
     ],
     [
         "electricBlue",
-        "Electric Blue",
-        "電子藍",
+        "Electric blue",
+        "螢幕藍",
         125,
         249,
         255
     ],
     [
         "electricCrimson",
-        "Electric Crimson",
-        "電子深紅",
+        "Electric crimson",
+        "螢幕深紅",
         255,
         0,
         63
     ],
     [
         "electricCyan",
-        "Electric Cyan",
-        "電子青",
+        "Electric cyan",
+        "螢幕青",
         0,
         255,
         255
     ],
     [
         "electricGreen",
-        "Electric Green",
-        "電子綠",
+        "Electric green",
+        "螢幕綠",
         0,
         255,
         0
     ],
     [
         "electricIndigo",
-        "Electric Indigo",
+        "Electric indigo",
         "螢幕靛",
         111,
         0,
@@ -2129,48 +3369,48 @@
     ],
     [
         "electricLavender",
-        "Electric Lavender",
-        "電子薰衣草色",
+        "Electric lavender",
+        "螢幕薰衣草色",
         244,
         187,
         255
     ],
     [
         "electricLime",
-        "Electric Lime",
-        "電子萊姆色",
+        "Electric lime",
+        "螢幕萊姆色",
         204,
         255,
         0
     ],
     [
         "electricPurple",
-        "Electric Purple",
-        "電子紫",
+        "Electric purple",
+        "螢幕紫",
         191,
         0,
         255
     ],
     [
         "electricUltramarine",
-        "Electric Ultramarine",
-        "電子群青",
+        "Electric ultramarine",
+        "螢幕群青",
         63,
         0,
         255
     ],
     [
         "electricViolet",
-        "Electric Violet",
-        "電子紫羅蘭色",
+        "Electric violet",
+        "螢幕紫羅蘭色",
         143,
         0,
         255
     ],
     [
         "electricYellow",
-        "Electric Yellow",
-        "電子黃",
+        "Electric yellow",
+        "螢幕黃",
         255,
         255,
         0
@@ -2185,7 +3425,7 @@
     ],
     [
         "etonBlue",
-        "Eton Blue",
+        "Eton blue",
         "伊頓藍",
         150,
         200,
@@ -2201,7 +3441,7 @@
     ],
     [
         "faluRed",
-        "Falu Red",
+        "Falu red",
         "法魯紅",
         128,
         24,
@@ -2225,7 +3465,7 @@
     ],
     [
         "fashionFuchsia",
-        "Fashion Fuchsia",
+        "Fashion fuchsia",
         "時尚紫紅色",
         244,
         0,
@@ -2257,7 +3497,7 @@
     ],
     [
         "fernGreen",
-        "Fern Green",
+        "Fern green",
         "蕨綠色蕨綠",
         79,
         121,
@@ -2265,7 +3505,7 @@
     ],
     [
         "ferrariRed",
-        "Ferrari Red",
+        "Ferrari red",
         "法拉利紅",
         255,
         40,
@@ -2281,7 +3521,7 @@
     ],
     [
         "fireEngineRed",
-        "Fire Engine Red",
+        "Fire engine red",
         "消防車紅",
         206,
         32,
@@ -2289,7 +3529,7 @@
     ],
     [
         "firebrick",
-        "Firebrick",
+        "Fire brick",
         "耐火磚紅色",
         178,
         34,
@@ -2306,15 +3546,15 @@
     [
         "flamingo",
         "Flamingo",
-        "火鶴紅",
-        252,
-        142,
-        172
+        "火鶴紅，火鶴色",
+        230,
+        138,
+        184
     ],
     [
         "flamingoPink",
-        "Flamingo Pink",
-        "火鶴紅",
+        "Flamingo pink",
+        "火鶴粉紅",
         252,
         142,
         172
@@ -2337,7 +3577,7 @@
     ],
     [
         "floralWhite",
-        "Floral White",
+        "Floral white",
         "花卉白",
         255,
         250,
@@ -2345,7 +3585,7 @@
     ],
     [
         "fluorescentOrange",
-        "Fluorescent Orange",
+        "Fluorescent orange",
         "螢光橙",
         255,
         191,
@@ -2353,7 +3593,7 @@
     ],
     [
         "fluorescentPink",
-        "Fluorescent Pink",
+        "Fluorescent pink",
         "螢光粉紅",
         255,
         20,
@@ -2361,7 +3601,7 @@
     ],
     [
         "fluorescentYellow",
-        "Fluorescent Yellow",
+        "Fluorescent yellow",
         "螢光黃",
         204,
         255,
@@ -2369,8 +3609,8 @@
     ],
     [
         "foliageGreen",
-        "Foliage Green",
-        "葉綠",
+        "Foliage green",
+        "葉綠色",
         115,
         184,
         57
@@ -2378,14 +3618,14 @@
     [
         "folly",
         "Folly",
-        "Folly 紅",
+        "Folly紅",
         255,
         0,
         79
     ],
     [
         "forestGreen",
-        "Forest Green",
+        "Forest green",
         "森林綠",
         34,
         139,
@@ -2393,7 +3633,7 @@
     ],
     [
         "frenchBeige",
-        "French Beige",
+        "French beige",
         "法國米黃",
         166,
         123,
@@ -2401,15 +3641,23 @@
     ],
     [
         "frenchBlue",
-        "French Blue",
+        "French blue",
         "法國青",
         0,
         114,
         187
     ],
     [
+        "frenchFuchsia",
+        "French fuchsia",
+        "法國品紅",
+        253,
+        63,
+        146
+    ],
+    [
         "frenchLilac",
-        "French Lilac",
+        "French lilac",
         "法國紫丁香色",
         134,
         96,
@@ -2417,7 +3665,7 @@
     ],
     [
         "frenchRose",
-        "French Rose",
+        "French rose",
         "法國玫瑰色",
         246,
         74,
@@ -2425,27 +3673,51 @@
     ],
     [
         "freshLeaves",
-        "Fresh Leaves",
+        "Fresh leaves",
         "嫩綠色",
         153,
         255,
         77
     ],
     [
-        "fuchsia",
+        "fuchsia0",
         "Fuchsia",
-        "品紅色",
+        "品紅色，紫紅色",
         255,
         0,
         255
     ],
     [
+        "fuchsia1",
+        "Fuchsia",
+        "品紅色，紫紅色",
+        244,
+        0,
+        161
+    ],
+    [
         "fuchsiaPink",
-        "Fuchsia Pink",
+        "Fuchsia pink",
         "淺品紅",
         255,
         119,
         255
+    ],
+    [
+        "fuchsiaPurple",
+        "Fuchsia purple",
+        "紫品紅",
+        204,
+        57,
+        123
+    ],
+    [
+        "fuchsiaRose",
+        "Fuchsia rose",
+        "紫紅玫瑰色",
+        199,
+        67,
+        117
     ],
     [
         "fulvous",
@@ -2454,6 +3726,14 @@
         228,
         132,
         0
+    ],
+    [
+        "fushizome",
+        "Fushizome",
+        "柴染",
+        140,
+        89,
+        57
     ],
     [
         "fuzzyWuzzy",
@@ -2466,7 +3746,7 @@
     [
         "gainsboro",
         "Gainsboro",
-        "庚斯博羅灰，亮灰色",
+        "庚斯博羅灰",
         220,
         220,
         220
@@ -2481,7 +3761,7 @@
     ],
     [
         "ghostWhite",
-        "Ghost White",
+        "Ghost white",
         "幽靈白",
         248,
         248,
@@ -2529,7 +3809,7 @@
     ],
     [
         "goldenBrown",
-        "Golden Brown",
+        "Golden brown",
         "金棕色",
         153,
         101,
@@ -2537,7 +3817,7 @@
     ],
     [
         "goldenPoppy",
-        "Golden Poppy",
+        "Golden poppy",
         "金罌粟色",
         252,
         194,
@@ -2545,7 +3825,7 @@
     ],
     [
         "goldenYellow",
-        "Golden Yellow",
+        "Golden yellow",
         "金黃色",
         255,
         223,
@@ -2561,7 +3841,7 @@
     ],
     [
         "grannySmithApple",
-        "Granny Smith Apple",
+        "Granny Smith apple",
         "澳洲青蘋色",
         168,
         228,
@@ -2569,7 +3849,7 @@
     ],
     [
         "grassGreen",
-        "Grass Green",
+        "Grass green",
         "草綠色",
         153,
         230,
@@ -2585,15 +3865,23 @@
     ],
     [
         "grayAsparagus",
-        "Gray Asparagus",
+        "Gray asparagus",
         "灰蘆筍色",
         70,
         89,
         69
     ],
     [
+        "grayX11",
+        "Gray (X11)",
+        "灰色（X11）",
+        190,
+        190,
+        190
+    ],
+    [
         "grayishPurple",
-        "Grayish Purple",
+        "Grayish purple",
         "淺灰紫紅",
         134,
         116,
@@ -2604,20 +3892,28 @@
         "Green",
         "綠色",
         0,
-        255,
+        128,
         0
     ],
     [
         "greenBlue",
-        "Green Blue",
+        "Green blue",
         "綠灰色",
         17,
         100,
         180
     ],
     [
+        "greenX11",
+        "Green (X11)",
+        "綠色（X11）",
+        0,
+        255,
+        0
+    ],
+    [
         "greenYellow",
-        "Green Yellow",
+        "Green yellow",
         "綠黃色",
         173,
         255,
@@ -2633,15 +3929,23 @@
     ],
     [
         "greyAsparagus",
-        "Grey Asparagus",
+        "Grey asparagus",
         "灰蘆筍色",
         70,
         89,
         69
     ],
     [
+        "greyX11",
+        "Grey (X11)",
+        "灰色（X11）",
+        190,
+        190,
+        190
+    ],
+    [
         "greyishPurple",
-        "Greyish Purple",
+        "Greyish purple",
         "淺灰紫紅",
         134,
         116,
@@ -2657,7 +3961,7 @@
     ],
     [
         "guppieGreen",
-        "Guppie Green",
+        "Guppie green",
         "孔雀魚綠",
         0,
         255,
@@ -2673,7 +3977,7 @@
     ],
     [
         "hanBlue",
-        "Han Blue",
+        "Han blue",
         "漢藍色",
         68,
         108,
@@ -2681,7 +3985,7 @@
     ],
     [
         "hanPurple",
-        "Han Purple",
+        "Han purple",
         "漢紫色",
         82,
         24,
@@ -2689,7 +3993,7 @@
     ],
     [
         "hansaYellow",
-        "Hansa Yellow",
+        "Hansa yellow",
         "漢莎黃",
         233,
         214,
@@ -2737,7 +4041,7 @@
     ],
     [
         "hollywoodCerise",
-        "Hollywood Cerise",
+        "Hollywood cerise",
         "好萊塢櫻桃色",
         244,
         0,
@@ -2745,7 +4049,7 @@
     ],
     [
         "honeyOrange",
-        "Honey Orange",
+        "Honey orange",
         "蜜橙色",
         255,
         179,
@@ -2761,15 +4065,23 @@
     ],
     [
         "hookerGreen",
-        "Hooker Green",
+        "Hooker green",
         "墨綠色",
         73,
         121,
         107
     ],
     [
+        "horizon",
+        "Horizon",
+        "蒼色",
+        176,
+        220,
+        213
+    ],
+    [
         "horizonBlue",
-        "Horizon Blue",
+        "Horizon blue",
         "蒼色，地平線藍",
         184,
         221,
@@ -2777,7 +4089,7 @@
     ],
     [
         "hotMagenta",
-        "Hot Magenta",
+        "Hot magenta",
         "暖洋紅",
         255,
         29,
@@ -2785,7 +4097,7 @@
     ],
     [
         "hotPink",
-        "Hot Pink",
+        "Hot pink",
         "暖粉紅",
         255,
         105,
@@ -2793,7 +4105,7 @@
     ],
     [
         "hunterGreen",
-        "Hunter Green",
+        "Hunter green",
         "森林綠",
         53,
         94,
@@ -2808,6 +4120,14 @@
         94
     ],
     [
+        "imperialBlue",
+        "Imperial blue",
+        "帝國藍",
+        0,
+        35,
+        149
+    ],
+    [
         "inchworm",
         "Inchworm",
         "尺蠖色",
@@ -2817,7 +4137,7 @@
     ],
     [
         "indiaGreen",
-        "India Green",
+        "India green",
         "印度綠",
         19,
         136,
@@ -2825,7 +4145,7 @@
     ],
     [
         "indianRed",
-        "Indian Red",
+        "Indian red",
         "印度紅",
         205,
         92,
@@ -2833,7 +4153,7 @@
     ],
     [
         "indianYellow",
-        "Indian Yellow",
+        "Indian yellow",
         "印度黃",
         227,
         168,
@@ -2848,8 +4168,16 @@
         130
     ],
     [
-        "indigoDye",
-        "Indigo Dye",
+        "indigoDye0",
+        "Indigo dye",
+        "靛青染料色",
+        0,
+        65,
+        106
+    ],
+    [
+        "indigoDye1",
+        "Indigo dye",
         "靛青染料色",
         17,
         80,
@@ -2864,11 +4192,27 @@
         167
     ],
     [
-        "internationalOrange",
-        "International Orange",
-        "國際橘",
+        "internationalOrangeAerospace",
+        "International Orange (Aerospace)",
+        "國際橙（航太）",
         255,
         79,
+        0
+    ],
+    [
+        "internationalOrangeEngineering",
+        "International Orange (Engineering)",
+        "國際橙（工程）",
+        186,
+        22,
+        12
+    ],
+    [
+        "internationalOrangeGoldenGateBridge",
+        "International Orange (Golden Gate Bridge)",
+        "國際橙（金門大橋）",
+        240,
+        74,
         0
     ],
     [
@@ -2881,7 +4225,7 @@
     ],
     [
         "ironGray",
-        "Iron Gray",
+        "Iron gray",
         "鐵灰色",
         98,
         91,
@@ -2889,7 +4233,7 @@
     ],
     [
         "ironGrey",
-        "Iron Grey",
+        "Iron grey",
         "鐵灰色",
         98,
         91,
@@ -2905,7 +4249,7 @@
     ],
     [
         "islamicGreen",
-        "Islamic Green",
+        "Islamic green",
         "伊斯蘭綠",
         0,
         144,
@@ -2921,7 +4265,7 @@
     ],
     [
         "ivyGreen",
-        "Ivy Green",
+        "Ivy green",
         "常春藤綠",
         54,
         191,
@@ -2938,7 +4282,7 @@
     [
         "jasmine",
         "Jasmine",
-        "茉莉色",
+        "茉莉黃，茉莉色",
         248,
         222,
         126
@@ -2969,7 +4313,7 @@
     ],
     [
         "juneBud",
-        "June Bud",
+        "June bud",
         "六月新芽色",
         189,
         218,
@@ -2977,27 +4321,75 @@
     ],
     [
         "jungleGreen",
-        "Jungle Green",
+        "Jungle green",
         "叢林綠",
         41,
         171,
         135
     ],
     [
+        "kabacha",
+        "Kabacha",
+        "樺茶色",
+        177,
+        74,
+        48
+    ],
+    [
         "kellyGreen",
-        "Kelly Green",
+        "Kelly green",
         "凱莉綠",
         76,
         187,
         23
     ],
     [
-        "khaki",
+        "khaki0",
         "Khaki",
         "卡其色",
         195,
         176,
         145
+    ],
+    [
+        "khaki1",
+        "Khaki",
+        "卡其色",
+        153,
+        107,
+        31
+    ],
+    [
+        "kihada",
+        "Kihada",
+        "關黃柏木色",
+        243,
+        193,
+        58
+    ],
+    [
+        "kikyo",
+        "Kikyō-iro",
+        "桔梗色",
+        93,
+        63,
+        106
+    ],
+    [
+        "kohaku",
+        "Kohaku-iro",
+        "琥珀色（日本）",
+        202,
+        105,
+        36
+    ],
+    [
+        "kokushoku",
+        "Kokushoku",
+        "日本黑",
+        23,
+        20,
+        18
     ],
     [
         "kuCrimson",
@@ -3006,6 +4398,30 @@
         232,
         0,
         13
+    ],
+    [
+        "kurotobi",
+        "Kurotobi",
+        "黑鳶色",
+        53,
+        30,
+        28
+    ],
+    [
+        "kurotsurubami",
+        "Kurotsurubami",
+        "黑橡色",
+        37,
+        35,
+        33
+    ],
+    [
+        "kyara",
+        "Kyara-iro",
+        "伽羅色",
+        106,
+        67,
+        45
     ],
     [
         "laSalleGreen",
@@ -3017,7 +4433,7 @@
     ],
     [
         "languidLavender",
-        "Languid Lavender",
+        "Languid lavender",
         "淺薰衣草色",
         214,
         202,
@@ -3025,15 +4441,23 @@
     ],
     [
         "lapisLazuli",
-        "Lapis Lazuli",
-        "天青石藍",
+        "Lapis lazuli",
+        "青金石藍，天青石藍",
         38,
         97,
         156
     ],
     [
-        "laserLemon",
-        "Laser Lemon",
+        "laserLemon0",
+        "Laser lemon",
+        "雷射檸檬色",
+        255,
+        255,
+        102
+    ],
+    [
+        "laserLemon1",
+        "Laser lemon",
         "雷射檸檬色",
         254,
         254,
@@ -3041,7 +4465,7 @@
     ],
     [
         "laurelGreen",
-        "Laurel Green",
+        "Laurel green",
         "月桂綠",
         169,
         186,
@@ -3056,16 +4480,24 @@
         32
     ],
     [
-        "lavender",
+        "lavender0",
         "Lavender",
-        "薰衣草色",
+        "薰衣草色，薰衣草紫",
         230,
         230,
         250
     ],
     [
+        "lavender1",
+        "Lavender",
+        "薰衣草色，淡紫色",
+        181,
+        126,
+        220
+    ],
+    [
         "lavenderBlue",
-        "Lavender Blue",
+        "Lavender blue",
         "長春花色",
         204,
         204,
@@ -3073,7 +4505,7 @@
     ],
     [
         "lavenderBlush",
-        "Lavender Blush",
+        "Lavender blush",
         "薰衣草紫紅",
         255,
         240,
@@ -3081,7 +4513,7 @@
     ],
     [
         "lavenderGray",
-        "Lavender Gray",
+        "Lavender gray",
         "薰衣草灰",
         196,
         195,
@@ -3089,7 +4521,7 @@
     ],
     [
         "lavenderGrey",
-        "Lavender Grey",
+        "Lavender grey",
         "薰衣草灰",
         196,
         195,
@@ -3097,7 +4529,7 @@
     ],
     [
         "lavenderIndigo",
-        "Lavender Indigo",
+        "Lavender indigo",
         "薰衣草靛",
         148,
         87,
@@ -3105,15 +4537,15 @@
     ],
     [
         "lavenderMagenta",
-        "Lavender Magenta",
-        "亮紫",
+        "Lavender magenta",
+        "亮紫色",
         238,
         130,
         238
     ],
     [
         "lavenderMist",
-        "Lavender Mist",
+        "Lavender mist",
         "薰衣草霧色",
         230,
         230,
@@ -3121,7 +4553,7 @@
     ],
     [
         "lavenderPink",
-        "Lavender Pink",
+        "Lavender pink",
         "薰衣草粉紅",
         251,
         174,
@@ -3129,7 +4561,7 @@
     ],
     [
         "lavenderPurple",
-        "Lavender Purple",
+        "Lavender purple",
         "薰衣草紫",
         150,
         123,
@@ -3137,7 +4569,7 @@
     ],
     [
         "lavenderRose",
-        "Lavender Rose",
+        "Lavender rose",
         "薰衣草玫瑰色",
         251,
         160,
@@ -3145,7 +4577,7 @@
     ],
     [
         "lawnGreen",
-        "Lawn Green",
+        "Lawn green",
         "草坪綠",
         124,
         252,
@@ -3161,23 +4593,47 @@
     ],
     [
         "lemonChiffon",
-        "Lemon Chiffon",
-        "檸檬綢色",
+        "Lemon chiffon",
+        "檸檬戚風蛋糕色",
         255,
         250,
         205
     ],
     [
+        "lemonCurry",
+        "Lemon curry",
+        "檸檬咖哩色",
+        204,
+        160,
+        29
+    ],
+    [
+        "lemonGlacier",
+        "Lemon glacier",
+        "檸檬冰川色",
+        253,
+        255,
+        0
+    ],
+    [
         "lemonLime",
-        "Lemon Lime",
-        "檸檬萊姆色",
+        "Lemon lime",
+        "檸檬萊姆色，鮮綠色",
         191,
         255,
         0
     ],
     [
+        "lemonMeringue",
+        "Lemon meringue",
+        "檸檬蛋白霜色",
+        246,
+        234,
+        190
+    ],
+    [
         "lemonYellow",
-        "Lemon Yellow",
+        "Lemon yellow",
         "檸檬黃",
         255,
         244,
@@ -3185,7 +4641,7 @@
     ],
     [
         "lightApricot",
-        "Light Apricot",
+        "Light apricot",
         "淺杏色",
         253,
         213,
@@ -3193,7 +4649,7 @@
     ],
     [
         "lightBlue",
-        "Light Blue",
+        "Light blue",
         "亮藍色",
         173,
         216,
@@ -3201,7 +4657,7 @@
     ],
     [
         "lightBrown",
-        "Light Brown",
+        "Light brown",
         "淺棕色",
         181,
         101,
@@ -3209,7 +4665,7 @@
     ],
     [
         "lightCarminePink",
-        "Light Carmine Pink",
+        "Light carmine pink",
         "淺胭脂粉紅",
         230,
         103,
@@ -3217,7 +4673,7 @@
     ],
     [
         "lightCoral",
-        "Light Coral",
+        "Light coral",
         "亮珊瑚色",
         240,
         128,
@@ -3225,7 +4681,7 @@
     ],
     [
         "lightCornflowerBlue",
-        "Light Cornflower Blue",
+        "Light cornflower blue",
         "淺矢車菊藍",
         147,
         204,
@@ -3233,7 +4689,7 @@
     ],
     [
         "lightCrimson",
-        "Light Crimson",
+        "Light crimson",
         "淺緋色",
         245,
         105,
@@ -3241,7 +4697,7 @@
     ],
     [
         "lightCyan",
-        "Light Cyan",
+        "Light cyan",
         "亮青色",
         224,
         255,
@@ -3249,7 +4705,7 @@
     ],
     [
         "lightFuchsiaPink",
-        "Light Fuchsia Pink",
+        "Light fuchsia pink",
         "淺蓮紅",
         249,
         132,
@@ -3257,7 +4713,7 @@
     ],
     [
         "lightGoldenrodYellow",
-        "Light Goldenrod Yellow",
+        "Light goldenrod yellow",
         "亮金菊黃",
         250,
         250,
@@ -3265,7 +4721,7 @@
     ],
     [
         "lightGray",
-        "Light Gray",
+        "Light gray",
         "亮灰色",
         211,
         211,
@@ -3273,7 +4729,7 @@
     ],
     [
         "lightGreen",
-        "Light Green",
+        "Light green",
         "亮綠色",
         144,
         238,
@@ -3281,7 +4737,7 @@
     ],
     [
         "lightGrey",
-        "Light Grey",
+        "Light grey",
         "亮灰色",
         211,
         211,
@@ -3289,7 +4745,7 @@
     ],
     [
         "lightKhaki",
-        "Light Khaki",
+        "Light khaki",
         "亮卡其色",
         240,
         230,
@@ -3297,7 +4753,7 @@
     ],
     [
         "lightLime",
-        "Light Lime",
+        "Light lime",
         "亮檸檬綠",
         204,
         255,
@@ -3305,7 +4761,7 @@
     ],
     [
         "lightPastelPurple",
-        "Light Pastel Purple",
+        "Light pastel purple",
         "淺粉紫",
         177,
         156,
@@ -3313,7 +4769,7 @@
     ],
     [
         "lightPink",
-        "Light Pink",
+        "Light pink",
         "亮粉紅",
         255,
         182,
@@ -3321,7 +4777,7 @@
     ],
     [
         "lightSalmon",
-        "Light Salmon",
+        "Light salmon",
         "亮鮭紅",
         255,
         160,
@@ -3329,7 +4785,7 @@
     ],
     [
         "lightSalmonPink",
-        "Light Salmon Pink",
+        "Light salmon pink",
         "亮鮭粉紅",
         255,
         153,
@@ -3337,7 +4793,7 @@
     ],
     [
         "lightSeaGreen",
-        "Light Sea Green",
+        "Light sea green",
         "亮海綠",
         32,
         178,
@@ -3345,7 +4801,7 @@
     ],
     [
         "lightSkyBlue",
-        "Light Sky Blue",
+        "Light sky blue",
         "淺天藍",
         135,
         206,
@@ -3353,7 +4809,7 @@
     ],
     [
         "lightSlateGray",
-        "Light Slate Gray",
+        "Light slate gray",
         "亮岩灰",
         119,
         136,
@@ -3361,7 +4817,7 @@
     ],
     [
         "lightSlateGrey",
-        "Light Slate Grey",
+        "Light slate gray",
         "亮岩灰",
         119,
         136,
@@ -3369,7 +4825,7 @@
     ],
     [
         "lightSteelBlue",
-        "Light Steel Blue",
+        "Light steel blue",
         "亮鋼藍",
         176,
         196,
@@ -3377,7 +4833,7 @@
     ],
     [
         "lightTaupe",
-        "Light Taupe",
+        "Light taupe",
         "淺灰褐色",
         179,
         139,
@@ -3385,7 +4841,7 @@
     ],
     [
         "lightThulianPink",
-        "Light Thulian Pink",
+        "Light Thulian pink",
         "淺莓果紅",
         230,
         143,
@@ -3393,15 +4849,23 @@
     ],
     [
         "lightViolet",
-        "Light Violet",
+        "Light violet",
         "亮紫色",
         176,
         157,
         185
     ],
     [
-        "lightYellow",
-        "Light Yellow",
+        "lightYellow0",
+        "Light yellow",
+        "亮黃色",
+        255,
+        255,
+        224
+    ],
+    [
+        "lightYellow1",
+        "Light yellow",
         "亮黃色",
         255,
         255,
@@ -3418,14 +4882,14 @@
     [
         "lime",
         "Lime",
-        "鮮綠色",
-        191,
+        "鮮綠色，萊姆色",
+        0,
         255,
         0
     ],
     [
         "limeGreen",
-        "Lime Green",
+        "Lime green",
         "檸檬綠",
         50,
         205,
@@ -3433,7 +4897,7 @@
     ],
     [
         "lincolnGreen",
-        "Lincoln Green",
+        "Lincoln green",
         "林肯綠",
         25,
         89,
@@ -3489,15 +4953,23 @@
     ],
     [
         "magentaRose",
-        "Magenta Rose",
+        "Magenta rose",
         "洋玫瑰紅",
         255,
         13,
         166
     ],
     [
+        "magentaX11",
+        "Magenta (X11)",
+        "洋紅色（X11）",
+        255,
+        0,
+        255
+    ],
+    [
         "magicMint",
-        "Magic Mint",
+        "Magic mint",
         "魔法薄荷",
         170,
         240,
@@ -3529,19 +5001,27 @@
     ],
     [
         "majorelleBlue",
-        "Majorelle Blue",
+        "Majorelle blue",
         "馬約爾藍",
         96,
         80,
         220
     ],
     [
-        "malachite",
+        "malachite0",
         "Malachite",
         "孔雀石綠",
         11,
         218,
         81
+    ],
+    [
+        "malachite1",
+        "Malachite",
+        "孔雀石綠",
+        34,
+        195,
+        46
     ],
     [
         "mallow",
@@ -3585,7 +5065,7 @@
     ],
     [
         "marineBlue",
-        "Marine Blue",
+        "Marine blue",
         "水手藍",
         0,
         71,
@@ -3600,16 +5080,24 @@
         0
     ],
     [
+        "maroonX11",
+        "Maroon (X11)",
+        "栗色（X11）",
+        176,
+        48,
+        96
+    ],
+    [
         "mauve",
         "Mauve",
-        "木槿紫",
+        "藕荷色，木槿紫，粉紫色",
         224,
         176,
         255
     ],
     [
         "mauveTaupe",
-        "Mauve Taupe",
+        "Mauve taupe",
         "淡紫灰褐色",
         145,
         95,
@@ -3625,7 +5113,7 @@
     ],
     [
         "mayaBlue",
-        "Maya Blue",
+        "Maya blue",
         "瑪雅藍",
         115,
         194,
@@ -3633,23 +5121,31 @@
     ],
     [
         "meatBrown",
-        "Meat Brown",
+        "Meat brown",
         "肉棕色",
         229,
         183,
         59
     ],
     [
-        "mediumAquamarine",
-        "Medium Aquamarine",
+        "mediumAquamarine0",
+        "Medium aquamarine",
         "中碧藍色",
         102,
         221,
         170
     ],
     [
+        "mediumAquamarine1",
+        "Medium aquamarine",
+        "中碧藍色",
+        102,
+        205,
+        170
+    ],
+    [
         "mediumBlue",
-        "Medium Blue",
+        "Medium blue",
         "中藍色",
         0,
         0,
@@ -3657,7 +5153,7 @@
     ],
     [
         "mediumCandyAppleRed",
-        "Medium Candy Apple Red",
+        "Medium candy apple red",
         "中糖果蘋果紅",
         226,
         6,
@@ -3665,7 +5161,7 @@
     ],
     [
         "mediumCarmine",
-        "Medium Carmine",
+        "Medium carmine",
         "中胭脂色",
         175,
         64,
@@ -3673,7 +5169,7 @@
     ],
     [
         "mediumChampagne",
-        "Medium Champagne",
+        "Medium champagne",
         "中香檳色",
         243,
         229,
@@ -3681,7 +5177,7 @@
     ],
     [
         "mediumElectricBlue",
-        "Medium Electric Blue",
+        "Medium electric blue",
         "中電子藍",
         3,
         80,
@@ -3689,7 +5185,7 @@
     ],
     [
         "mediumJungleGreen",
-        "Medium Jungle Green",
+        "Medium jungle green",
         "中叢林綠",
         28,
         53,
@@ -3697,7 +5193,7 @@
     ],
     [
         "mediumLavenderMagenta",
-        "Medium Lavender Magenta",
+        "Medium lavender magenta",
         "中薰衣草色",
         221,
         160,
@@ -3705,7 +5201,7 @@
     ],
     [
         "mediumOrchid",
-        "Medium Orchid",
+        "Medium orchid",
         "中蘭紫",
         186,
         85,
@@ -3713,7 +5209,7 @@
     ],
     [
         "mediumPersianBlue",
-        "Medium Persian Blue",
+        "Medium Persian blue",
         "中波斯藍",
         0,
         103,
@@ -3721,7 +5217,7 @@
     ],
     [
         "mediumPurple",
-        "Medium Purple",
+        "Medium purple",
         "中紫紅",
         147,
         112,
@@ -3729,7 +5225,7 @@
     ],
     [
         "mediumRedViolet",
-        "Medium Red Violet",
+        "Medium red violet",
         "中紅紫羅蘭",
         187,
         51,
@@ -3737,7 +5233,7 @@
     ],
     [
         "mediumSeaGreen",
-        "Medium Sea Green",
+        "Medium sea green",
         "中海綠",
         60,
         179,
@@ -3745,7 +5241,7 @@
     ],
     [
         "mediumSlateBlue",
-        "Medium Slate Blue",
+        "Medium slate blue",
         "中岩藍",
         123,
         104,
@@ -3753,7 +5249,7 @@
     ],
     [
         "mediumSpringBud",
-        "Medium Spring Bud",
+        "Medium spring bud",
         "中春芽色",
         201,
         220,
@@ -3761,7 +5257,7 @@
     ],
     [
         "mediumSpringGreen",
-        "Medium Spring Green",
+        "Medium spring green",
         "中春綠色",
         0,
         250,
@@ -3769,7 +5265,7 @@
     ],
     [
         "mediumTaupe",
-        "Medium Taupe",
+        "Medium taupe",
         "中灰褐色",
         103,
         76,
@@ -3777,7 +5273,7 @@
     ],
     [
         "mediumTealBlue",
-        "Medium Teal Blue",
+        "Medium teal blue",
         "中藍綠色",
         0,
         84,
@@ -3785,7 +5281,7 @@
     ],
     [
         "mediumTurquoise",
-        "Medium Turquoise",
+        "Medium turquoise",
         "中綠松石色",
         72,
         209,
@@ -3793,7 +5289,7 @@
     ],
     [
         "mediumVioletRed",
-        "Medium Violet Red",
+        "Medium violet red",
         "中青紫紅",
         199,
         21,
@@ -3809,7 +5305,7 @@
     ],
     [
         "midnightBlue",
-        "Midnight Blue",
+        "Midnight blue",
         "午夜藍",
         25,
         25,
@@ -3817,7 +5313,7 @@
     ],
     [
         "midnightGreen",
-        "Midnight Green",
+        "Midnight green",
         "午夜綠",
         0,
         73,
@@ -3825,14 +5321,14 @@
     ],
     [
         "mikadoYellow",
-        "Mikado Yellow",
+        "Mikado yellow",
         "帝黃色",
         255,
         196,
         12
     ],
     [
-        "mimosa",
+        "mimosa0",
         "Mimosa",
         "含羞草黃",
         230,
@@ -3840,8 +5336,24 @@
         12
     ],
     [
+        "mimosa1",
+        "Mimosa",
+        "含羞草黃",
+        230,
+        217,
+        51
+    ],
+    [
+        "mimosa2",
+        "Mimosa",
+        "含羞草黃",
+        240,
+        192,
+        90
+    ],
+    [
         "mineralBlue",
-        "Mineral Blue",
+        "Mineral blue",
         "礦藍色",
         0,
         77,
@@ -3849,23 +5361,31 @@
     ],
     [
         "mineralViolet",
-        "Mineral Violet",
+        "Mineral violet",
         "礦紫色",
         163,
         157,
         174
     ],
     [
-        "mint",
+        "mint0",
         "Mint",
-        "薄荷色",
+        "薄荷綠，薄荷色",
         62,
         180,
         137
     ],
     [
+        "mint1",
+        "Mint",
+        "薄荷綠，薄荷色",
+        22,
+        152,
+        43
+    ],
+    [
         "mintCream",
-        "Mint Cream",
+        "Mint cream",
         "薄荷奶油色",
         245,
         255,
@@ -3873,7 +5393,7 @@
     ],
     [
         "mintGreen",
-        "Mint Green",
+        "Mint green",
         "薄荷綠",
         152,
         255,
@@ -3881,31 +5401,47 @@
     ],
     [
         "mistyRose",
-        "Misty Rose",
+        "Misty rose",
         "霧玫瑰色",
         255,
         228,
         225
     ],
     [
+        "mizu",
+        "Mizu",
+        "水色",
+        134,
+        171,
+        165
+    ],
+    [
         "moccasin",
         "Moccasin",
         "鹿皮鞋色",
-        250,
-        235,
-        215
+        255,
+        228,
+        181
     ],
     [
         "modeBeige",
-        "Mode Beige",
+        "Mode beige",
         "時尚米色",
         150,
         113,
         23
     ],
     [
+        "momoshiocha",
+        "Momoshiocha",
+        "百鹽茶色",
+        84,
+        45,
+        36
+    ],
+    [
         "moonYellow",
-        "Moon Yellow",
+        "Moon yellow",
         "月黃色",
         255,
         255,
@@ -3913,7 +5449,7 @@
     ],
     [
         "moonstoneBlue",
-        "Moonstone Blue",
+        "Moonstone blue",
         "月長石藍",
         115,
         169,
@@ -3921,19 +5457,19 @@
     ],
     [
         "mordantRed19",
-        "Mordant Red 19",
-        "酸性媒介紅 19",
+        "Mordant red 19",
+        "酸性媒介紅19",
         174,
         12,
         0
     ],
     [
         "mossGreen",
-        "Moss Green",
+        "Moss green",
         "苔蘚綠",
-        173,
-        223,
-        173
+        105,
+        119,
+        35
     ],
     [
         "mountainMeadow",
@@ -3970,18 +5506,26 @@
     [
         "munsell",
         "Munsell",
-        "孟塞爾白色",
+        "白色（孟塞爾）",
         242,
         243,
         244
     ],
     [
-        "mustard",
+        "mustard0",
         "Mustard",
         "芥末黃",
         255,
         219,
         88
+    ],
+    [
+        "mustard1",
+        "Mustard",
+        "芥末黃",
+        204,
+        204,
+        77
     ],
     [
         "myrtle",
@@ -3993,7 +5537,7 @@
     ],
     [
         "nadeshikoPink",
-        "Nadeshiko Pink",
+        "Nadeshiko pink",
         "撫子粉紅",
         246,
         173,
@@ -4001,7 +5545,7 @@
     ],
     [
         "napierGreen",
-        "Napier Green",
+        "Napier green",
         "納皮爾綠",
         42,
         128,
@@ -4009,7 +5553,7 @@
     ],
     [
         "naplesYellow",
-        "Naples Yellow",
+        "Naples yellow",
         "那不勒斯黃，銻黃",
         250,
         218,
@@ -4017,7 +5561,7 @@
     ],
     [
         "navajoWhite",
-        "Navajo White",
+        "Navajo white",
         "那瓦霍白",
         255,
         222,
@@ -4025,15 +5569,23 @@
     ],
     [
         "navyBlue",
-        "Navy Blue",
+        "Navy blue",
         "海軍藍，藏青色",
         0,
         0,
         128
     ],
     [
+        "ndhuGreen",
+        "NDHU green",
+        "東華大學綠",
+        8,
+        138,
+        23
+    ],
+    [
         "neonCarrot",
-        "Neon Carrot",
+        "Neon carrot",
         "霓虹胡蘿蔔色",
         255,
         163,
@@ -4041,7 +5593,7 @@
     ],
     [
         "neonFuchsia",
-        "Neon Fuchsia",
+        "Neon fuchsia",
         "霓虹紫紅色",
         254,
         89,
@@ -4049,7 +5601,7 @@
     ],
     [
         "neonGreen",
-        "Neon Green",
+        "Neon green",
         "霓虹綠",
         57,
         255,
@@ -4057,7 +5609,7 @@
     ],
     [
         "nonPhotoBlue",
-        "Non-photo Blue",
+        "Non-photo blue",
         "非照片藍",
         164,
         221,
@@ -4089,15 +5641,15 @@
     ],
     [
         "officeGreen",
-        "Office Green",
-        "中綠色",
+        "Office green",
+        "綠色",
         0,
         128,
         0
     ],
     [
         "oldGold",
-        "Old Gold",
+        "Old gold",
         "古金色",
         207,
         181,
@@ -4105,7 +5657,7 @@
     ],
     [
         "oldLace",
-        "Old Lace",
+        "Old lace",
         "舊蕾絲色",
         253,
         245,
@@ -4113,7 +5665,7 @@
     ],
     [
         "oldLavender",
-        "Old Lavender",
+        "Old lavender",
         "舊薰衣草色",
         121,
         104,
@@ -4121,7 +5673,7 @@
     ],
     [
         "oldMauve",
-        "Old Mauve",
+        "Old mauve",
         "舊淡紫色",
         103,
         49,
@@ -4129,7 +5681,7 @@
     ],
     [
         "oldRose",
-        "Old Rose",
+        "Old rose",
         "陳玫紅",
         192,
         128,
@@ -4145,7 +5697,7 @@
     ],
     [
         "oliveDrab",
-        "Olive Drab",
+        "Olive drab",
         "橄欖軍服綠",
         107,
         142,
@@ -4153,7 +5705,7 @@
     ],
     [
         "oliveGreen",
-        "Olive Green",
+        "Olive green",
         "橄欖綠",
         186,
         184,
@@ -4177,7 +5729,7 @@
     ],
     [
         "operaMauve",
-        "Opera Mauve",
+        "Opera mauve",
         "優品紫紅",
         183,
         132,
@@ -4193,7 +5745,7 @@
     ],
     [
         "orangePeel",
-        "Orange Peel",
+        "Orange peel",
         "橙皮色",
         255,
         159,
@@ -4201,7 +5753,7 @@
     ],
     [
         "orangeRed",
-        "Orange Red",
+        "Orange red",
         "橙紅色",
         255,
         69,
@@ -4209,7 +5761,7 @@
     ],
     [
         "orangeYellow",
-        "Orange Yellow",
+        "Orange yellow",
         "橙黃色",
         248,
         213,
@@ -4225,7 +5777,7 @@
     ],
     [
         "otterBrown",
-        "Otter Brown",
+        "Otter brown",
         "水獺棕",
         101,
         67,
@@ -4241,7 +5793,7 @@
     ],
     [
         "outrageousOrange",
-        "Outrageous Orange",
+        "Outrageous orange",
         "酸橙色",
         255,
         110,
@@ -4257,7 +5809,7 @@
     ],
     [
         "pacificBlue",
-        "Pacific Blue",
+        "Pacific blue",
         "太平洋藍",
         28,
         169,
@@ -4265,7 +5817,7 @@
     ],
     [
         "pakistanGreen",
-        "Pakistan Green",
+        "Pakistan green",
         "巴基斯坦綠",
         0,
         102,
@@ -4273,7 +5825,7 @@
     ],
     [
         "palatinateBlue",
-        "Palatinate Blue",
+        "Palatinate blue",
         "巴拉丁藍",
         39,
         59,
@@ -4281,7 +5833,7 @@
     ],
     [
         "palatinatePurple",
-        "Palatinate Purple",
+        "Palatinate purple",
         "巴拉丁紫",
         104,
         40,
@@ -4289,23 +5841,31 @@
     ],
     [
         "paleAqua",
-        "Pale Aqua",
+        "Pale aqua",
         "淡水色",
-        188,
-        212,
-        230
+        190,
+        211,
+        229
     ],
     [
-        "paleBlue",
-        "Pale Blue",
+        "paleBlue0",
+        "Pale blue",
         "灰藍色",
         175,
         238,
         238
     ],
     [
+        "paleBlue1",
+        "Pale blue",
+        "灰藍色",
+        209,
+        237,
+        242
+    ],
+    [
         "paleBrown",
-        "Pale Brown",
+        "Pale brown",
         "灰棕色",
         152,
         118,
@@ -4313,7 +5873,7 @@
     ],
     [
         "paleCarmine",
-        "Pale Carmine",
+        "Pale carmine",
         "淡胭脂色",
         175,
         64,
@@ -4321,7 +5881,7 @@
     ],
     [
         "paleCerulean",
-        "Pale Cerulean",
+        "Pale cerulean",
         "淡蔚藍",
         155,
         196,
@@ -4329,7 +5889,7 @@
     ],
     [
         "paleChestnut",
-        "Pale Chestnut",
+        "Pale chestnut",
         "淡栗色",
         221,
         173,
@@ -4337,7 +5897,7 @@
     ],
     [
         "paleCopper",
-        "Pale Copper",
+        "Pale copper",
         "淡銅色",
         218,
         138,
@@ -4345,7 +5905,7 @@
     ],
     [
         "paleCornflowerBlue",
-        "Pale Cornflower Blue",
+        "Pale cornflower blue",
         "淡矢車菊藍",
         171,
         205,
@@ -4353,7 +5913,7 @@
     ],
     [
         "paleDenim",
-        "Pale Denim",
+        "Pale denim",
         "白牛仔布色，淡丹寧色",
         94,
         134,
@@ -4361,7 +5921,7 @@
     ],
     [
         "paleGold",
-        "Pale Gold",
+        "Pale gold",
         "淡金色",
         230,
         190,
@@ -4369,15 +5929,15 @@
     ],
     [
         "paleGoldenrod",
-        "Pale Goldenrod",
-        "淡金菊色",
+        "Pale goldenrod",
+        "淡金菊色，灰金菊色",
         238,
         232,
         170
     ],
     [
         "paleGreen",
-        "Pale Green",
+        "Pale green",
         "灰綠色",
         152,
         251,
@@ -4385,7 +5945,7 @@
     ],
     [
         "paleLavender",
-        "Pale Lavender",
+        "Pale lavender",
         "淡薰衣草色",
         220,
         208,
@@ -4393,7 +5953,7 @@
     ],
     [
         "paleLilac",
-        "Pale Lilac",
+        "Pale lilac",
         "淡紫丁香色",
         230,
         207,
@@ -4401,23 +5961,39 @@
     ],
     [
         "paleMagenta",
-        "Pale Magenta",
+        "Pale magenta",
         "淡洋紅",
         249,
         132,
         229
     ],
     [
-        "paleOcre",
-        "Pale Ocre",
+        "paleMossGreen",
+        "Pale moss green",
+        "淺苔蘚綠",
+        173,
+        223,
+        173
+    ],
+    [
+        "paleOcre0",
+        "Pale ocre",
         "灰土色",
         216,
         183,
         147
     ],
     [
+        "paleOcre1",
+        "Pale ocre",
+        "灰土色",
+        204,
+        179,
+        140
+    ],
+    [
         "palePink",
-        "Pale Pink",
+        "Pale pink",
         "淡粉紅",
         250,
         218,
@@ -4425,7 +6001,7 @@
     ],
     [
         "palePlum",
-        "Pale Plum",
+        "Pale plum",
         "淡梅紅",
         221,
         160,
@@ -4433,7 +6009,7 @@
     ],
     [
         "paleRedViolet",
-        "Pale Red Violet",
+        "Pale red violet",
         "淡紅紫羅蘭",
         219,
         112,
@@ -4441,7 +6017,7 @@
     ],
     [
         "paleRobinEggBlue",
-        "Pale Robin Egg Blue",
+        "Pale robin egg blue",
         "淡知更鳥蛋藍",
         150,
         222,
@@ -4449,7 +6025,7 @@
     ],
     [
         "paleSilver",
-        "Pale Silver",
+        "Pale silver",
         "淡銀色",
         201,
         192,
@@ -4457,7 +6033,7 @@
     ],
     [
         "paleSpringBud",
-        "Pale Spring Bud",
+        "Pale spring bud",
         "淡春芽色",
         236,
         235,
@@ -4465,7 +6041,7 @@
     ],
     [
         "paleTaupe",
-        "Pale Taupe",
+        "Pale taupe",
         "淡灰褐色",
         188,
         152,
@@ -4473,7 +6049,7 @@
     ],
     [
         "paleTurquoise",
-        "Pale Turquoise",
+        "Pale turquoise",
         "灰綠松石色",
         175,
         238,
@@ -4481,7 +6057,7 @@
     ],
     [
         "paleVioletRed",
-        "Pale Violet Red",
+        "Pale violet red",
         "灰紫紅",
         219,
         112,
@@ -4497,7 +6073,7 @@
     ],
     [
         "pansyPurple",
-        "Pansy Purple",
+        "Pansy purple",
         "三色堇紫",
         120,
         24,
@@ -4505,15 +6081,15 @@
     ],
     [
         "papayaWhip",
-        "Papaya Whip",
-        "番木瓜色",
+        "Papaya whip",
+        "木瓜色",
         255,
         239,
         213
     ],
     [
         "parisGreen",
-        "Paris Green",
+        "Paris green",
         "巴黎綠",
         80,
         200,
@@ -4521,7 +6097,7 @@
     ],
     [
         "pastelBlue",
-        "Pastel Blue",
+        "Pastel blue",
         "粉彩藍",
         174,
         198,
@@ -4529,7 +6105,7 @@
     ],
     [
         "pastelBrown",
-        "Pastel Brown",
+        "Pastel brown",
         "粉彩棕",
         131,
         105,
@@ -4537,7 +6113,7 @@
     ],
     [
         "pastelGray",
-        "Pastel Gray",
+        "Pastel gray",
         "粉彩灰",
         207,
         207,
@@ -4545,7 +6121,7 @@
     ],
     [
         "pastelGreen",
-        "Pastel Green",
+        "Pastel green",
         "粉彩綠",
         119,
         221,
@@ -4553,7 +6129,7 @@
     ],
     [
         "pastelMagenta",
-        "Pastel Magenta",
+        "Pastel magenta",
         "粉彩洋紅",
         244,
         154,
@@ -4561,7 +6137,7 @@
     ],
     [
         "pastelOrange",
-        "Pastel Orange",
+        "Pastel orange",
         "粉彩橙",
         255,
         179,
@@ -4569,7 +6145,7 @@
     ],
     [
         "pastelPink",
-        "Pastel Pink",
+        "Pastel pink",
         "粉彩粉紅",
         255,
         209,
@@ -4577,7 +6153,7 @@
     ],
     [
         "pastelPurple",
-        "Pastel Purple",
+        "Pastel purple",
         "粉彩紫",
         179,
         158,
@@ -4585,7 +6161,7 @@
     ],
     [
         "pastelRed",
-        "Pastel Red",
+        "Pastel red",
         "粉彩紅",
         255,
         105,
@@ -4593,7 +6169,7 @@
     ],
     [
         "pastelViolet",
-        "Pastel Violet",
+        "Pastel violet",
         "粉彩紫羅蘭色",
         203,
         153,
@@ -4601,7 +6177,7 @@
     ],
     [
         "pastelYellow",
-        "Pastel Yellow",
+        "Pastel yellow",
         "粉彩黃",
         253,
         253,
@@ -4617,7 +6193,7 @@
     ],
     [
         "payneGrey",
-        "Payne Grey",
+        "Payne grey",
         "佩恩灰",
         83,
         104,
@@ -4633,7 +6209,7 @@
     ],
     [
         "peachPearl",
-        "Peach Pearl",
+        "Peach pearl",
         "珍珠桃色",
         251,
         190,
@@ -4641,7 +6217,7 @@
     ],
     [
         "peachPuff",
-        "Peach Puff",
+        "Peach puff",
         "粉撲桃色",
         255,
         218,
@@ -4649,7 +6225,7 @@
     ],
     [
         "peachYellow",
-        "Peach Yellow",
+        "Peach yellow",
         "桃黃色",
         250,
         223,
@@ -4657,7 +6233,7 @@
     ],
     [
         "peacockBlue",
-        "Peacock Blue",
+        "Peacock blue",
         "孔雀藍",
         0,
         128,
@@ -4665,7 +6241,7 @@
     ],
     [
         "peacockGreen",
-        "Peacock Green",
+        "Peacock green",
         "孔雀綠",
         0,
         161,
@@ -4689,7 +6265,7 @@
     ],
     [
         "pearlAqua",
-        "Pearl Aqua",
+        "Pearl aqua",
         "珍珠水藍色",
         136,
         216,
@@ -4697,7 +6273,7 @@
     ],
     [
         "pearlPink",
-        "Pearl Pink",
+        "Pearl pink",
         "淺珍珠紅",
         255,
         179,
@@ -4712,7 +6288,7 @@
         0
     ],
     [
-        "periwinkle",
+        "periwinkle0",
         "Periwinkle",
         "長春花色",
         204,
@@ -4720,8 +6296,16 @@
         255
     ],
     [
+        "periwinkle1",
+        "Periwinkle",
+        "長春花色",
+        195,
+        205,
+        230
+    ],
+    [
         "persianBlue",
-        "Persian Blue",
+        "Persian blue",
         "波斯藍",
         28,
         57,
@@ -4729,7 +6313,7 @@
     ],
     [
         "persianIndigo",
-        "Persian Indigo",
+        "Persian indigo",
         "波斯靛",
         50,
         18,
@@ -4737,7 +6321,7 @@
     ],
     [
         "persianOrange",
-        "Persian Orange",
+        "Persian orange",
         "波斯橙",
         217,
         144,
@@ -4745,7 +6329,7 @@
     ],
     [
         "persianPink",
-        "Persian Pink",
+        "Persian pink",
         "波斯粉紅",
         247,
         127,
@@ -4753,7 +6337,7 @@
     ],
     [
         "persianPlum",
-        "Persian Plum",
+        "Persian plum",
         "波斯梅紅",
         112,
         28,
@@ -4761,7 +6345,7 @@
     ],
     [
         "persianRed",
-        "Persian Red",
+        "Persian red",
         "波斯紅",
         204,
         51,
@@ -4769,7 +6353,7 @@
     ],
     [
         "persianRose",
-        "Persian Rose",
+        "Persian rose",
         "波斯玫瑰色",
         254,
         40,
@@ -4792,6 +6376,14 @@
         63
     ],
     [
+        "phellodendronAmurense",
+        "Phellodendron amurense",
+        "關黃柏木色",
+        243,
+        193,
+        58
+    ],
+    [
         "phlox",
         "Phlox",
         "福祿考色",
@@ -4801,7 +6393,7 @@
     ],
     [
         "phthaloBlue",
-        "Phthalo Blue",
+        "Phthalo blue",
         "酞菁藍",
         0,
         15,
@@ -4809,7 +6401,7 @@
     ],
     [
         "phthaloGreen",
-        "Phthalo Green",
+        "Phthalo green",
         "酞菁綠",
         18,
         53,
@@ -4817,7 +6409,7 @@
     ],
     [
         "piggyPink",
-        "Piggy Pink",
+        "Piggy pink",
         "小豬粉紅",
         253,
         221,
@@ -4825,7 +6417,7 @@
     ],
     [
         "pineGreen",
-        "Pine Green",
+        "Pine green",
         "松綠色",
         1,
         121,
@@ -4841,7 +6433,7 @@
     ],
     [
         "pinkFlamingo",
-        "Pink Flamingo",
+        "Pink flamingo",
         "粉紅火鶴色",
         252,
         116,
@@ -4849,7 +6441,7 @@
     ],
     [
         "pinkPearl",
-        "Pink Pearl",
+        "Pink pearl",
         "粉紅珍珠色",
         231,
         172,
@@ -4857,7 +6449,7 @@
     ],
     [
         "pinkSherbet",
-        "Pink Sherbet",
+        "Pink sherbet",
         "粉紅雪寶",
         247,
         143,
@@ -4880,7 +6472,7 @@
         226
     ],
     [
-        "plum",
+        "plum0",
         "Plum",
         "梅紅色",
         221,
@@ -4888,8 +6480,16 @@
         221
     ],
     [
+        "plum1",
+        "Plum",
+        "梅紅色",
+        142,
+        69,
+        133
+    ],
+    [
         "portlandOrange",
-        "Portland Orange",
+        "Portland orange",
         "波特蘭橙",
         255,
         90,
@@ -4897,7 +6497,7 @@
     ],
     [
         "powderBlue",
-        "Powder Blue",
+        "Powder blue",
         "粉藍色",
         176,
         224,
@@ -4905,7 +6505,7 @@
     ],
     [
         "princetonOrange",
-        "Princeton Orange",
+        "Princeton orange",
         "普林斯頓橙",
         255,
         143,
@@ -4913,7 +6513,7 @@
     ],
     [
         "prussianBlue",
-        "Prussian Blue",
+        "Prussian blue",
         "普魯士藍",
         0,
         49,
@@ -4921,7 +6521,7 @@
     ],
     [
         "psychedelicPurple",
-        "Psychedelic Purple",
+        "Psychedelic purple",
         "迷幻紫",
         223,
         0,
@@ -4944,12 +6544,20 @@
         24
     ],
     [
-        "purple",
+        "purple0",
         "Purple",
         "紫色",
         128,
         0,
         128
+    ],
+    [
+        "purple1",
+        "Purple",
+        "紫色",
+        106,
+        13,
+        173
     ],
     [
         "purpleHeart",
@@ -4961,7 +6569,7 @@
     ],
     [
         "purpleMountainMajesty",
-        "Purple Mountain Majesty",
+        "Purple mountain majesty",
         "神聖山嶺紫",
         150,
         120,
@@ -4969,7 +6577,7 @@
     ],
     [
         "purpleMountainsMajesty",
-        "Purple Mountains Majesty",
+        "Purple mountains majesty",
         "神聖山嶺紫",
         157,
         129,
@@ -4977,7 +6585,7 @@
     ],
     [
         "purplePizzazz",
-        "Purple Pizzazz",
+        "Purple pizzazz",
         "瀟灑紫",
         254,
         78,
@@ -4985,11 +6593,19 @@
     ],
     [
         "purpleTaupe",
-        "Purple Taupe",
+        "Purple taupe",
         "紫灰褐色",
         80,
         64,
         77
+    ],
+    [
+        "purpleX11",
+        "Purple (X11)",
+        "紫色（X11）",
+        160,
+        32,
+        240
     ],
     [
         "rackley",
@@ -5001,7 +6617,7 @@
     ],
     [
         "radicalRed",
-        "Radical Red",
+        "Radical red",
         "激進紅",
         255,
         53,
@@ -5010,14 +6626,14 @@
     [
         "raspberry",
         "Raspberry",
-        "覆盆子色",
+        "樹莓色，覆盆子色",
         227,
         11,
         93
     ],
     [
         "raspberryGlace",
-        "Raspberry Glace",
+        "Raspberry glacé",
         "淡紫紅色",
         145,
         95,
@@ -5025,23 +6641,23 @@
     ],
     [
         "raspberryPink",
-        "Raspberry Pink",
-        "覆盆子粉紅",
+        "Raspberry pink",
+        "樹莓粉紅，覆盆子粉紅",
         226,
         80,
         152
     ],
     [
         "raspberryRose",
-        "Raspberry Rose",
-        "覆盆子玫瑰紅",
+        "Raspberry rose",
+        "樹莓玫瑰紅，覆盆子玫瑰紅",
         179,
         68,
         108
     ],
     [
         "rawSienna",
-        "Raw Sienna",
+        "Raw sienna",
         "黃赭色",
         214,
         138,
@@ -5049,7 +6665,7 @@
     ],
     [
         "razzleDazzleRose",
-        "Razzle Dazzle Rose",
+        "Razzle dazzle rose",
         "狂亂玫瑰色",
         255,
         51,
@@ -5073,7 +6689,7 @@
     ],
     [
         "redBrown",
-        "Red Brown",
+        "Red brown",
         "紅棕色",
         165,
         42,
@@ -5081,15 +6697,23 @@
     ],
     [
         "redOrange",
-        "Red Orange",
+        "Red orange",
         "紅橙色",
         255,
         83,
         73
     ],
     [
+        "redPurple",
+        "Red-purple",
+        "紅紫色",
+        228,
+        0,
+        120
+    ],
+    [
         "redViolet",
-        "Red Violet",
+        "Red violet",
         "紅紫羅蘭色",
         199,
         21,
@@ -5097,7 +6721,7 @@
     ],
     [
         "richBlack",
-        "Rich Black",
+        "Rich black",
         "濃黑色",
         0,
         64,
@@ -5105,7 +6729,7 @@
     ],
     [
         "richCarmine",
-        "Rich Carmine",
+        "Rich carmine",
         "濃胭脂色",
         215,
         0,
@@ -5113,7 +6737,7 @@
     ],
     [
         "richElectricBlue",
-        "Rich Electric Blue",
+        "Rich electric blue",
         "濃電子藍",
         8,
         146,
@@ -5121,7 +6745,7 @@
     ],
     [
         "richLilac",
-        "Rich Lilac",
+        "Rich lilac",
         "濃紫丁香",
         182,
         102,
@@ -5129,7 +6753,7 @@
     ],
     [
         "richMaroon",
-        "Rich Maroon",
+        "Rich maroon",
         "濃栗色",
         176,
         48,
@@ -5137,15 +6761,23 @@
     ],
     [
         "rifleGreen",
-        "Rifle Green",
+        "Rifle green",
         "暗綠色",
         65,
         72,
         51
     ],
     [
+        "robinEggBlue",
+        "Robin egg blue",
+        "知更鳥蛋藍",
+        0,
+        204,
+        204
+    ],
+    [
         "robinsEggBlue",
-        "Robins Egg Blue",
+        "Robins egg blue",
         "知更鳥蛋藍",
         31,
         206,
@@ -5161,7 +6793,7 @@
     ],
     [
         "roseBonbon",
-        "Rose Bonbon",
+        "Rose bonbon",
         "玫瑰蹦蹦",
         249,
         66,
@@ -5169,15 +6801,15 @@
     ],
     [
         "roseEbony",
-        "Rose Ebony",
+        "Rose ebony",
         "黑檀木玫瑰",
         103,
-        72,
-        70
+        76,
+        71
     ],
     [
         "roseGold",
-        "Rose Gold",
+        "Rose gold",
         "玫瑰金",
         183,
         110,
@@ -5185,7 +6817,7 @@
     ],
     [
         "roseMadder",
-        "Rose Madder",
+        "Rose madder",
         "玫瑰茜",
         227,
         38,
@@ -5193,7 +6825,7 @@
     ],
     [
         "rosePink",
-        "Rose Pink",
+        "Rose pink",
         "淺玫瑰紅",
         255,
         102,
@@ -5201,7 +6833,7 @@
     ],
     [
         "roseQuartz",
-        "Rose Quartz",
+        "Rose quartz",
         "玫瑰水晶色",
         170,
         152,
@@ -5209,7 +6841,7 @@
     ],
     [
         "roseTaupe",
-        "Rose Taupe",
+        "Rose taupe",
         "玫瑰灰褐色",
         144,
         93,
@@ -5217,7 +6849,7 @@
     ],
     [
         "roseVale",
-        "Rose Vale",
+        "Rose vale",
         "玫瑰谷",
         171,
         78,
@@ -5233,15 +6865,15 @@
     ],
     [
         "rossoCorsa",
-        "Rosso Corsa",
-        "Rosso Corsa 紅色",
+        "Rosso corsa",
+        "賽車紅",
         212,
         0,
         0
     ],
     [
         "rosyBrown",
-        "Rosy Brown",
+        "Rosy brown",
         "玫瑰褐",
         188,
         143,
@@ -5249,7 +6881,7 @@
     ],
     [
         "royalAzure",
-        "Royal Azure",
+        "Royal azure",
         "皇室天藍色",
         0,
         56,
@@ -5257,7 +6889,7 @@
     ],
     [
         "royalBlue",
-        "Royal Blue",
+        "Royal blue",
         "皇室藍，品藍色",
         65,
         105,
@@ -5265,7 +6897,7 @@
     ],
     [
         "royalFuchsia",
-        "Royal Fuchsia",
+        "Royal fuchsia",
         "皇室品紅色",
         202,
         44,
@@ -5273,19 +6905,27 @@
     ],
     [
         "royalPurple",
-        "Royal Purple",
+        "Royal purple",
         "皇室紫色",
         120,
         81,
         169
     ],
     [
-        "ruby",
+        "ruby0",
         "Ruby",
         "紅寶石色",
         224,
         17,
         95
+    ],
+    [
+        "ruby1",
+        "Ruby",
+        "紅寶石色",
+        204,
+        0,
+        128
     ],
     [
         "ruddy",
@@ -5297,7 +6937,7 @@
     ],
     [
         "ruddyBrown",
-        "Ruddy Brown",
+        "Ruddy brown",
         "潤紅褐色",
         187,
         101,
@@ -5305,7 +6945,7 @@
     ],
     [
         "ruddyPink",
-        "Ruddy Pink",
+        "Ruddy pink",
         "潤粉紅色",
         225,
         142,
@@ -5336,16 +6976,40 @@
         14
     ],
     [
-        "sacramentoStateGreen",
-        "Sacramento State Green",
+        "sacStateGold",
+        "Sac State Gold",
+        "沙加緬度金",
+        196,
+        181,
+        129
+    ],
+    [
+        "sacStateGreen",
+        "Sac State Green",
         "沙加緬度綠",
         0,
-        86,
-        63
+        78,
+        56
+    ],
+    [
+        "sacramentoStateGold",
+        "Sacramento State gold",
+        "沙加緬度金",
+        196,
+        181,
+        129
+    ],
+    [
+        "sacramentoStateGreen",
+        "Sacramento State green",
+        "沙加緬度綠",
+        0,
+        78,
+        56
     ],
     [
         "saddleBrown",
-        "Saddle Brown",
+        "Saddle brown",
         "鞍褐色",
         139,
         69,
@@ -5353,7 +7017,7 @@
     ],
     [
         "safetyOrange",
-        "Safety Orange",
+        "Safety orange",
         "安全橙",
         255,
         103,
@@ -5376,7 +7040,15 @@
         122
     ],
     [
-        "salmon",
+        "salmon0",
+        "Salmon",
+        "鮭紅色",
+        250,
+        128,
+        114
+    ],
+    [
+        "salmon1",
         "Salmon",
         "鮭紅色",
         255,
@@ -5384,16 +7056,24 @@
         105
     ],
     [
-        "salmonPink",
-        "Salmon Pink",
+        "salmonPink0",
+        "Salmon pink",
         "淺鮭紅",
         255,
         145,
         164
     ],
     [
+        "salmonPink1",
+        "Salmon pink",
+        "淺鮭紅",
+        255,
+        128,
+        153
+    ],
+    [
         "salviaBlue",
-        "Salvia Blue",
+        "Salvia blue",
         "鼠尾草藍",
         77,
         128,
@@ -5409,7 +7089,7 @@
     ],
     [
         "sandBeige",
-        "Sand Beige",
+        "Sand beige",
         "沙棕色",
         230,
         195,
@@ -5417,7 +7097,7 @@
     ],
     [
         "sandBrown",
-        "Sand Brown",
+        "Sand brown",
         "沙褐色",
         244,
         164,
@@ -5425,7 +7105,7 @@
     ],
     [
         "sandDune",
-        "Sand Dune",
+        "Sand dune",
         "沙丘色",
         150,
         113,
@@ -5441,7 +7121,7 @@
     ],
     [
         "sandyBrown",
-        "Sandy Brown",
+        "Sandy brown",
         "沙褐色",
         244,
         164,
@@ -5449,7 +7129,7 @@
     ],
     [
         "sandyTaupe",
-        "Sandy Taupe",
+        "Sandy taupe",
         "沙灰褐色",
         150,
         113,
@@ -5457,7 +7137,7 @@
     ],
     [
         "sapGreen",
-        "Sap Green",
+        "Sap green",
         "樹汁綠",
         80,
         125,
@@ -5481,7 +7161,7 @@
     ],
     [
         "satinSheenGold",
-        "Satin Sheen Gold",
+        "Satin sheen gold",
         "緞面光澤金",
         203,
         161,
@@ -5489,7 +7169,7 @@
     ],
     [
         "saxeBlue",
-        "Saxe Blue",
+        "Saxe blue",
         "薩克斯藍",
         71,
         152,
@@ -5505,7 +7185,7 @@
     ],
     [
         "schoolBusYellow",
-        "School Bus Yellow",
+        "School bus yellow",
         "校車黃",
         255,
         216,
@@ -5513,7 +7193,7 @@
     ],
     [
         "screaminGreen",
-        "Screamin Green",
+        "Screamin green",
         "尖叫綠",
         118,
         255,
@@ -5521,7 +7201,7 @@
     ],
     [
         "seaBlue",
-        "Sea Blue",
+        "Sea blue",
         "海藍色",
         0,
         105,
@@ -5529,7 +7209,7 @@
     ],
     [
         "seaGreen",
-        "Sea Green",
+        "Sea green",
         "海綠色",
         46,
         139,
@@ -5537,7 +7217,7 @@
     ],
     [
         "sealBrown",
-        "Seal Brown",
+        "Seal brown",
         "海豹褐",
         50,
         20,
@@ -5552,8 +7232,16 @@
         238
     ],
     [
+        "seiheki",
+        "Seiheki",
+        "青碧色",
+        58,
+        105,
+        96
+    ],
+    [
         "selectiveYellow",
-        "Selective Yellow",
+        "Selective yellow",
         "選擇性黃色",
         255,
         186,
@@ -5562,10 +7250,18 @@
     [
         "sepia",
         "Sepia",
-        "烏賊墨色",
+        "深褐色，烏賊墨色",
         112,
         66,
         20
+    ],
+    [
+        "sgbusGreen",
+        "SGBUS green",
+        "新加坡巴士綠",
+        85,
+        221,
+        51
     ],
     [
         "shadow",
@@ -5585,7 +7281,7 @@
     ],
     [
         "shamrockGreen",
-        "Shamrock Green",
+        "Shamrock green",
         "酢漿草綠",
         0,
         158,
@@ -5593,27 +7289,51 @@
     ],
     [
         "shellPink",
-        "Shell Pink",
+        "Shell pink",
         "殼黃紅",
         255,
         179,
         191
     ],
     [
+        "shikon",
+        "Shikon",
+        "紫紺色",
+        43,
+        32,
+        40
+    ],
+    [
+        "shinbashi",
+        "Shinbashi-iro",
+        "新橋色",
+        0,
+        108,
+        127
+    ],
+    [
         "shockingPink",
-        "Shocking Pink",
+        "Shocking pink",
         "鮮粉紅",
         252,
         15,
         192
     ],
     [
-        "sienna",
+        "sienna0",
         "Sienna",
         "赭黃色",
         136,
         45,
         23
+    ],
+    [
+        "sienna1",
+        "Sienna",
+        "赭黃色",
+        160,
+        82,
+        45
     ],
     [
         "silver",
@@ -5641,7 +7361,7 @@
     ],
     [
         "skyBlue",
-        "Sky Blue",
+        "Sky blue",
         "天藍色",
         135,
         206,
@@ -5649,7 +7369,7 @@
     ],
     [
         "skyMagenta",
-        "Sky Magenta",
+        "Sky magenta",
         "天洋紅",
         207,
         113,
@@ -5657,7 +7377,7 @@
     ],
     [
         "slateBlue",
-        "Slate Blue",
+        "Slate blue",
         "岩藍色",
         106,
         90,
@@ -5665,7 +7385,7 @@
     ],
     [
         "slateGray",
-        "Slate Gray",
+        "Slate gray",
         "岩灰色",
         112,
         128,
@@ -5673,7 +7393,7 @@
     ],
     [
         "slateGrey",
-        "Slate Grey",
+        "Slate grey",
         "岩灰色",
         112,
         128,
@@ -5689,7 +7409,7 @@
     ],
     [
         "smokeyTopaz",
-        "Smokey Topaz",
+        "Smokey topaz",
         "煙燻黃玉色",
         147,
         61,
@@ -5697,7 +7417,7 @@
     ],
     [
         "smokyBlack",
-        "Smoky Black",
+        "Smoky black",
         "煙燻黑",
         16,
         12,
@@ -5712,8 +7432,16 @@
         250
     ],
     [
+        "spanishGreen",
+        "Spanish green",
+        "西班牙綠",
+        0,
+        145,
+        80
+    ],
+    [
         "spinelRed",
-        "Spinel Red",
+        "Spinel red",
         "尖晶石紅",
         255,
         115,
@@ -5729,7 +7457,7 @@
     ],
     [
         "springBud",
-        "Spring Bud",
+        "Spring bud",
         "春芽色",
         167,
         252,
@@ -5737,7 +7465,7 @@
     ],
     [
         "springGreen",
-        "Spring Green",
+        "Spring green",
         "春綠色",
         0,
         255,
@@ -5745,7 +7473,7 @@
     ],
     [
         "steelBlue",
-        "Steel Blue",
+        "Steel blue",
         "鋼青色",
         70,
         130,
@@ -5753,7 +7481,7 @@
     ],
     [
         "stilDeGrainYellow",
-        "Stil De Grain Yellow",
+        "Stil de grain yellow",
         "斯蒂爾穀物黃",
         250,
         218,
@@ -5785,7 +7513,7 @@
     ],
     [
         "strongBlue",
-        "Strong Blue",
+        "Strong blue",
         "濃藍色",
         0,
         99,
@@ -5793,7 +7521,7 @@
     ],
     [
         "strongRed",
-        "Strong Red",
+        "Strong red",
         "鮮紅色",
         230,
         0,
@@ -5801,7 +7529,7 @@
     ],
     [
         "sunOrange",
-        "Sun Orange",
+        "Sun orange",
         "陽橙色",
         255,
         115,
@@ -5825,7 +7553,7 @@
     ],
     [
         "sunsetOrange",
-        "Sunset Orange",
+        "Sunset orange",
         "日落橙",
         253,
         94,
@@ -5857,11 +7585,19 @@
     ],
     [
         "tangerineYellow",
-        "Tangerine Yellow",
+        "Tangerine yellow",
         "橘黃色",
         255,
         204,
         0
+    ],
+    [
+        "tarHeelblue",
+        "Tar Heel blue",
+        "焦油腳隊藍，卡羅萊納藍",
+        153,
+        186,
+        221
     ],
     [
         "taupe",
@@ -5873,7 +7609,7 @@
     ],
     [
         "taupeGray",
-        "Taupe Gray",
+        "Taupe gray",
         "褐灰色",
         139,
         133,
@@ -5881,7 +7617,7 @@
     ],
     [
         "taupeGrey",
-        "Taupe Grey",
+        "Taupe grey",
         "褐灰色",
         139,
         133,
@@ -5897,7 +7633,7 @@
     ],
     [
         "teaGreen",
-        "Tea Green",
+        "Tea green",
         "茶綠色",
         208,
         240,
@@ -5905,7 +7641,7 @@
     ],
     [
         "teaRose",
-        "Tea Rose",
+        "Tea rose",
         "茶玫瑰",
         244,
         194,
@@ -5921,7 +7657,7 @@
     ],
     [
         "tealBlue",
-        "Teal Blue",
+        "Teal blue",
         "水鴨藍",
         54,
         117,
@@ -5929,7 +7665,7 @@
     ],
     [
         "tealGreen",
-        "Teal Green",
+        "Teal green",
         "水鴨綠",
         0,
         109,
@@ -5937,7 +7673,7 @@
     ],
     [
         "terraCotta",
-        "Terra Cotta",
+        "Terra cotta",
         "赤褐土色",
         226,
         114,
@@ -5953,7 +7689,7 @@
     ],
     [
         "thulianPink",
-        "Thulian Pink",
+        "Thulian pink",
         "莓果紅",
         222,
         111,
@@ -5968,7 +7704,15 @@
         172
     ],
     [
-        "tiffanyBlue",
+        "tiffanyBlue0",
+        "Tiffany Blue",
+        "蒂芙尼藍",
+        129,
+        216,
+        208
+    ],
+    [
+        "tiffanyBlue1",
         "Tiffany Blue",
         "蒂芙尼藍",
         10,
@@ -5977,7 +7721,7 @@
     ],
     [
         "tigerEye",
-        "Tiger Eye",
+        "Tiger eye",
         "虎眼石色",
         224,
         141,
@@ -5993,11 +7737,19 @@
     ],
     [
         "titaniumYellow",
-        "Titanium Yellow",
+        "Titanium yellow",
         "鈦黃色",
         238,
         230,
         0
+    ],
+    [
+        "tokigaracha",
+        "Tokigaracha",
+        "ときがら茶色",
+        230,
+        131,
+        100
     ],
     [
         "tomato",
@@ -6006,6 +7758,14 @@
         255,
         99,
         71
+    ],
+    [
+        "tonocha",
+        "Tonocha",
+        "礪茶色",
+        90,
+        100,
+        87
     ],
     [
         "toolbox",
@@ -6025,7 +7785,7 @@
     ],
     [
         "tractorRed",
-        "Tractor Red",
+        "Tractor red",
         "拖拉機紅",
         253,
         14,
@@ -6033,15 +7793,23 @@
     ],
     [
         "trolleyGrey",
-        "Trolley Grey",
+        "Trolley grey",
         "推車灰",
         128,
         128,
         128
     ],
     [
+        "tropicalIndigo",
+        "Tropical indigo",
+        "熱帶靛",
+        150,
+        131,
+        236
+    ],
+    [
         "tropicalOrange",
-        "Tropical Orange",
+        "Tropical orange",
         "熱帶橙",
         255,
         128,
@@ -6049,7 +7817,7 @@
     ],
     [
         "tropicalRainForest",
-        "Tropical Rain Forest",
+        "Tropical rain forest",
         "熱帶雨林",
         0,
         117,
@@ -6059,17 +7827,17 @@
         "trueBlue",
         "True Blue",
         "忠實藍",
-        0,
-        115,
-        207
+        45,
+        104,
+        196
     ],
     [
         "tuftsBlue",
         "Tufts Blue",
         "塔夫茨藍",
-        65,
-        125,
-        193
+        62,
+        142,
+        222
     ],
     [
         "tumbleweed",
@@ -6081,7 +7849,7 @@
     ],
     [
         "turkishRose",
-        "Turkish Rose",
+        "Turkish rose",
         "土耳其玫瑰",
         181,
         114,
@@ -6105,23 +7873,31 @@
     ],
     [
         "turquoiseBlue",
-        "Turquoise Blue",
+        "Turquoise blue",
         "土耳其藍",
         0,
         255,
         239
     ],
     [
-        "turquoiseGreen",
-        "Turquoise Green",
+        "turquoiseGreen0",
+        "Turquoise green",
         "綠松石綠",
         160,
         214,
         180
     ],
     [
+        "turquoiseGreen1",
+        "Turquoise green",
+        "綠松石綠",
+        77,
+        230,
+        128
+    ],
+    [
         "tuscanRed",
-        "Tuscan Red",
+        "Tuscan red",
         "托斯卡納紅",
         102,
         66,
@@ -6129,7 +7905,7 @@
     ],
     [
         "twilightLavender",
-        "Twilight Lavender",
+        "Twilight lavender",
         "暮光薰衣草色",
         138,
         73,
@@ -6137,7 +7913,7 @@
     ],
     [
         "tyrianPurple",
-        "Tyrian Purple",
+        "Tyrian purple",
         "骨螺紫",
         102,
         2,
@@ -6145,7 +7921,7 @@
     ],
     [
         "uaBlue",
-        "UA Blue",
+        "UA blue",
         "亞利桑那大學藍",
         0,
         51,
@@ -6153,7 +7929,7 @@
     ],
     [
         "uaRed",
-        "UA Red",
+        "UA red",
         "亞利桑那大學紅",
         217,
         0,
@@ -6171,21 +7947,21 @@
         "uclaBlue",
         "UCLA Blue",
         "加州大學洛杉磯分校藍",
-        83,
-        104,
-        149
+        39,
+        116,
+        174
     ],
     [
         "uclaGold",
         "UCLA Gold",
         "加州大學洛杉磯分校金",
         255,
-        179,
+        209,
         0
     ],
     [
         "ufoGreen",
-        "UFO Green",
+        "UFO green",
         "幽浮綠",
         60,
         208,
@@ -6193,7 +7969,7 @@
     ],
     [
         "ultraPink",
-        "Ultra Pink",
+        "Ultra pink",
         "超粉紅",
         255,
         111,
@@ -6209,7 +7985,7 @@
     ],
     [
         "ultramarineBlue",
-        "Ultramarine Blue",
+        "Ultramarine blue",
         "群青藍色",
         65,
         102,
@@ -6225,7 +8001,7 @@
     ],
     [
         "unitedNationsBlue",
-        "United Nations Blue",
+        "United Nations blue",
         "聯合國藍",
         91,
         146,
@@ -6241,7 +8017,7 @@
     ],
     [
         "unmellowYellow",
-        "Unmellow Yellow",
+        "Unmellow yellow",
         "淡黃色",
         255,
         255,
@@ -6249,8 +8025,8 @@
     ],
     [
         "upForestGreen",
-        "UP Forest Green",
-        "UP 森林綠",
+        "UP forest green",
+        "菲律賓大學森林綠",
         1,
         68,
         33
@@ -6258,14 +8034,14 @@
     [
         "upMaroon",
         "UP Maroon",
-        "UP 栗色",
+        "菲律賓大學栗",
         123,
         17,
         19
     ],
     [
         "upsdellRed",
-        "Upsdell Red",
+        "Upsdell red",
         "深中紅色",
         174,
         32,
@@ -6298,7 +8074,7 @@
     [
         "utahCrimson",
         "Utah Crimson",
-        "猶他緋紅",
+        "猶他大學緋紅",
         211,
         0,
         63
@@ -6313,7 +8089,7 @@
     ],
     [
         "vegasGold",
-        "Vegas Gold",
+        "Vegas gold",
         "拉斯維加斯金",
         197,
         179,
@@ -6321,7 +8097,7 @@
     ],
     [
         "venetianRed",
-        "Venetian Red",
+        "Venetian red",
         "威尼斯紅",
         200,
         8,
@@ -6345,8 +8121,8 @@
     ],
     [
         "vermilionTangerine",
-        "Vermilion Tangerine",
-        "橘紅色",
+        "Vermilion tangerine",
+        "橘紅色，朱橘紅",
         255,
         77,
         0
@@ -6360,15 +8136,23 @@
         240
     ],
     [
-        "veryLightMalachiteGreen",
-        "Very Light Malachite Green",
+        "veryLightMalachiteGreen0",
+        "Very light malachite green",
+        "孔雀石綠",
+        100,
+        233,
+        134
+    ],
+    [
+        "veryLightMalachiteGreen1",
+        "Very light malachite green",
         "孔雀石綠",
         115,
         230,
         140
     ],
     [
-        "violet0",
+        "violet",
         "Violet",
         "藍紫色，堇紫色，紫羅蘭色",
         127,
@@ -6377,7 +8161,7 @@
     ],
     [
         "violetBlue",
-        "Violet Blue",
+        "Violet blue",
         "紫光藍",
         50,
         74,
@@ -6385,14 +8169,14 @@
     ],
     [
         "violetRed",
-        "Violet Red",
+        "Violet red",
         "紫紅色",
         247,
         83,
         148
     ],
     [
-        "viridian",
+        "viridian0",
         "Viridian",
         "鉻綠色",
         64,
@@ -6400,8 +8184,16 @@
         109
     ],
     [
+        "viridian1",
+        "Viridian",
+        "鉻綠色",
+        18,
+        116,
+        54
+    ],
+    [
         "vividAuburn",
-        "Vivid Auburn",
+        "Vivid auburn",
         "鮮赤褐色",
         146,
         39,
@@ -6409,7 +8201,7 @@
     ],
     [
         "vividBurgundy",
-        "Vivid Burgundy",
+        "Vivid burgundy",
         "鮮勃艮第酒紅",
         159,
         29,
@@ -6417,7 +8209,7 @@
     ],
     [
         "vividCerise",
-        "Vivid Cerise",
+        "Vivid cerise",
         "鮮櫻桃色",
         218,
         29,
@@ -6425,7 +8217,7 @@
     ],
     [
         "vividTangerine",
-        "Vivid Tangerine",
+        "Vivid tangerine",
         "鮮橘色",
         255,
         160,
@@ -6433,7 +8225,7 @@
     ],
     [
         "vividViolet",
-        "Vivid Violet",
+        "Vivid violet",
         "鮮紫羅蘭色",
         159,
         0,
@@ -6441,7 +8233,7 @@
     ],
     [
         "warmBlack",
-        "Warm Black",
+        "Warm black",
         "暖黑色",
         0,
         66,
@@ -6451,17 +8243,25 @@
         "waterspout",
         "Waterspout",
         "水龍捲",
-        0,
-        255,
-        255
+        164,
+        244,
+        249
     ],
     [
-        "wedgwoodBlue",
-        "Wedgwood Blue",
+        "wedgwoodBlue0",
+        "Wedgwood blue",
         "韋奇伍德瓷藍",
         86,
         134,
         191
+    ],
+    [
+        "wedgwoodBlue1",
+        "Wedgwood blue",
+        "韋奇伍德瓷藍",
+        125,
+        182,
+        209
     ],
     [
         "wenge",
@@ -6489,7 +8289,7 @@
     ],
     [
         "whiteSmoke",
-        "White Smoke",
+        "White smoke",
         "白煙色",
         245,
         245,
@@ -6497,7 +8297,7 @@
     ],
     [
         "wildBlueYonder",
-        "Wild Blue Yonder",
+        "Wild blue yonder",
         "藍色荒原",
         162,
         173,
@@ -6505,7 +8305,7 @@
     ],
     [
         "wildStrawberry",
-        "Wild Strawberry",
+        "Wild strawberry",
         "野草莓色",
         255,
         67,
@@ -6513,7 +8313,7 @@
     ],
     [
         "wildWatermelon",
-        "Wild Watermelon",
+        "Wild watermelon",
         "野西瓜色",
         252,
         108,
@@ -6547,9 +8347,9 @@
         "yaleBlue",
         "Yale Blue",
         "耶魯藍",
-        15,
-        77,
-        146
+        0,
+        53,
+        107
     ],
     [
         "yellow",
@@ -6561,7 +8361,7 @@
     ],
     [
         "yellowGreen",
-        "Yellow Green",
+        "Yellow green",
         "黃綠色",
         154,
         205,
@@ -6569,7 +8369,7 @@
     ],
     [
         "yellowOrange",
-        "Yellow Orange",
+        "Yellow orange",
         "黃橙色",
         255,
         174,
@@ -6585,7 +8385,7 @@
     ],
     [
         "zinnwalditeBrown",
-        "Zinnwaldite Brown",
+        "Zinnwaldite brown",
         "鐵鋰雲母棕",
         44,
         22,

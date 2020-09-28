@@ -29,6 +29,8 @@ let vue = new Vue(
             { class: 'r sortable',   sortFlag: 0 },     // 3: R
             { class: 'g sortable',   sortFlag: 0 },     // 4: G
             { class: 'b sortable',   sortFlag: 0 },     // 5: B
+            { class: 'rgb sortable', sortFlag: 0 },     // 6: RGB 色碼
+            { class: 'hex sortable', sortFlag: 0 },     // 7: HEX 色碼
         ]
     },
     methods:
@@ -85,12 +87,35 @@ let vue = new Vue(
     {
         let me = this;
 
-        fetch(dataFile)
+        fetch(cacheBuster(dataFile))
         .then(response => response.json())
         .then(response =>
         {
             this.colorData = response;
-            this.originalColorData = $.extend(true, [], response);  // 深拷貝
+            this.colorData.forEach(color =>
+            {
+                color.push(this.rgbValue(color));    // 加入第 6 項：RGB 色碼
+                color.push(this.hexValue(color));    // 加入第 7 項：HEX 色碼
+            });
+            this.originalColorData = $.extend(true, [], this.colorData);  // 深拷貝
         });
     }
 });
+
+
+/*
+ *==================================================
+ * 輔助函數
+ *==================================================
+ */
+
+/**
+ * 為 URL 加上 cache buster
+ *
+ * @param  {string} url 要加上 cache buster 的 URL
+ * @return {string}     加上 cache buster 後的 URL
+ */
+function cacheBuster(url)
+{
+    return url + '?' + randStr(36, 22, true);
+}

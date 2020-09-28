@@ -1,0 +1,1758 @@
+Cadmium blue
+#0a1195
+Cadmium purple
+#b60c26
+Cadmium violet
+#7f3e98
+Calamansi
+#fcffa4
+Cameo pink
+#efbbcc
+Cape jasmine or gardenia (Kuchinashi)
+#ffb95a
+Caramel
+#ffd59a
+Caribbean blue
+#1ac1dd
+Carmine
+#960018
+Carolina blue
+#56a0d3
+Castleton green
+#00563f
+Catalina blue
+#062a78
+Catawba
+#703642
+Cattail color (the plant) (Kaba-iro)
+#b64925
+Cedar Chest
+#c95a49
+Ceil
+#92a1cf
+Celadon color (Seiji-iro)
+#819c8b
+Celadon green
+#2f847c
+Celtic blue
+#246bce
+Cerulean frost
+#6d9bc3
+Cetacean blue
+#001440
+Champagne
+#f7e7ce
+Champagne pink
+#f1ddcf
+Charleston green
+#232b2b
+Charm
+#d0748b
+Chartreuse (traditional)
+#dfff00
+Cheese
+#ffa600
+Cherry blossom color (Sakura-iro)
+#fcc9b9
+Cherry blossom mouse (Sakuranezumi)
+#ac8181
+Chestnut-leather brown (Kurikawacha)
+#60281e
+Chickadee
+#ffc34d
+China rose
+#a8516e
+Chinese black
+#141414
+Chinese blue
+#365194
+Chinese bronze
+#cd8032
+Chinese brown
+#ab381f
+Chinese gold
+#cc9900
+Chinese green
+#d0db61
+Chinese orange
+#f37042
+Chinese pink
+#de70a1
+Chinese purple
+#720b98
+Chinese red
+#aa381e
+Chinese red
+#cd071e
+Chinese silver
+#cccccc
+Chinese violet
+#856088
+Chinese white
+#e2e5de
+Chinese yellow
+#ffb200
+Chinese yellow tea-colored (Kigaracha)
+#b7702d
+Chlorophyll green
+#4aff00
+Chocolate (traditional)
+#7b3f00
+Chocolate brown
+#3f000f
+Chocolate cosmos
+#58111a
+Chocolate Kisses
+#3c1421
+Chrome aluminum
+#a8a9ad
+Cinnamon Satin
+#cd607e
+Citrine Brown
+#933709
+Citron
+#9fa91f
+Claret
+#7f1734
+Clove-brown (Chōjicha)
+#8f583c
+Clove-dyed (Chōjizome)
+#a96232
+Coarse wool color (Kachi-iro)
+#181b26
+Coconut
+#965a3e
+Coconut White
+#e9edf6
+Codium fragile seaweed color (Miru-iro)
+#524b2a
+Cola
+#3c3024
+Columbia Blue
+#c4d8e2
+Conditioner
+#ffffcc
+Contemplation in a tea garden (Rokōcha)
+#665343
+Cookies and cream
+#eee0b1
+Copper penny
+#ad6f69
+Copper red
+#cb6d51
+Coral color (Sango-iro)
+#f8674f
+Coral reef
+#fd7c6e
+Coral Reef (Valspar Paint Color)
+#f6a494
+Corn-colored (Tōmorokoshi-iro)
+#faa945
+Cosmic cobalt
+#2e2d88
+Coyote brown
+#81613c
+Crystal
+#a7d8de
+Crystal blue
+#68a0b0
+Cyan (process)
+#00b7eb
+Cyan azure
+#4e82b4
+Cyan cobalt blue
+#28589c
+Cyan cornflower blue
+#188bc2
+Cyan-blue azure
+#4682bf
+Cyber grape
+#58427c
+Cyber yellow
+#ffd300
+Cyclamen
+#f56fa1
+Cypress bark color (Hihada-iro)
+#752e23
+Cypress bark red (Benihibata)
+#6f3028
+Dandelion (Crayola)
+#fddb6d
+Dark blue (Kon)
+#192236
+Dark blue lapis lazuli (Rurikon)
+#1b294b
+Dark blue-gray
+#666699
+Dark bronze
+#804a00
+Dark bronze (Coin)
+#514100
+Dark brown-tangelo
+#88654e
+Dark charcoal
+#333333
+Dark chocolate
+#490206
+Dark chocolate (Hershey's)
+#3c1321
+Dark cornflower blue
+#26428b
+Dark gold
+#aa6c39
+Dark gunmetal
+#1f262a
+Dark imperial blue
+#00147e
+Dark indigo (Futaai)
+#614e6e
+Dark lemon lime
+#8bbe1b
+Dark liver (horses)
+#543d37
+Dark moss green
+#4a5d23
+Dark Navy
+#02075d
+Dark puce
+#4f3a3c
+Dark purple
+#301934
+Dark red (Kurobeni)
+#23191e
+Dark silver
+#71706e
+Dark sky blue
+#8cbed6
+Dark vanilla
+#d1bea8
+Dark yellow
+#9b870c
+Dartmouth green
+#00703c
+Dawn-color (Akebono-iro)
+#fa7b62
+Daylily-colored (Kanzō-iro)
+#ff8936
+Decaying leaves color (Kuchiba-iro)
+#d57835
+Deep amethyst
+#9c8aa4
+Deep dumpling
+#9b351b
+Deep green
+#056608
+Deep green-cyan turquoise
+#0e7c61
+Deep koamaru
+#333366
+Deep maroon
+#820000
+Deep mauve
+#d473d4
+Deep puce
+#a95c68
+Deep purple (Kokimurasaki)
+#3a243b
+Deep red
+#850101
+Deep ruby
+#843f5b
+Deep scarlet (Kokiake)
+#7b3b3a
+Deep Space Sparkle
+#4a646c
+Deep taupe
+#7e5e60
+Deep violet
+#330066
+Deer
+#ba8759
+Delicate girl blue
+#6ab2ca
+Denim blue
+#2243b6
+Desaturated cyan
+#669999
+Desire
+#ea3c53
+Diamond
+#b9f2ff
+Dingy Dungeon
+#c53151
+Dirt
+#9b7653
+Dirty brown
+#b5651e
+Dirty white
+#e8e4c9
+Disappearing purple (Metsushi)
+#3f313a
+Dodie yellow
+#fef65b
+Dolphin gray
+#828e84
+Douban Blue
+#2496cd
+Douban Green
+#2e963d
+Douban Light Yellow
+#f7c58e
+Dove feather grey (Hatobanezumi)
+#755d5b
+Dull blue (Aonibi)
+#4f4944
+Durian
+#b07939
+Durian White
+#e6d0ab
+Durian Yellow
+#e1bd27
+Dust storm
+#e5ccc9
+Dutch white
+#efdfbb
+Dyestalk red (lit. the color from dying with the stalk of the beni plant) (Bengara-iro)
+#913225
+Earthtone
+#5d3a1a
+Ebony
+#555d50
+Eerie black
+#1b1b1b
+Egg-colored (Tamago-iro)
+#ffa631
+Eggshell paper-colored (Torinoko-iro)
+#e2be9f
+Elderberry
+#17182b
+Electric brown
+#b56257
+Electric orange
+#ff3503
+Electric pink
+#f62681
+Electric yellow
+#ffff33
+Emerald green
+#046307
+Eminence
+#6c3082
+English lavender
+#b48395
+English red
+#ab4b52
+English vermillion
+#cc474b
+English violet
+#563c5c
+Eucalyptus
+#44d7a8
+Facebook Blue
+#39569c
+Faded Sen no Rikyu's tea (Rikyūshiracha)
+#b0927a
+Faded spicy red-brown (Sōdenkaracha)
+#9b533f
+Fake purple (Nisemurasaki)
+#43242a
+Fandango pink
+#de5285
+Fiery rose
+#ff5470
+Finch-brown (Cardueline finch) (Hiwacha)
+#957b38
+Fire opal
+#e95c4b
+Flesh
+#ffe9d1
+Flickr Blue
+#216bd6
+Flickr Pink
+#fb0081
+Flirt
+#a2006d
+Flirtatious indigo tea (Aikobicha)
+#473f2d
+Floral leaf-colored (Hanaba-iro or kayou-iro)
+#ffb94e
+Flower girl
+#f498ad
+Fluorescent blue
+#15f4ee
+Foreign crimson (Karakurenai)
+#c91f37
+Forest green (Crayola)
+#5fa777
+Fox-color (Kitsune-iro)
+#985629
+French bistre
+#856d4d
+French lime
+#9efd38
+French pink
+#fd6c9e
+French plum
+#811453
+French puce
+#4e1609
+French raspberry
+#c72c48
+French sky blue
+#77b5fe
+French violet
+#8806ce
+French wine
+#ac1e44
+Fresh Air
+#a6e7ff
+Fresh onion (Moegi)
+#5b8930
+Frostbite
+#e936a7
+Gamboge (Tōō)
+#ffb61e
+Gamboge orange (brown)
+#996600
+Gargoyle Gas
+#ffdf46
+Garnet
+#733635
+Generic viridian
+#007f66
+Giant's Club
+#b05c52
+Giants orange
+#fe5a1d
+Gin
+#d8e4bc
+Glazed persimmon (Terigaki)
+#d34e36
+Glossy grape
+#ab92b3
+GO green
+#00ab66
+Gold
+#a57c00
+Gold (metallic)
+#d4af37
+Gold foil
+#bd9b16
+Gold Fusion
+#85754e
+Gold-brown (Yamabukicha)
+#cb7e1f
+Golden brown (Kincha)
+#c66b27
+Golden fallen leaves (Kikuchiba)
+#e29c45
+Golden oak (Kitsurubami)
+#bb8141
+Golden yellow (and a particular rose varietal) (Yamabuki-iro)
+#ffa400
+Golden-grey bamboo (dried and weathered) (Kinsusutake)
+#7d4e2d
+Google Chrome blue
+#4c8bf5
+Google Chrome green
+#1aa260
+Google Chrome red
+#de5246
+Google Chrome yellow
+#ffce44
+Goryeo storeroom (Kōrainando)
+#203838
+Granite gray
+#676767
+Grape
+#6f2da8
+Grape mouse (Budōnezumi)
+#63424b
+Green
+#008001
+Green (Crayola)
+#1cac78
+Green (Midori)
+#2a603b
+Green (Munsell)
+#00a877
+Green (NCS)
+#009f6b
+Green (Pantone)
+#00ad43
+Green (pigment)
+#00a550
+Green (RYB)
+#66b032
+Green bamboo color (Aotake-iro)
+#006442
+Green Cola
+#4c721d
+Green Lizard
+#a7f432
+Green Sheen
+#6eaea1
+Green slime
+#65ff00
+Green tea-colored (Sencha-iro)
+#824b35
+Green-blue (Crayola)
+#2887c8
+Green-cyan
+#009966
+Green-yellow (Crayola)
+#f0e891
+Greenfinch color (Hiwa-iro)
+#bda928
+Greyed red (lit. silvered red) (Ginshu)
+#bc2d29
+Greyish dark green (Rikyūnezumi)
+#656255
+Gunmetal
+#2a3439
+Guyabano
+#f8f8f8
+Half color (Hashita-iro)
+#8d608c
+Halloween orange
+#eb6123
+Harbor rat (Minatonezumi)
+#757d75
+Harlequin green
+#46cb18
+Harmonious rose
+#f29cb7
+Hawaii blue
+#00c3e3
+Heat Wave
+#ff7a00
+Heliotrope magenta
+#aa00bb
+Honolulu blue
+#006db0
+Horsetail color (Tokusa-iro)
+#3d5d42
+Huawei Red
+#cf0a2c
+Huawei Red (1987-2018)
+#ed1c24
+Ibis wing color (Tokiha-iro)
+#f58f84
+Iceberg
+#71a6d2
+Iced tea
+#923c01
+Illuminating emerald
+#319177
+Imperial
+#602f6b
+Imperial red
+#ed2939
+Independence
+#4c516d
+Indigo (rainbow)
+#233067
+Indigo Codium fragile seaweed brown (Aimirucha)
+#2e372e
+Indigo dye
+#091f92
+Indigo ink brown (Aisumicha)
+#393432
+Indigo white (Aijiro)
+#ebf6f7
+Infra red
+#ff496c
+Ink color (Sumi-iro)
+#27221f
+Insect screen (Mushiao)
+#2d4436
+Inside of a bottle (Kamenozoki)
+#c6c2b6
+Interdimensional blue
+#360ccc
+International orange (Golden Gate Bridge)
+#c0362c
+Iris color (Ayame-iro)
+#763568
+Iron
+#a19d94
+Iron color (Tetsu-iro)
+#2b3733
+Iron head flower color (Noshimehana-iro)
+#344d56
+Iron storage (Tetsuonando)
+#2b3736
+Italian ice
+#e9f6ef
+Italian leather
+#635a52
+Italian roast
+#906652
+Iwai brown (Iwaicha)
+#5e5545
+Jacarta
+#3d325d
+Jacko bean
+#413628
+Japanese carmine
+#9d2933
+Japanese indigo
+#264348
+Japanese iris and sooty bamboo (Higosusutake)
+#7f5d3b
+Japanese laurel
+#2f7532
+Japanese triandra grass (Themeda japonica) (Kariyasu)
+#e2b13c
+Japanese violet
+#5b3256
+Jasper orange
+#de8f4e
+Jelly bean
+#da614e
+Jelly bean blue
+#44798e
+Jet
+#343434
+Jet stream
+#bbd0c9
+Jonquil
+#f4ca16
+Jordy blue
+#8ab9f1
+Kenyan copper
+#7c1c05
+Keppel
+#3ab09e
+Key lime
+#e8f48c
+Kimono storage (Omeshionando)
+#3d4c51
+Kiwi
+#8ee53f
+Kobi
+#e79fc4
+Kombu green
+#354230
+KSU purple
+#512888
+Kumquat
+#fb9912
+Lanzones
+#e0bc5b
+Lapis lazuli color (Ruri-iro)
+#1f4788
+Legal dye (from when color use was regulated by class) (Kenpōzome)
+#2e211b
+Lemon iced tea
+#bd3000
+Lemon lime
+#e3ff00
+Lemon lime
+#5cff67
+Lemon yellow (Crayola)
+#ffff9f
+Lenurple
+#ba93d8
+Liberty
+#545aa7
+Licorice
+#1a1110
+Light blue color (Asagi-iro)
+#48929b
+Light blue flower (Hanaasagi)
+#1d697c
+Light blue silk (Hanada)
+#044f67
+Light chocolate cosmos
+#551f2f
+Light cobalt blue
+#88ace0
+Light deep pink
+#ff5ccd
+Light French beige
+#c8ad7f
+Light gold
+#b29700
+Light grayish magenta
+#cc99cc
+Light hot pink
+#ffb3de
+Light magenta
+#ff80ff
+Light medium orchid
+#d39bcb
+Light orange
+#fed8b1
+Light orchid
+#e6a8d7
+Light periwinkle
+#c5cbe1
+Light red
+#ffcccb
+Light silver
+#d8d8d8
+Light yellow (Asagi)
+#f7bb7d
+Lilac Luster
+#ae98aa
+Lime pulp
+#d1e189
+Limerick
+#9dc209
+Linkedin Blue
+#0072b1
+Little boy blue
+#6ca0dc
+Little girl pink
+#f8b9d4
+Liver (dogs)
+#b86d29
+Liver (organ)
+#6c2e1f
+Liver chestnut
+#987456
+Long spring (season) color (Chōshun-iro)
+#b95754
+Loquat (tree) brown (Biwacha)
+#ab6134
+Lotion
+#fefdfa
+Lotion blue
+#15f2fd
+Lotion pink
+#eccfcf
+Lumber
+#ffe4cd
+Lychee
+#dc5349
+Lye-colored (Aku-iro)
+#7f6b5d
+Madder Lake
+#cc3336
+Magenta (dye)
+#ca1f7b
+Magenta (Pantone)
+#d0417e
+Magenta (process)
+#ff0090
+Magenta haze
+#9f4576
+Magenta-pink
+#cc338b
+Magic Potion
+#ff4466
+Maize (Crayola)
+#f2c649
+Mandarin
+#f37a48
+Mango
+#fdbe02
+Mango green
+#96ff00
+Manila
+#e7c9a9
+Maple syrup
+#bb9351
+Mardi Gras
+#880085
+Margarine
+#f2d930
+Margarita
+#b0c24a
+Marigold
+#eaa221
+Maroon (Shrimp brown) (Ebicha)
+#5e2824
+Maximum blue
+#47abcc
+Maximum blue green
+#30bfbf
+Maximum blue purple
+#acace6
+Maximum green
+#5e8c31
+Maximum green yellow
+#d9e650
+Maximum orange
+#ff5b00
+Maximum purple
+#733380
+Maximum red
+#d92121
+Maximum red purple
+#a63a79
+Maximum yellow
+#fafa37
+Maximum yellow red
+#f2ba49
+May green
+#4c9141
+Meat-color (Shishi-iro)
+#f9906f
+Medium crimson (dye) (Nakabeni)
+#c93756
+Medium ruby
+#aa4069
+Medium sky blue
+#80daeb
+Medium vermilion
+#d9603b
+Mellow apricot
+#f8b878
+Melon
+#febaad
+Menthol
+#c1f9a2
+Metallic blue
+#32527b
+Metallic bronze
+#a97142
+Metallic brown
+#ac4313
+Metallic green
+#296e01
+Metallic orange
+#da680f
+Metallic pink
+#eda6c4
+Metallic red
+#a62c2b
+Metallic Seaweed
+#0a7e8c
+Metallic Sunburst
+#9c7c38
+Metallic violet
+#5b0a91
+Metallic yellow
+#fdcc0d
+Mexican pink
+#e4007c
+Microsoft blue
+#00a2ed
+Microsoft Edge blue
+#0078d7
+Microsoft green
+#7db700
+Microsoft red
+#f04e1f
+Microsoft yellow
+#fdb900
+Middle blue
+#7ed4e6
+Middle blue green
+#8dd9cc
+Middle blue purple
+#8b72be
+Middle green
+#4d8c57
+Middle green yellow
+#acbf60
+Middle grey
+#8b8680
+Middle purple
+#d982b5
+Middle red
+#e58e73
+Middle red purple
+#a55353
+Middle yellow
+#ffeb00
+Middle yellow red
+#ecb176
+Midnight
+#702670
+Midnight blue
+#00468c
+Milk
+#fdfff5
+Milk chocolate
+#84563c
+Mimi pink
+#ffdae9
+Mindaro
+#e3f988
+Ming
+#36747d
+Minion yellow
+#f5e050
+Misty moss
+#bbb477
+Mocha
+#bea493
+Moonstone
+#3aa8c1
+Morning blue
+#8da399
+Moss color (Koke-iro)
+#8b7d3a
+Moss green
+#8a9a5b
+Mousy indigo (Ainezumi)
+#5c544e
+Mousy wisteria (Fujinezumi)
+#766980
+Mud
+#70543e
+Muddy brown (lit. the brown of a distant river) (Enshūcha)
+#cb6649
+Mughal green
+#306030
+Mulberry (Crayola)
+#c8509b
+Mulberry dye (Kuwazome)
+#59292c
+Mulberry-dyed (Kuwazome)
+#c57f2e
+Mustard brown
+#cd7a00
+Mustard green
+#6e6e30
+Mustard yellow
+#e1ad01
+Myrtle green
+#317873
+Mystic
+#d65282
+Mystic maroon
+#ad4379
+Mystic red
+#ff5500
+Navy blue bellflower (Konkikyō)
+#191f45
+Neon blue
+#1b03a3
+Neon Fuchsia
+#fe4164
+New Car
+#214fc6
+New York pink
+#d7837f
+Nickel
+#727472
+Nightingale-brown (greenish brown) (Uguisucha)
+#5c4827
+Nintendo red
+#e4000f
+Nyanza
+#e9ffdb
+Ocean Blue
+#4f42b5
+Ocean green
+#48bf91
+Ochre (earthen yellow-red-brown) (Ōtan)
+#ff4e20
+Ochre (lit. earthen yellow) (Ōdo-iro)
+#be7f51
+Ogre Odor
+#fd5240
+Old bamboo color (Oitake-iro)
+#5e644f
+Old burgundy
+#43302e
+Old moss green
+#867e36
+Olive Drab #7
+#3c341f
+Olive green
+#b5b35c
+Onando color (Onando-iro)
+#364141
+One kin (0.6 kg) dye (Ikkonzome)
+#f08f90
+Onyx
+#353839
+Opal
+#a8c3bc
+Opera Red
+#ff1b2d
+Opposite flower color (Masuhana-iro)
+#4d646c
+Orange
+#ff6600
+Orange (color wheel)
+#ff7f00
+Orange (Crayola)
+#ff7538
+Orange (Pantone)
+#ff5800
+Orange (RYB)
+#fb9902
+Orange soda
+#fa5b3d
+Orange soda
+#eb593d
+Orange-red
+#ff681f
+Orange-yellow
+#f5bd1f
+Orchid (Crayola)
+#e29cd2
+Orchid pink
+#f2bdcd
+Orioles orange
+#fb4f14
+OU Crimson red
+#841617
+Outer space (Crayola)
+#2d383a
+Overdyed/refreshed red-brown (Sohi)
+#e35c38
+Oxley
+#6d9a79
+Painite
+#6b4947
+Pale blue (Usuao)
+#8c9c76
+Pale Cyan
+#87d3f8
+Pale fallen leaves (Aokuchiba)
+#aa8736
+Pale green onion (Mizuasagi)
+#749f8d
+Pale incense (Usukō)
+#ffa565
+Pale Magenta-Pink
+#ff99cc
+Pale oak (Aoshirotsurubami)
+#bba46d
+Pale persimmon (Usugaki)
+#fca474
+Pale purple (Pantone)
+#fae6fa
+Pale Violet
+#cc99ff
+Pale young green onion (Usumoegi)
+#8db255
+Palm Leaf
+#6f9940
+Panasonic blue
+#0040be
+Paolo Veronese green
+#009b7d
+Paradise pink
+#e63e62
+Parakeet Blue
+#7eb6ff
+Parrot Pink
+#d998a0
+Pastel pink
+#dea5a4
+Patina (Rokushō)
+#407a52
+Patrinia flowers (Patrinia scabiosaefolia) (Ominaeshi)
+#d9b611
+Peach Burst
+#f39998
+Peach-colored (Momo-iro)
+#f47983
+Peach-orange
+#ffcc99
+Pearly purple
+#b768a2
+Penguin White
+#f5f3ef
+Permanent Geranium Lake
+#e12c2c
+Persian green
+#00a693
+Persimmon
+#ec5800
+Persimmon-juice color (Kakishibu-iro)
+#934337
+Pewter Blue
+#8ba8b7
+Philippine blue
+#0038a7
+Philippine bronze
+#6e3a07
+Philippine brown
+#5d1916
+Philippine gold
+#b17304
+Philippine gray
+#8c8c8c
+Philippine green
+#008543
+Philippine pink
+#fa1a8e
+Philippine red
+#ce1127
+Philippine silver
+#b3b3b3
+Philippine violet
+#81007f
+Philippine yellow
+#fecb00
+Picton blue
+#45b1e8
+Pictorial carmine
+#c30b4e
+Pine needle color (Matsuba-iro)
+#454d32
+Pine tree
+#2a2f23
+Pineapple
+#563c0d
+Pink (Pantone)
+#d74894
+Pink lace
+#ffddf4
+Pink lavender
+#d8b2d1
+Pink raspberry
+#980036
+Pixie Powder
+#391285
+Plain mouse (Sunezumi)
+#6e5f57
+Plum purple (Umemurasaki)
+#8f4155
+Plum-blossom mouse (Umenezumi)
+#97645a
+Plum-dyed (Umezome)
+#fa9258
+Plump Purple
+#5946b2
+Poker Green
+#35654d
+Polished brown (Tonocha)
+#985538
+Polished Pine
+#5da493
+Pomegranate
+#660c21
+Pomelo
+#96a53c
+Pomelo Olive
+#bfbd70
+Pomelo White
+#f9ffe3
+Poppy Petal
+#f6a08c
+Popstar
+#be4f62
+Porcupine
+#936900
+Princess Perfume
+#ff85cf
+Princeton orange
+#f58025
+Prussian blue color (Konjō-iro)
+#003171
+Pullman Brown (UPS Brown)
+#644117
+Pullman Green
+#3b331c
+Pure crimson (dye) (Akabeni)
+#c3272b
+Purple (Munsell)
+#9f00c5
+Purple (Murasaki)
+#4f284b
+Purple kite (Murasakitobi)
+#512c31
+Purple navy
+#4e5180
+Purple Plum
+#9c51b6
+Purpureus
+#9a4eae
+Quartz
+#51484f
+Queen blue
+#436b95
+Queen pink
+#e8ccd7
+Quick Silver
+#a6a6a6
+Quinacridone magenta
+#8e3a59
+Quincy
+#6a5445
+Rabbit-ear iris (Kakitsubata)
+#491e3c
+Raisin black
+#242124
+Rajah
+#fbab60
+Rambutan
+#c71232
+Rambutan Red
+#a72127
+Rape-blossom brown (Nanohanacha)
+#e3b130
+Rapeseed oil-colored (Nataneyu-iro)
+#a17917
+Raw umber
+#826644
+Razzmic Berry
+#8d4e85
+Rebecca Purple
+#663399
+Red (Crayola)
+#ee204d
+Red (Munsell)
+#f2003c
+Red (NCS)
+#c40233
+Red (RYB)
+#fe2712
+Red bean color (Azuki-iro)
+#672422
+Red birch (Benikaba)
+#9d2b22
+Red cola
+#b62020
+Red devil
+#860111
+Red incense-colored (Akakō-iro)
+#f07f5e
+Red kite (bird species) (Benitobi)
+#913228
+Red ochre color (Taisha-iro)
+#9f5233
+Red plum colored (Kōbai-iro)
+#db5a6b
+Red Salsa
+#fd3a4a
+Red wisteria (Benifuji)
+#bb7796
+Red-bronze (lit. red dye and turmeric) (Beniukon)
+#fb8136
+Red-brown (Edo brown) (Edocha)
+#a13d2d
+Red-brown (lit. chestnut-plum) (Kiriume)
+#8b352d
+Red-orange (lit. orangutan-colored) (Shōjōhi)
+#dc3023
+Red-violet (Color wheel)
+#922b3e
+Red-violet (Crayola)
+#c0448f
+Redwood
+#a45a52
+Regalia
+#522d80
+Resolution blue
+#002387
+Rhythm
+#777696
+Rich black (FOGRA29)
+#010b13
+Rich black (FOGRA39)
+#010203
+Rich brilliant lavender
+#f1a7fe
+Rich gardenia (Kokikuchinashi)
+#f57f4f
+Rich lavender
+#a76bcf
+Rifle green
+#444c38
+Rikan brown (Rikancha)
+#534a32
+Rinsed-out red (Araishu)
+#ff7952
+Ripe mango
+#ffc324
+Rocket metallic
+#8a7f80
+Roman silver
+#838996
+Root beer
+#290e05
+Rose Dust
+#9e5e6f
+Rose ebony
+#674846
+Rose garnet
+#960145
+Rose quartz pink
+#bd559c
+Rose red
+#c21e56
+Royal blue (dark)
+#002366
+Royal brown
+#523b35
+Royal green
+#136207
+Royal orange
+#f99245
+Royal pink
+#e73895
+Royal red
+#d00060
+Royal red
+#9b1c31
+Ruber
+#ce4676
+Rubine red
+#d10056
+Ruby red
+#9b111e
+Rum
+#716675
+Russian green
+#679267
+Russian violet
+#32174d
+Rusted light-blue (Sabiasagi)
+#6a7f7a
+Rusty celadon (Sabiseiji)
+#898a74
+Rusty red
+#da2c43
+Rusty storage (Sabionando)
+#455859
+Rusty storeroom (Sabitetsuonando)
+#3a403b
+Sacramento State green
+#043927
+Safety orange
+#ff7800
+Safety yellow
+#eed202
+Safflower color (Benikakehana-iro)
+#5a4f74
+Sage
+#bcb88a
+Salmon Rose
+#e7968b
+Samsung blue
+#12279e
+Sandy Tan
+#fdd9b5
+Sangria
+#92000a
+Sappanwood (Suō)
+#7e2639
+Sappanwood incense (Suōkō)
+#a24f46
+Sasquatch Socks
+#ff4681
+Sawtooth oak (Akashirotsurubami)
+#ec956c
+Scarlet (blood) (Ake)
+#cf3a24
+Scorched brown (Kogecha)
+#351f19
+Screamin' Green
+#66ff66
+Sea Foam Green
+#9fe2bf
+Sea green (Crayola)
+#00ffcd
+Sea Serpent
+#4bc7cf
+Seal brown
+#59260b
+Sen no Rikyu's tea (Rikyūcha)
+#826b58
+Sesame Street Green
+#00a870
+Shadow blue
+#778ba5
+Shampoo
+#ffcff1
+Shandy
+#ffe670
+Sheen green
+#8fd400
+Shimmering Blush
+#d98695
+Shiny Shamrock
+#5fa778
+Silk crepe brown (Omeshicha)
+#354e4b
+Silver (Metallic)
+#aaa9ad
+Silver chalice
+#acacac
+Silver foil
+#afb1ae
+Silver Lake blue
+#5d89ba
+Silver pink
+#c4aead
+Silver sand
+#bfc1c2
+Silver-grey (Ginnezumi)
+#97867c
+Simmered seaweed (Mirucha)
+#4c3d30
+Siskin sprout yellow (Hiwamoegi)
+#7a942e
+Sizzling Red
+#ff3855
+Sizzling Sunrise
+#ffdb00
+Sky blue (Crayola)
+#76d7ea
+Sky Blue color (Sora-iro)
+#4d8fac
+Slimy green
+#299617
+Smashed Pumpkin
+#ff6d3a
+Smitten
+#c84186
+Smoke
+#738276
+Smokey Topaz
+#832a0d
+Soap
+#cec8ef
+Soldier Green
+#545a2c
+Solid pink
+#893843
+Sonic silver
+#757575
+Sooty willow bamboo (Yanagisusutake)
+#4d4b3a
+Space cadet
+#1d2951
+Spanish bistre
+#807532
+Spanish blue
+#0070b8
+Spanish carmine
+#d10047
+Spanish crimson
+#e51a4c
+Spanish gray
+#989898
+Spanish orange
+#e86100
+Spanish pink
+#f7bfbe
+Spanish purple
+#66033c
+Spanish red
+#e60026
+Spanish violet
+#4c2882
+Spanish viridian
+#007f5c
+Spanish yellow
+#f6b511
+Sparrow-brown (Suzumecha)
+#8c4736
+Spartan Crimson
+#9e1316
+Spicy mix
+#8b5f4d
+Spicy red-brown (Chinese tea brown) (Karacha)
+#b35c44
+Sponge
+#fdfe03
+Spring Frost
+#87ff2a
+Sprint Red
+#ec2131
+Sprint Yellow
+#ffdd05
+Stained red (Benimidori)
+#78779b
+Star command blue
+#007bb8
+Steamed chestnut color (Mushikuri-iro)
+#d3b17d
+Steel pink
+#cc33cc
+Steel Teal
+#5f8a8b
+Stone Terrace
+#a09484
+Stop red
+#cf142b
+Storeroom brown (Onandocha)
+#3d4035
+Stormcloud
+#4f666a
+Strawberry
+#fc5a8d
+Strawberry Daiquiri
+#d9463e
+Strawberry Jam
+#8b171a
+Strawberry red
+#c83f49
+Strong boy pink
+#e9399e
+Stylish persimmon (Sharegaki)
+#ffa26b
+Sugar Plum
+#914e75
+Sumac-dyed (Hajizome)
+#e08a1e
+Sumac-dyed (Kōrozen)
+#592b1f
+Sunburnt Cyclops
+#ff404c
+Sunny
+#f2f27a
+Sunray
+#e3ab57
+Sunset Yellow
+#ffc922
+Super pink
+#cf6ba9
+Sweet Brown
+#a83731
+Sweet Sixteen
+#f29eab
+Tan (Crayola)
+#d99a6c
+Taobao Orange
+#ff4200
+Tardis blue
+#003b6f
+Tart Orange
+#fb4d46
+Tatarian aster color (Shion-iro)
+#976e9a
+Teal deer
+#99e6b3
+Teal green
+#00827f
+Telemagenta
+#cf3476
+Temptress
+#3c2126
+The color of an undried wall (Namakabe-iro)
+#785e49
+Thin color (Usu-iro)
+#a87ca0
+Thistle (Crayola)
+#ebb0d7
+Thousand herb color (Chigusa-iro)
+#317589
+Thousand year old brown (Sensaicha)
+#3b3429
+Thousand year old green (Sensaimidori)
+#374231
+Thrice-dyed crimson (Jinzamomi)
+#f7665a
+Titanium
+#878681
+Tomato sauce
+#b21807
+Tree peony (Bōtan)
+#a4345d
+Tropical violet
+#cda4de
+True Blue
+#0073cf
+True red (Shinshu)
+#8f1d21
+Tulip
+#ff878d
+Turmeric-colored (Ukon-iro)
+#e69b3a
+Turquoise Surf
+#00c5cd
+Tuscan red
+#7c4848
+Tuscany
+#c09999
+Twitter blue
+#26a7de
+Ucla Blue
+#536895
+Ucla Gold
+#ffb300
+UE red
+#ba0001
+Ultramarine color (Gunjō-iro)
+#5d8cae
+Unbleached silk
+#ffddca
+Underside of willow leaves (Urahayanagi)
+#bcb58c
+University Of Tennessee Orange
+#f77f00
+USAFA blue
+#004f98
+Vampire black
+#080808
+Van Dyke brown
+#664228
+Vanilla ice
+#f38fa9
+Velvet (Birōdo)
+#224634
+Verizon Red
+#cd040b
+Verizon Red (2000-2015)
+#ec1c24
+Vermilion
+#d9381e
+Verse green
+#18880d
+Very light azure
+#74bbfb
+Very light blue
+#6666ff
+Very light tangelo
+#ffb077
+Very pale orange
+#ffdfbf
+Very pale yellow
+#ffffbf
+Vine grape (Ebizome)
+#6d2b50
+Vine Green
+#38a32a
+Violet (crayola)
+#963d7f
+Violet (RYB)
+#8601af
+Violet-blue (Crayola)
+#766ec8
+Violet-red
+#891446
+Violets Are Blue
+#8366f4
+Violin Brown
+#674403
+Viridian green
+#009698
+Vista blue
+#7c9ed9
+Vivaldi Red
+#ef3939
+Vivid cerulean
+#00aaee
+Vivid crimson
+#cc0033
+Vivid lime green
+#a6d608
+Vivid malachite
+#00cc33
+Vivid mulberry
+#b80ce3
+Vivid orange
+#ff5f00
+Vivid orange peel
+#ffa000
+Vivid orchid
+#cc00ff
+Vivid raspberry
+#ff006c
+Vivid red
+#f70d1a
+Vivid red-tangelo
+#df6124
+Vivid sky blue
+#00ccff
+Vivid tangelo
+#f07427
+Vivid vermilion
+#e56024
+Vivid yellow
+#ffe302
+Vodka
+#bfc0ee
+Volt
+#ceff00
+Wageningen Green
+#34b233
+Walnut-dyed (Kurumizome)
+#9f7462
+Washed-out crimson (dye) (Arazome)
+#ffb3a7
+Washed-out persimmon (Araigaki)
+#ec8254
+Water
+#d4f1f9
+Water persimmon (Mizugaki)
+#b56c60
+Watermelon Yellow
+#eeff1b
+Weathered bamboo (lit. "sooty") (Susutake-iro)
+#593a27
+Weebly Blue
+#1f8eed
+Weebly Orange
+#ff9a00
+Weldon Blue
+#7c98ab
+White chocolate
+#ede6d6
+White coffee
+#e6e0d4
+White mouse (Shironezumi)
+#b9a193
+White oak (Shirotsurubami)
+#ce9f6f
+White tea-colored (Shiracha)
+#c48e69
+Whitish green (Byakuroku)
+#a5ba93
+Wild orchid
+#d470a2
+Willow dye (Yanagizome)
+#8c9e5e
+Willow grey (Yanaginezumi)
+#817b69
+Willow tea (Yanagicha)
+#9c8a4d
+Willpower orange
+#fd5800
+Wilted brown (lit. wilted lawn-clippings) (Shikancha)
+#ab4c3d
+Windsor tan
+#a75502
+Wine red
+#b11226
+Winter Sky
+#ff007c
+Winter Wizard
+#a0e6ff
+Wintergreen Dream
+#56887d
+Wisteria and burnt-bamboo (Fujisusutake)
+#4d3b3c
+Wisteria color (Fuji-iro)
+#89729e
+Wisteria purple (Fujimurasaki)
+#875f9a
+Xbox Green
+#0e7a0d
+Xiaomi Orange
+#fd4900
+Yale Blue
+#0f4d92
+Yankees blue
+#1c2841
+Yellow (Crayola)
+#fce883
+Yellow (Munsell)
+#efcc00
+Yellow (Pantone)
+#fedf00
+Yellow (RYB)
+#fefe33
+Yellow Orange (Color Wheel)
+#ff9505
+Yellow rose
+#fff000
+Yellow Sea pine-brown (Kimirucha)
+#896c39
+Yellow-green (Color Wheel)
+#30b21a
+Yellow-green (Crayola)
+#c5e384
+YInMn Blue
+#2e5090
+Young bamboo color (Wakatake-iro)
+#6b9362
+Youtube red
+#b2071d
+Zinnwaldite
+#ebc2af
+Zomp
+#39a78e
