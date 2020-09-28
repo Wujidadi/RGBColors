@@ -521,7 +521,7 @@ class RGBColors
     /// 藍紫羅蘭色（繪兒樂）
     static RGBColor blueVioletCrayola = RGBColor(r: 115, g: 102, b: 189);
 
-    /// 藍色彼方
+    /// 彼方藍
     static RGBColor blueYonder = RGBColor(r: 80, g: 114, b: 167);
 
     /// 藍莓色
