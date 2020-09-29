@@ -10,9 +10,12 @@ $Json = file_get_contents('../data/RGBColor.json');
 
 $Colors = json_decode($Json, true);
 
+$Version = '2020.09.28.05.04.31';
+
 $Lines = [
-    "import 'package:inappwebview_test/helpers/rgbColor.dart';",    // 應隨實際專案名稱、路徑而調整
+    "import 'rgbColor.dart';",      // 使用時，應隨實際專案名稱、路徑而調整
     '',
+    "/// RGB 顏色集（版本：{$Version}）",
     'class RGBColors',
     '{'
 ];
@@ -32,6 +35,6 @@ $Lines[] = '';
 
 $Full = implode("\n", $Lines);
 
-file_put_contents('../rgbColors.dart', $Full);
+file_put_contents('../dart/rgbColors.dart', $Full);
 
 exit;

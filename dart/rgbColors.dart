@@ -1,5 +1,6 @@
-import 'package:inappwebview_test/helpers/rgbColor.dart';
+import 'rgbColor.dart';
 
+/// RGB 顏色集（版本：2020.09.28.05.04.31）
 class RGBColors
 {
     /// 絕對零度
